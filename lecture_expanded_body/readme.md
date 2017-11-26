@@ -50,9 +50,11 @@ Around 1915, [**Frank** (1868-1924) and **Lillian Gilbreth** (1878-1972)](https:
 
 American choreographer [**William Forsythe**](https://en.wikipedia.org/wiki/William_Forsythe_(choreographer)) (born 1949) served as artistic director of the Frankfurt Ballet from 1984 until 2004. Recognized for the integration of ballet and visual arts, he brought about a "shift of paradigms in contemporary dance", through a combination of abstraction and forceful theatricality. In 1999, Forsythe released "[Improvisation Technologies](https://www.youtube.com/user/GrandpaSafari/videos)", a CD-ROM that detailed his vision of choreography as an organizational practice. The disc consists of short videos that explain fundamental primitives, as Forsythe sees them, of human movement and the language of dance. These are illustrated through (2D) white lines that have been hand-rotoscoped onto the video. Despite their formal and  techical simplicity, the results are extremely compelling. 
 
-[![](images/william_forsythe_improvisation_technologies_anim.gif)](https://www.youtube.com/watch?v=6X29OjcBHG8)
+[*"Point Point Line"*](https://www.youtube.com/watch?v=6X29OjcBHG8) by William Forsythe<br />
+[![Point Point Line](images/william_forsythe_improvisation_technologies_anim.gif)](https://www.youtube.com/watch?v=6X29OjcBHG8)
 
-[![](images/william_forsythe_improvisation_technologies2_anim.gif)](https://www.youtube.com/watch?v=_zt95yXWLX4)
+[*"Dropping Curves"*](https://www.youtube.com/watch?v=_zt95yXWLX4) by William Forsythe<br />
+[![Dropping Curves](images/william_forsythe_improvisation_technologies2_anim.gif)](https://www.youtube.com/watch?v=_zt95yXWLX4)
 
 <hr />
 
@@ -141,7 +143,7 @@ Rebecca Allen made significant leaps in the representation and animation of the 
 [*Moodles*](https://vimeo.com/240466644) by [Ari Weinkle](http://ariweinkle.com/) (2017) is a series of short animations, in which a human form is undone through expressive transformations that metaphorically represent various emotions.<br />
 [![Moodles](images/moodles_anim.gif)](https://vimeo.com/240466644)<br />
 
-[*GVoxelizer*](https://twitter.com/_kzr/status/925379137203617792) by Keijiro Takahashi (2017)
+[*GVoxelizer*](https://twitter.com/_kzr/status/925379137203617792) by Keijiro Takahashi (2017)<br />
 [![GVoxelizer](images/keijiro_takahashi_anim‏.gif)](https://twitter.com/_kzr/status/925379137203617792)<br />
 [More](https://twitter.com/_kzr/status/929634393424986113) & [more](https://twitter.com/_kzr/status/927544770968162304) works by Takahashi.
 
