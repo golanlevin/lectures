@@ -54,7 +54,8 @@ American choreographer [**William Forsythe**](https://en.wikipedia.org/wiki/Will
 
 [![](images/william_forsythe_improvisation_technologies2_anim.gif)](https://www.youtube.com/watch?v=_zt95yXWLX4)
 
---
+<hr />
+
 ### Augmentation of the Human Form in Visual Modernism: <br />Cubism, Futurism, Bauhaus, and Beyond
 
 Chronophotography influenced the ideas and visual languages of early modernist art movements. *Cubists* were interested in how painting could deconstruct and represent dynamic subjects. *Futurists* were interested in how artworks could valorize the speed and kinetics of the 20th century. Artists and designers in the German *Bauhaus* were interested in understanding the foundational principles underlying the structural elements of form, color, and movement. 
@@ -91,7 +92,7 @@ More recently, we can see formally inventive, evocative, yet subdued abstraction
 *Domain Field* (2004) by Antony Gormley:<br />
 [![Antony Gormley](images/antony_gormley_domain_field_2004.jpg)](http://balticplus.uk/antony-gormley-domain-field-allotment-body,-fruit,-earth-e31/)
 
---
+<hr />
 
 ### The (Digital) Human Form
 
@@ -189,7 +190,7 @@ Animator **David Lewandowski** brought a 'rubber man' to life, after experiencin
 "*Goodbye Uncanny Valley*" by Alan Warburton (2017) is an excellent insider's view on where we stand now, in relation to the computer's capacity for photorealism. <br />
 [![Goodbye Uncanny Valley by Alan Warburton](images/warburton.png)](https://vimeo.com/237568588)
 
---
+<hr />
 
 ### Example Studies by CMU Undergraduate Students
 
