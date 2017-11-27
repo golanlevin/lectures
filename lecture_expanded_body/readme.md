@@ -1,6 +1,9 @@
-## Extrapolating the Human Form<br />
+## Extrapolating the Dynamic Human Form<br />
+
+Version: 26 November 2017
 
 *Over the past 150 years, a variety of scientific and artistic work has sought creative new ways of understanding, visualizing, and expanding our concept of the dynamic human form. This work has operated both analytically and expressively — often with the aid of new technologies (such as cinema and computers) and new languages (such as visual abstraction).* 
+
 
 ### Precursors: Chronophotography
 
@@ -180,6 +183,18 @@ Some other recommended works by Kyttenjanae include: <br />
 - [https://www.instagram.com/p/BFcuOWDRQd8/](https://www.instagram.com/p/BFcuOWDRQd8/)
 - [https://www.instagram.com/p/BEpZAgARQZK/](https://www.instagram.com/p/BEpZAgARQZK/)
 - [https://www.instagram.com/p/BEmWsF2xQZb/](https://www.instagram.com/p/BEmWsF2xQZb/)
+
+Freelance motion graphics designer [**Esteban Diacono**](https://www.instagram.com/_estebandiacono/) maintains an active Instagram account. His imaginative transformations of the motion-captured human form are distinguished by their use of physics (especially of non-human materials) as an augmentation strategy. 
+[![Esteban Diacono](images/estebandiacono_anim1.gif)](https://www.instagram.com/p/BXXo9PDhQ9Y/)
+[![Esteban Diacono](images/estebandiacono_anim2.gif)](https://www.instagram.com/p/BV-QESRhrOu/)
+
+Some more works by Esteban Diacono:
+
+- [https://www.instagram.com/p/BaWd_5EBaOs/](https://www.instagram.com/p/BaWd_5EBaOs/)
+- [https://www.instagram.com/p/BWup770hQYK/](https://www.instagram.com/p/BWup770hQYK/)
+- [https://www.instagram.com/p/BZQvCO3BPQD/](https://www.instagram.com/p/BZQvCO3BPQD/)
+- [https://www.instagram.com/p/BV4voEhhrMe/](https://www.instagram.com/p/BV4voEhhrMe/)
+
 
 Animator **David Lewandowski** brought a 'rubber man' to life, after experiencing CGI malfunctions while doing digital effects in Hollywood. Lewandowski [explains](https://www.fastcompany.com/3021356/the-vfx-wiz-behind-youtubes-viral-rubber-man-on-the-beauty-of-horrible-mistakes), “If rigs get bound to the facial geometry just a few units off center, the character’s face explodes. His eyeballs go one mile in one direction, the back of his head goes one mile in the other direction, and the photo-realistic teeth stay in place talking to the camera, married to the audio. The other animators would go ‘delete delete delete’ but I thought that stuff was hysterical.” During the year he spent animating Tron: Legacy, Lewandowski became increasingly captivated with VFX screw-ups. “As I explored how things go wrong in character animation, I realized there might be an appetite for things that break in these beautiful and grotesque ways.”
 
