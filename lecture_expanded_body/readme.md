@@ -101,7 +101,7 @@ More recently, we can see formally inventive, evocative, yet subdued abstraction
 William Fetter (1928-2002), a Boeing art director, *coined the term "computer graphics"* in a 1960 description of his work on cockpit design. In 1964 Fetter became the first person to draw a human figure using a computer. This figure is known as the "[Boeing Man](http://www.boeingimages.com/archive/William%20Fetter's%20Boeing%20Man-2F3XC5YCZNC.html)":<br />
 ![Fetter's Boeing Man](images/fetter_boeing_man.jpg)
 
-Although the Boeing Man was plotted in different positions, no film animation is known to exist.<br />
+Although the 3D Boeing Man was plotted in different positions, no film animation is known to exist.<br />
 ![Fetter's Boeing Man](images/fetter_boeing_man2.jpg)
 
 The [first computer-generated 3D animation](https://www.youtube.com/watch?v=wdedV81UQ5k) is believed to have been created in 1972 at the University of Utah by Frank Parke and Ed Catmull, one of the founders of Pixar. It is a study of a human hand, whose dimensions were captured from a plaster model with a position measuring device.<br />
@@ -109,7 +109,7 @@ The [first computer-generated 3D animation](https://www.youtube.com/watch?v=wded
 
 [**Rebecca Allen**](http://www.rebeccaallen.com) (born 1954) is a pioneering computer artist, known for creating 3D computer graphics, animation, music videos, video games, performance works, artificial life systems, multisensory interfaces, interactive installations, VR and mixed realities. In the early 1980s, Allen became known for developing new techniques for modeling and animating virtual human forms. 
 
-In 1982, Allen [created a dancing computer generated character](http://www.rebeccaallen.com/projects/catherine-wheel) who plays the role of St. Catherine in Twyla Tharp's 90 minute video dance piece, "[The Catherine Wheel](https://player.vimeo.com/video/122219667)", with music by David Byrne. This was one of the first examples of 3D computer generated human motion, and the first to be aired on television.<br />
+In 1982, Allen [created a dancing computer generated character](http://www.rebeccaallen.com/projects/catherine-wheel) who plays the role of St. Catherine in Twyla Tharp's 90 minute video dance piece, "[The Catherine Wheel](https://player.vimeo.com/video/122219667)", with music by David Byrne. This was one of the first examples of (full-body) 3D computer generated human motion, and the first to be aired on television.<br />
 [![Rebecca Allen, Catherine Wheel](images/rebecca_allen_catherine_wheel_1982_anim.gif)](https://player.vimeo.com/video/122219667)
 
 Rebecca Allen made significant leaps in the representation and animation of the human form in a [1986 music-video collaboration with Kraftwerk](https://vimeo.com/49165789), pioneers of the techno music idiom. As 3D scanners did not yet exist, Allen developed her own techniques for digitizing the heads of the four band members.<br />
@@ -164,9 +164,12 @@ Some other pertinent sketches by Zachary Lieberman include:<br />
 - [https://www.instagram.com/p/BHS98yIg17h/](https://www.instagram.com/p/BHS98yIg17h/)
 - [https://www.instagram.com/p/BHBKPsgAOA0/](https://www.instagram.com/p/BHBKPsgAOA0/)
 
+[*Study for Fifteen Points*](http://random-international.com/work/study-for-fifteen-points-i/) (2016), by the British art collective Random International, presents a translation from physical (walking) to digital data (via motion capture), and back again (to sculpture). The exploration experiments with the minimal amount of information that is actually necessary for an animated form to be recognized as human. <br />
+[![Study for Fifteen Points](images/random_international_walking_anim.gif)](http://www.thisiscolossal.com/2016/05/a-kinetic-sculpture-of-15-moving-leds-mimics-a-walking-person/)
+
 [Kristyn Janae Solie](http://kyttenjanae.tumblr.com/) (kyttenjanae) is a Los Angeles-based artist in her early 20s. She creates diverse and imaginative figurative work, including many AR sketches, [released primarily through Instagram](https://www.instagram.com/kyttenjanae/?hl=en). <br />
-![](images/kyttenjanae_anim1.gif)
-[![](images/kyttenjanae_anim2.gif)](https://www.instagram.com/p/BZC4pe3nSw2)
+![kyttenjanae](images/kyttenjanae_anim1.gif)
+[![kyttenjanae](images/kyttenjanae_anim2.gif)](https://www.instagram.com/p/BZC4pe3nSw2)
 
 Some other recommended works by Kyttenjanae include: <br />
 - [https://www.instagram.com/p/BNx8T5mjjr5/](https://www.instagram.com/p/BNx8T5mjjr5/)
