@@ -2,7 +2,7 @@
 
 Version: 26 November 2017
 
-*Over the past 150 years, a variety of scientific and artistic work has sought creative new ways of understanding, visualizing, and expanding our concept of the dynamic human form. This work has operated both analytically and expressively — often with the aid of new technologies (such as cinema and computers) and new languages (such as visual abstraction).* 
+*Over the past 150 years, a variety of scientific and artistic work has sought creative new ways of understanding, visualizing, and expanding our concept of the dynamic human form. This work has operated both analytically and expressively — often with the aid of new technologies (such as cinema and computers) and new languages (such as visual abstraction). This article compiles some chronologies of how the appearance and movement of the human form have been extended.* 
 
 
 ### Precursors: Chronophotography
@@ -88,7 +88,7 @@ Some more expressive and marvelously weird interpretations of the human form can
 Niki de Saint-Phalle in 1955:<br />
 ![Niki de Saint Phalle](images/niki_de_saint_phalle_1955.jpg)
 
-More recently, we can see formally inventive, evocative, yet subdued abstractions of the human form in the work of British sculptor, **Antony Gormley** (born 1950): <br />
+Also in the realm of static sculpture, we can see formally inventive, evocative, yet subdued abstractions of the human form in the work of British sculptor, **Antony Gormley** (born 1950): <br />
 ![Antony Gormley](images/antony-gormley.jpg)
 
 *Feeling Material* (2005) by Antony Gormley:<br />
@@ -96,6 +96,18 @@ More recently, we can see formally inventive, evocative, yet subdued abstraction
 
 *Domain Field* (2004) by Antony Gormley:<br />
 [![Antony Gormley](images/antony_gormley_domain_field_2004.jpg)](http://balticplus.uk/antony-gormley-domain-field-allotment-body,-fruit,-earth-e31/)
+
+Costumery is a common way that we extend the appearance of the body. Photographer/costumer **Charles Freger** has developed *Wilder Mann*, [a series of portraits of costumed people](http://www.charlesfreger.com/portfolio/wilder-mann/), in outdoor environments, that are intended to explore ideas of humans in alternative 'natural' states. 
+
+![Charles Freger Wilder Mann](images/charles_freger_wilder_mann.jpg)
+
+Performance artist [**Nick Cave**](https://art21.org/artist/nick-cave/)'s bright, whimsical, and other-worldly *Soundsuits* — a hybrid of kinetic soft sculpture, dance costume, and body-worn percussion instrument, often created from found materials — have undoubtedly inspired a great deal of recent digital work. His artworks extend the human form visually, kinectically, and (as they often produce sound) aurally as well. <br />
+![Nick Cave's Soundsuits](images/nickcave_soundsuits.jpg)
+
+![Nick Cave's Soundsuits](images/nick_cave.jpg)
+
+[![Nick Cave's Soundsuits](images/cave_soundsuits_anim.gif)](https://www.youtube.com/watch?v=BpNcmh3rxko)
+
 
 <hr />
 
@@ -135,7 +147,7 @@ Rebecca Allen made significant leaps in the representation and animation of the 
 [![Universal Everything, Mister Furry](images/universal_everything_mister_furry_anim.gif)](https://vimeo.com/5395669)
 
 [*Furry's Posse*](https://vimeo.com/7467703) by Universal Everything (2009):<br />
-[![Universal Everything, Furry's Posse](images/universal_everything_furrys_posse.jpg)](https://vimeo.com/7467703)
+[![Universal Everything, Furry's Posse](images/universal_everything_posse_anim.gif)](https://vimeo.com/7467703)
 
 [*Walking City*](https://vimeo.com/85596568) by Universal Everything (2014) demonstrates terrific restraint:<br />
 [![Walking City](images/universal_everything_walking_city_anim.gif)](https://vimeo.com/85596568)
@@ -144,7 +156,7 @@ Rebecca Allen made significant leaps in the representation and animation of the 
 [![2016 AICP Sponsor Reel](images/method_design_2016_anim.gif)](https://vimeo.com/169599296)
 
 [*Moodles*](https://vimeo.com/240466644) by [Ari Weinkle](http://ariweinkle.com/) (2017) is a series of short animations, in which a human form is undone through expressive transformations that metaphorically represent various emotions.<br />
-[![Moodles](images/moodles_anim.gif)](https://vimeo.com/240466644)<br />
+[![Moodles](images/moodles_anim.gif)](https://vimeo.com/240466644)
 
 [*GVoxelizer*](https://twitter.com/_kzr/status/925379137203617792) by Keijiro Takahashi (2017)<br />
 [![GVoxelizer](images/keijiro_takahashi_anim‏.gif)](https://twitter.com/_kzr/status/925379137203617792)<br />
@@ -184,7 +196,7 @@ Some other recommended works by Kyttenjanae include: <br />
 - [https://www.instagram.com/p/BEpZAgARQZK/](https://www.instagram.com/p/BEpZAgARQZK/)
 - [https://www.instagram.com/p/BEmWsF2xQZb/](https://www.instagram.com/p/BEmWsF2xQZb/)
 
-Freelance motion graphics designer [**Esteban Diacono**](https://www.instagram.com/_estebandiacono/) maintains an active Instagram account. His imaginative transformations of the motion-captured human form are distinguished by their use of physics (especially of non-human materials) as an augmentation strategy. 
+Freelance motion graphics designer [**Esteban Diacono**](https://www.instagram.com/_estebandiacono/) maintains an active Instagram account. His imaginative transformations of the motion-captured human form are distinguished by their use of physics (especially of apparently non-living materials) as an augmentation strategy. 
 [![Esteban Diacono](images/estebandiacono_anim1.gif)](https://www.instagram.com/p/BXXo9PDhQ9Y/)
 [![Esteban Diacono](images/estebandiacono_anim2.gif)](https://www.instagram.com/p/BV-QESRhrOu/)
 
@@ -214,8 +226,7 @@ Animator **David Lewandowski** brought a 'rubber man' to life, after experiencin
 
 ### Example Studies by CMU Undergraduate Students
 
-*Students in 60-212 were asked to "write software which
-creatively interprets, or responds to, the actions of the body: You will develop a computational treatment for motion-capture data. Ideally, both your treatment, and your motion-capture data, will be ‘tightly coupled’ to each other: The treatment will be designed for specific motion-capture data, and the motion-capture data will be intentionally selected or performed for your specific treatment.* Below are some responses. 
+*Students in my fall 2016 introductory media arts course were asked to "write software which creatively interprets, or responds to, the actions of the body: You will develop a computational treatment for motion-capture data. Ideally, both your treatment, and your motion-capture data, will be ‘tightly coupled’ to each other: The treatment will be designed for specific motion-capture data, and the motion-capture data will be intentionally selected or performed for your specific treatment.* Below are some responses. 
 
 [*Motion capture study*](http://cmuems.com/2016/60212/ngdon/11/08/ngdon-mocap/) by Lingdong Huang (2016). In this study by an Art sophomore, ribbons circulate around motion-capture data made available by the members of Perfume, a Japanese pop trio.<br />
 [![](images/ngdon_perfume_anim.gif)](http://cmuems.com/2016/60212/ngdon/11/08/ngdon-mocap/)
