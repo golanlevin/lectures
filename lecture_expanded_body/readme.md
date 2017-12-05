@@ -1,13 +1,13 @@
 ## Extrapolating the Dynamic Human Form<br />
 
-Version: 26 November 2017
+Created: 26 November 2017
 
-*Over the past 150 years, a variety of scientific and artistic work has sought creative new ways of understanding, visualizing, and expanding our concept of the dynamic human form. This work has operated both analytically and expressively — often with the aid of new technologies (such as cinema and computers) and new languages (such as visual abstraction). This article compiles some chronologies of how the appearance and movement of the human form have been extended.* 
+*Over the past 150 years, a variety of scientific and artistic work has sought creative new ways of understanding, visualizing, and expanding our concept of the dynamic human form. This work has operated both analytically and expressively — often with the aid of new technologies (such as cinema and computers) and new artistic languages (such as visual abstraction). This article compiles some chronologies of ways in which the appearance and movements of the human body have been extended.* 
 
 
 ### Precursors: Chronophotography
 
-In the 1880s, roughly fifty years after the invention of chemical photography, improvements to camera technologies (such as shorter exposure times, and electrical timers) enabled the first *chronophotographic* studies of human and animal motion. investigations by hybrid photographer-inventors like Étienne-Jules Marey and Eadweard Muybridge set the stage for the development of cinema in the early 1890s by Thomas Edison and others. 
+In the 1880s, roughly fifty years after the invention of chemical photography, improvements to camera technologies (such as shorter exposure times, and electrical timers) enabled the first *chronophotographic* studies of human and animal motion. Investigations by hybrid photographer-inventors like Étienne-Jules Marey and Eadweard Muybridge set the stage for the later development of cinema, in the early 1890s, by Thomas Edison and others. 
 
 [**Étienne-Jules Marey**](https://en.wikipedia.org/wiki/%C3%89tienne-Jules_Marey) (1830-1904) was a French scientist, physiologist and chronophotographer. In 1883, he developed this [*Motion capture suit*](), whose skeletal markers show a striking resemblance to today's motion capture systems:<br />
 [![](images/etienne_jules_marey_suit_1883.jpg)]()
@@ -71,7 +71,7 @@ Chronophotography influenced the ideas and visual languages of early modernist a
 [*Unique Forms of Continuity in Space*](https://en.wikipedia.org/wiki/Unique_Forms_of_Continuity_in_Space) (1913) by Umberto Boccioni (1882-1916)
 [![Unique Forms of Continuity in Space](images/umberto_boccioni_unique_forms_1913.jpg)](https://en.wikipedia.org/wiki/Unique_Forms_of_Continuity_in_Space)
 
-[Oskar Schlemmer](https://alchetron.com/Oskar-Schlemmer) (1888-1943) was a German sculptor, designer and choreographer. In 1923 he joined the Bauhaus theater department as Master of Form, after working at the school's sculpture workshop. In his performances, actors are transfigured into geometrical shapes, or equivalently, living sculptures. He developed the analytic [*Stelzenläufer*](https://www.youtube.com/watch?v=0j0x325uR8s) (Slat Dance) in 1927:<br />
+[**Oskar Schlemmer**](https://alchetron.com/Oskar-Schlemmer) (1888-1943) was a German sculptor, designer and choreographer. In 1923 he joined the Bauhaus theater department as Master of Form, after working at the school's sculpture workshop. In his performances, actors are transfigured into geometrical shapes, or equivalently, living sculptures. He developed the analytic [*Stelzenläufer*](https://www.youtube.com/watch?v=0j0x325uR8s) (Slat Dance) in 1927:<br />
 [![Stelzenläufer](images/oskar_schlemmer_1927.jpg)](https://www.youtube.com/watch?v=0j0x325uR8s)
 
 [![Stelzenläufer](images/oskar_schlemmer_anim.gif)](https://www.youtube.com/watch?v=0j0x325uR8s)
@@ -81,14 +81,14 @@ Some more expressive and marvelously weird interpretations of the human form can
 
 *Since World War II, many artists have explored more psychological extrapolations of the human form.*
 
-**Niki de Saint Phalle** (1930–2002) was born in France and grew up in New York. She is known for creating numerous giant, voluptuous 'Nana' sculptures. Although easily interpreted as joyful, happy sculptures, the Nanas "have a powerful intention as an amplification of femininity. ‘They are an army of women sent to take over the world’, as Saint Phalle’s granddaughter, Bloum Cardenas, [put it](https://www.apollo-magazine.com/feminine-critique-niki-de-saint-phalle-guggenheim-bilbao/)." Niki de Saint Phalle's insistence on exuberance, sensuality, figuration, and bold use of color often ran counter to the prevailing mid-century trends in minimalist abstraction.
+[**Niki de Saint Phalle**](https://en.wikipedia.org/wiki/Niki_de_Saint_Phalle) (1930–2002) was born in France and grew up in New York. She is known for creating numerous giant, voluptuous 'Nana' sculptures (ca. 1964-1973). Although easily interpreted as joyful, happy sculptures, the Nanas "have a powerful intention as an amplification of femininity. ‘They are an army of women sent to take over the world’, as Saint Phalle’s granddaughter, Bloum Cardenas, [put it](https://www.apollo-magazine.com/feminine-critique-niki-de-saint-phalle-guggenheim-bilbao/)." Niki de Saint Phalle's insistence on exuberance, sensuality, figuration, and bold use of color often ran counter to the prevailing mid-century trends in minimalist abstraction.
 ![Niki de Saint Phalle](images/niki_de_saint_phalle_nanas2.jpg)<br />
 ![Niki de Saint Phalle](images/niki_de_saint_phalle_nanas.jpg)
 
 Niki de Saint-Phalle in 1955:<br />
 ![Niki de Saint Phalle](images/niki_de_saint_phalle_1955.jpg)
 
-Also in the realm of static sculpture, we can see formally inventive, evocative, yet subdued abstractions of the human form in the work of British sculptor, **Antony Gormley** (born 1950): <br />
+Also in the realm of static sculpture, we can see formally inventive, evocative, yet subdued abstractions of the human form in the work of British sculptor, [**Antony Gormley**](http://www.antonygormley.com/sculpture/chronology) (born 1950): <br />
 ![Antony Gormley](images/antony-gormley.jpg)
 
 *Feeling Material* (2005) by Antony Gormley:<br />
@@ -97,29 +97,28 @@ Also in the realm of static sculpture, we can see formally inventive, evocative,
 *Domain Field* (2004) by Antony Gormley:<br />
 [![Antony Gormley](images/antony_gormley_domain_field_2004.jpg)](http://balticplus.uk/antony-gormley-domain-field-allotment-body,-fruit,-earth-e31/)
 
-Costumery is a common way that we extend the appearance of the body. Photographer/costumer **Charles Freger** has developed *Wilder Mann*, [a series of portraits of costumed people](http://www.charlesfreger.com/portfolio/wilder-mann/), in outdoor environments, that are intended to explore ideas of humans in alternative 'natural' states. 
+Costumery is a common way that we extend the appearance of the body. Photographer/costumer **Charles Freger** has developed *Wilder Mann*, [a series of portraits of costumed people](http://www.charlesfreger.com/portfolio/wilder-mann/), in outdoor environments, that are intended to explore ideas of humans in alternative 'natural' states—in some cases, halfway to animals, or vegetables.
 
 ![Charles Freger Wilder Mann](images/charles_freger_wilder_mann.jpg)
 
-Performance artist [**Nick Cave**](https://art21.org/artist/nick-cave/)'s bright, whimsical, and other-worldly *Soundsuits* — a hybrid of kinetic soft sculpture, dance costume, and body-worn percussion instrument, often created from found materials — have undoubtedly inspired a great deal of recent digital work. His artworks extend the human form visually, kinectically, and (as they often produce sound) aurally as well. <br />
+Performance artist [**Nick Cave**](https://art21.org/artist/nick-cave/)'s bright, whimsical, and other-worldly *Soundsuits* — a hybrid of kinetic soft sculpture, dance costume, and body-worn percussion instrument, often created from found materials — have undoubtedly inspired a great deal of recent digital work. His artworks extend the human form visually, kinetically, and (as they often produce sound) aurally as well. Cave has produced over 500 soundsuits, since the creation of his first soundsuit in 1992.<br />
 ![Nick Cave's Soundsuits](images/nickcave_soundsuits.jpg)
 
 ![Nick Cave's Soundsuits](images/nick_cave.jpg)
 
 [![Nick Cave's Soundsuits](images/cave_soundsuits_anim.gif)](https://www.youtube.com/watch?v=BpNcmh3rxko)
 
-
 <hr />
 
 ### The (Digital) Human Form
 
-William Fetter (1928-2002), a Boeing art director, *coined the term "computer graphics"* in a 1960 description of his work on cockpit design. In 1964 Fetter became the first person to draw a human figure using a computer. This figure is known as the "[Boeing Man](http://www.boeingimages.com/archive/William%20Fetter's%20Boeing%20Man-2F3XC5YCZNC.html)":<br />
+William Fetter (1928-2002), an art director at Boeing, *coined the term "computer graphics"* in a 1960 description of his work on cockpit design. In 1964 Fetter became the first person to draw a human figure using a computer. This figure is known as the "[Boeing Man](http://www.boeingimages.com/archive/William%20Fetter's%20Boeing%20Man-2F3XC5YCZNC.html)":<br />
 ![Fetter's Boeing Man](images/fetter_boeing_man.jpg)
 
-Although the 3D Boeing Man was plotted in different positions, no film animation is known to exist.<br />
+Although the 3D *Boeing Man* was plotted in different positions and from different points of view, no film animation is known to exist.<br />
 ![Fetter's Boeing Man](images/fetter_boeing_man2.jpg)
 
-The [first computer-generated 3D animation](https://www.youtube.com/watch?v=wdedV81UQ5k) is believed to have been created in 1972 at the University of Utah by Frank Parke and Ed Catmull, one of the founders of Pixar. It is a study of a human hand, whose dimensions were captured from a plaster model with a position measuring device.<br />
+Computer animation in the 1960s, such as the work of [Lillian Schwartz](http://lillian.com/) (1927-) and [John Whitney](https://www.youtube.com/watch?v=TbV7loKp69s) (1917-1995), appears to have been exclusively 2D. The [first computer-generated *3D* animation](https://www.youtube.com/watch?v=wdedV81UQ5k) is believed to have been created in 1972 at the University of Utah by Frank Parke and Ed Catmull, one of the founders of Pixar. It is a study of a human hand, whose dimensions were captured from a plaster model with a position measuring device.<br />
 ![Catmull & Parke Hand](images/catmull_parke_1972.jpg)
 
 [**Rebecca Allen**](http://www.rebeccaallen.com) (born 1954) is a pioneering computer artist, known for creating 3D computer graphics, animation, music videos, video games, performance works, artificial life systems, multisensory interfaces, interactive installations, VR and mixed realities. In the early 1980s, Allen became known for developing new techniques for modeling and animating virtual human forms. 
@@ -134,7 +133,7 @@ Rebecca Allen made significant leaps in the representation and animation of the 
 
 *A good deal of recent work walks a line between analytic and imaginative, expressive interpretations of the human form.*
 
-[*Forms*](https://vimeo.com/38017188) (2012) by Memo Akten and Davide Quayola (2012) investigates the movements of athletes, using footage from the Commonwealth Games. "Rather than focusing on observable trajectories, it explores techniques of extrapolation to sculpt abstract forms, visualizing unseen relationships – power, balance, grace and conflict – between the body and its surroundings."<br />
+[*Forms*](https://vimeo.com/38017188) (2012) by [**Memo Akten**](http://www.memo.tv/category/work/by-type/) and [**Davide Quayola**](https://www.quayola.com/) (2012) investigates the movements of athletes, using footage from the Commonwealth Games. "Rather than focusing on observable trajectories, it explores techniques of extrapolation to sculpt abstract forms, visualizing unseen relationships – power, balance, grace and conflict – between the body and its surroundings."<br />
 [![Forms](images/akten_quayola_forms_anim.gif)](https://vimeo.com/38017188)
 
 [*Kung Fu Motion Visualization*](https://vimeo.com/163153865) by Tobias Gremmler (2016) consists of a series of studies, the most interesting of which, in my opinion, is Variation #2, *"Velocity transforms into matter"*. In this sequence (0:36-1:03), particles are displayed whose opacity is proportional to the speed of the performer's body in that location. Only moving parts of the body are shown, while stationary parts remain invisible.<br />
@@ -149,7 +148,7 @@ Rebecca Allen made significant leaps in the representation and animation of the 
 [*Furry's Posse*](https://vimeo.com/7467703) by Universal Everything (2009):<br />
 [![Universal Everything, Furry's Posse](images/universal_everything_posse_anim.gif)](https://vimeo.com/7467703)
 
-[*Walking City*](https://vimeo.com/85596568) by Universal Everything (2014) demonstrates terrific restraint:<br />
+The award-winning [*Walking City*](https://vimeo.com/85596568) by Universal Everything (2014) demonstrates terrific restraint and inventiveness:<br />
 [![Walking City](images/universal_everything_walking_city_anim.gif)](https://vimeo.com/85596568)
 
 [*2016 AICP Sponsor Reel*](https://vimeo.com/169599296) by Method Design (2016) reel shows off a series of highly stylized transformations of the human body, augmented in many instances by simulated physics:<br />
@@ -207,8 +206,7 @@ Some more works by Esteban Diacono:
 - [https://www.instagram.com/p/BZQvCO3BPQD/](https://www.instagram.com/p/BZQvCO3BPQD/)
 - [https://www.instagram.com/p/BV4voEhhrMe/](https://www.instagram.com/p/BV4voEhhrMe/)
 
-
-Animator **David Lewandowski** brought a 'rubber man' to life, after experiencing CGI malfunctions while doing digital effects in Hollywood. Lewandowski [explains](https://www.fastcompany.com/3021356/the-vfx-wiz-behind-youtubes-viral-rubber-man-on-the-beauty-of-horrible-mistakes), “If rigs get bound to the facial geometry just a few units off center, the character’s face explodes. His eyeballs go one mile in one direction, the back of his head goes one mile in the other direction, and the photo-realistic teeth stay in place talking to the camera, married to the audio. The other animators would go ‘delete delete delete’ but I thought that stuff was hysterical.” During the year he spent animating Tron: Legacy, Lewandowski became increasingly captivated with VFX screw-ups. “As I explored how things go wrong in character animation, I realized there might be an appetite for things that break in these beautiful and grotesque ways.”
+Animator [**David Lewandowski**](https://www.youtube.com/user/lewandowskidavid) brought a 'rubber man' to life, after experiencing CGI malfunctions while doing digital effects in Hollywood. Lewandowski [explains](https://www.fastcompany.com/3021356/the-vfx-wiz-behind-youtubes-viral-rubber-man-on-the-beauty-of-horrible-mistakes), “If rigs get bound to the facial geometry just a few units off center, the character’s face explodes. His eyeballs go one mile in one direction, the back of his head goes one mile in the other direction, and the photo-realistic teeth stay in place talking to the camera, married to the audio. The other animators would go ‘delete delete delete’ but I thought that stuff was hysterical.” During the year he spent animating Tron: Legacy, Lewandowski became increasingly captivated with VFX screw-ups. “As I explored how things go wrong in character animation, I realized there might be an appetite for things that break in these beautiful and grotesque ways.”
 
 *Going to the Store* (2011) by David Lewandowski<br />
 [![Going to the Store (2011)](https://img.youtube.com/vi/iRZ2Sh5-XuM/0.jpg)](https://www.youtube.com/watch?v=iRZ2Sh5-XuM)
@@ -219,12 +217,14 @@ Animator **David Lewandowski** brought a 'rubber man' to life, after experiencin
 *Time for Sushi* (2017) by David Lewandowski<br />
 [![Time for Sushi (2017)](https://img.youtube.com/vi/bcXiwNjkhxU/0.jpg)](https://www.youtube.com/watch?v=bcXiwNjkhxU)
 
-"*Goodbye Uncanny Valley*" by Alan Warburton (2017) is an excellent insider's view on where we stand now, in relation to the computer's capacity for photorealism. <br />
+"*Goodbye Uncanny Valley*" by Alan Warburton (2017) is an excellent insider's view on where we stand now, in relation to the computer's capacity for photorealism, and is a great note to end on. <br />
 [![Goodbye Uncanny Valley by Alan Warburton](images/warburton.png)](https://vimeo.com/237568588)
 
 <hr />
 
 ### Example Studies by CMU Undergraduate Students
+
+**"Expressive computational treatments of full-body gestural data"**
 
 *Students in my fall 2016 introductory media arts course were asked to "write software which creatively interprets, or responds to, the actions of the body: You will develop a computational treatment for motion-capture data. Ideally, both your treatment, and your motion-capture data, will be ‘tightly coupled’ to each other: The treatment will be designed for specific motion-capture data, and the motion-capture data will be intentionally selected or performed for your specific treatment.* Below are some responses. 
 
