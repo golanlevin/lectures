@@ -43,13 +43,23 @@ Now let’s go back in history. Here are John Maeda’s [12 O’Clocks](http://w
 [Maeda's 12 O'Clocks](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/maedas-clocks/)
 [![](images/maeda-all.gif)](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/maedas-clocks/)
 
+*Live OS9 demo instructions for Golan:*
+* Download artwork from http://www.maedastudio.com/2004/rbooks2k/twelve.html
+* Unstuff twelve.sit and locate in /Users/Shared/MaedaClocks/12oclocks
+* Launch the [SheepShaver OS9 emulator](http://sheepshaver.cebix.net/), /Users/golan/Desktop/PEDAGOGY/iacd/2015/clocks/COIV4.0.1+/Classic.app
+* After OS9 launches, navigate to Unix/MaedaClocks/12oclocks in OS9; demo
+* Force-quit SheepShaver to exit.
+
+Clocks have been an idee fixe in new media. Here's the elegant video-slitscan-based [*Last Clock*](https://vimeo.com/27975734), (2002) by Jussi Angesleva & Ross Cooper:
+[![](images/lastclock2-620x527.jpg)](https://vimeo.com/27975734)
+
 [Here's a clock](https://www.openprocessing.org/sketch/503941) I produced as a student of John Maeda in 1999.
 [![](images/bandedclock.jpg)](https://www.openprocessing.org/sketch/503941)
 
-My student Greg Vassallo made this clock in 2005:
+My student Greg Vassallo made this clock for my class in 2005:
 ![](images/vassallo.png)
-
 ![](images/vassallo.gif)
+
 
 --
 ### The Clock and Human Industry
