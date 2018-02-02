@@ -177,9 +177,11 @@ Taiwanese designer Yen-Wen Tseng has designed a clock, [*Hand in Hand*](http://w
 [![](images/ink-calendar.jpg)](http://www.oscar-diaz.net/work/ink-calendar)
 
 *A Dot for Every Second in the Day*
+
 [![](images/dot_clock.gif)](http://www.clarifyscience.info/assets/day_of_dots_clock)
 
 *Untitled (For The Sun)* by Jim Campbell 
+
 [![](images/campbell.jpg)](http://www.jimcampbell.tv/portfolio/objects/untitled_for_the_sun/)
 
 *CRASHCLOCK* by Tha
@@ -190,7 +192,8 @@ Taiwanese designer Yen-Wen Tseng has designed a clock, [*Hand in Hand*](http://w
 
 [![](images/eric_morzier_horloge_tactile.gif)](https://vimeo.com/37522983)
 
-*Pong Clock*[![](images/pong_clock.gif)](https://www.youtube.com/watch?v=3uQHWsUby04&t=0m18s)
+*Pong Clock*
+[![](images/pong_clock.gif)](https://www.youtube.com/watch?v=3uQHWsUby04&t=0m18s)
 
 *Center Clock* by Lee Byron
 
