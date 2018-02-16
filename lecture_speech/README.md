@@ -1,10 +1,9 @@
 # Speech References
 
 
+![attnGAN](images/line-friends.png)
 
-
-
-
+![gateway hikari](images/gatebox-hikari-youtube.jpg)
 
 ---
 
@@ -43,6 +42,8 @@ Create a (whimsical/provocative/sublime/playful) interactive game or system that
 * [Images to Text Google Quickdraw](https://quickdraw.withgoogle.com/)
 * [Images to Text: Neural Storytelling: Telling Stories about Images (Samim Winiger)](https://medium.com/@samim/generating-stories-about-images-d163ba41e4ed)
 * [Text to Images: attnGAN](https://arxiv.org/pdf/1711.10485.pdf)
+
+![attnGAN](images/attngan.png)
 
 #### Games
 
