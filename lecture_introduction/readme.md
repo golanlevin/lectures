@@ -65,7 +65,7 @@ We can learn by hands-on tinkering and experimentation:
 
 Also, *it takes a while:*
 
-![Ira Glass on the Creative Process](https://img.youtube.com/vi/PbC4gqZGPSY/0.jpg)](https://www.youtube.com/watch?v= PbC4gqZGPSY)
+[![Ira Glass on the Creative Process](https://img.youtube.com/vi/PbC4gqZGPSY/0.jpg)](https://www.youtube.com/watch?v=PbC4gqZGPSY)
 
 ![How to](images/how-to.png)
 
