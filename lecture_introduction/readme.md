@@ -89,7 +89,7 @@ Zachary Lieberman, in IdN *Interaction Issue* (December 2012), describes the cha
 
 ### Computer Art is more than 50 Years Old
 
-[Lecture on Machine Art](http://cmuems.com/2014a/lectures/lecture-01-machine-art/)
+[Lecture on Machine Art](http://cmuems.com/2014a/lectures/lecture-01-machine-art/) (*time permitting*)
 
 ### Some exemplary recent works of poetic computing
 
