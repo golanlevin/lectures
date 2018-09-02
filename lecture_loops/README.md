@@ -131,7 +131,7 @@ Michel Gondry + Chemical Brothers, [*Star Guitar*](https://www.youtube.com/watch
 
 ## Computational Art and GIF Loops
 
-![](images/bees_and_bombs_cube.gif)
+![](images/bees_and_bombs_cube.gif)<br />
 *Loop by David Whyte ([Bees & Bombs](https://beesandbombs.tumblr.com/))*
 
 ![Kytten Janae](images/kytten-janae.gif)<br />
@@ -151,5 +151,5 @@ There are a burgeoning number of computational artists and designers who are dis
 * [Aaron Meyers](http://teleaaron.tumblr.com/tagged/loop)
 * [GIFPop! Artists](https://gifpop.io/collections/artists)
 
-![](images/bees-and-bombs-up-dn_540px.gif)
+![](images/bees-and-bombs-up-dn_540px.gif)<br />
 *Loop by David Whyte ([Bees & Bombs](https://beesandbombs.tumblr.com/))*
