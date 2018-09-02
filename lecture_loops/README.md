@@ -1,7 +1,7 @@
 # LOOPS
 
 ![skip-dolphin-hursh-2014.gif](images/skip-dolphin-hursh-2014.gif)
-*Loop by [Skip Dolphin Hursh](http://www.skiphursh.com/Animated-GIFs-2014), 2014.* 
+<br />*Loop by [Skip Dolphin Hursh](http://www.skiphursh.com/Animated-GIFs-2014), 2014.* 
 
 ---
 
@@ -30,7 +30,7 @@ Interestingly, [there is evidence](https://jenmacnab.wordpress.com/tag/paleolith
 
 ![Ancient thaumatrope 2](images/thaumatrope-paleo-rondelle2.jpg)
 
---
+---
 
 ## Phenakistoscope
 
@@ -42,7 +42,7 @@ Invented by Belgian physicist Joseph Plateau in 1833, the **Phenakistoscope** is
 
 ![phenakistoscope-7.gif](images/phenakistoscope-7.gif)
 
--- 
+--- 
 
 ## Zoetrope & Praxinoscope
 
@@ -58,7 +58,7 @@ Here’s the difference:
 
 ![praxinoscope vs zoetrope](images/praxinoscope-zoetrope.jpg)
 
--- 
+---
 
 ## Enter Chemical Film
 
@@ -77,23 +77,23 @@ Even after the invention of celluloid film in the 1890s (which allowed for narra
 Loops evolved from simple action sequences (like walk cycles) to entire passages:<br />
 ![mickey-sawing-loop.gif](images/mickey-sawing-loop.gif)
 
--- 
+---
 
-##Some Looping Art
+## Some Looping Art
 
 
-Physical Cinema: Loops on Physical Things
+Physical Cinema: Loops on Physical Things:
 
-[Stroboscopic loops on Easter eggs](http://www.thisiscolossal.com/2016/03/eggstatic-stroboscopic-patterns-animated-on-easter-eggs/) by Jiri Zemanek:
+[Stroboscopic loops on Easter eggs](http://www.thisiscolossal.com/2016/03/eggstatic-stroboscopic-patterns-animated-on-easter-eggs/) by Jiri Zemanek:<br />
 ![egg-zoetrope.gif](images/egg-zoetrope.gif)
 
-[Embroidered turntable animations](http://www.thisiscolossal.com/2015/07/fantastic-embroidered-zoetrope-animations-on-turntables-by-elliot-schultz/) by Elliot Schultz:
+[Embroidered turntable animations](http://www.thisiscolossal.com/2015/07/fantastic-embroidered-zoetrope-animations-on-turntables-by-elliot-schultz/) by Elliot Schultz:<br />
 ![elliot-schultz_hobbling-wide.gif](images/elliot-schultz_hobbling-wide.gif)
 
-[3D printed zoetrope](http://www.thisiscolossal.com/2016/06/a-fascinating-3d-printed-light-based-zoetrope-by-akinori-goto/) by Akinori Goto: 
+[3D printed zoetrope](http://www.thisiscolossal.com/2016/06/a-fascinating-3d-printed-light-based-zoetrope-by-akinori-goto/) by Akinori Goto:<br />
 ![Akinori Goto Zoetrope](images/zoetrope-3d-printed-goto.gif)
 
-John Edmark creates "[Blooms](https://vimeo.com/198150547)", 3D printed sculptures that demonstrate phyllotaxis, similar to the arrangements of many plant parts; these are sculptures designed to be observed with a stroboscope or through a well-timed video shutter.
+John Edmark creates "[Blooms](https://vimeo.com/198150547)", 3D printed sculptures that demonstrate phyllotaxis, similar to the arrangements of many plant parts; these are sculptures designed to be observed with a stroboscope or through a well-timed video shutter.<br />
 ![zoetrope-john-edmark.gif](images/zoetrope-john-edmark.gif)
 
 **Additional works of note:**
@@ -102,7 +102,7 @@ John Edmark creates "[Blooms](https://vimeo.com/198150547)", 3D printed sculptur
 * [All Things Fall](https://vimeo.com/125791075) by Mat Collishaw & Sebastian Burdon (*note: violence*)
 * NYC subway zoetrope, [MASSTRANSISCOPE](https://www.youtube.com/watch?v=LKpfnYzsDCU)
 
---
+---
 
 ## Loops in Cinema
 
@@ -129,7 +129,7 @@ Michel Gondry + Chemical Brothers, [*Star Guitar*](https://www.youtube.com/watch
 
 ---
 
-##Computational Art and GIF Loops
+## Computational Art and GIF Loops
 
 ![](images/bees_and_bombs_cube.gif)
 *Loop by David Whyte ([Bees & Bombs](https://beesandbombs.tumblr.com/))*
