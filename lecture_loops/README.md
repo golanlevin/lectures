@@ -54,6 +54,8 @@ When the **Praxinoscope** was invented by Emile Reynaud in 1877, its mirrors off
 
 ![Praxinoscope](images/praxinoscope1.jpg)
 
+![Praxinoscope animation](images/praxinoscope-quaint-pastel-drongo.gif)
+
 Here’s the difference:
 
 ![praxinoscope vs zoetrope](images/praxinoscope-zoetrope.jpg)
