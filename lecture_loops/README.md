@@ -5,10 +5,9 @@
 
 ---
 
-# Early Cinema Devices
+# Loops & Early Cinema: a Brief History
 
-Basically all early cinema was looping, from ~1824 until 1890.<br />
-Let’s learn a little history about early cinema devices.
+A great deal of early cinema was looping, from ~1824 until 1890. Let’s learn a little history about devices for early cinema devices. (Not covered here: non-looping systems like [magic lantern slideshows](https://en.wikipedia.org/wiki/Magic_lantern), [shadow puppetry](https://en.wikipedia.org/wiki/Wayang)...)
 
 ## Thaumatrope
 
@@ -46,7 +45,7 @@ Invented by Belgian physicist Joseph Plateau in 1833, the **Phenakistoscope** is
 
 ## Zoetrope & Praxinoscope
 
-The **Zoetrope** was invented in 1834 by William George Horner. The Zoetrope is the third major optical toy, after the Thaumatrope and Phenakistoscope, that uses the persistence of motion principle to create an illusion of motion.
+The **Zoetrope** was invented in 1834 by William George Horner. The Zoetrope is the third major optical device, after the Thaumatrope and Phenakistoscope, that uses the persistence of vision principle to create an illusion of motion.
 
 ![Zoetrope](images/zoetrope.png)
 
@@ -64,20 +63,38 @@ Here’s the difference:
 
 ## Enter Chemical Film
 
-Things got exciting with the invention of the gelatin emulsion by Richard Maddox (fast chemical photography) in 1871 – and soon thereafter, chronophotography, in the mid-1870s. Suddenly these devices could depict movement with *photographic* media, and not just hand-drawn animations.
+Things got exciting with the invention of the gelatin emulsion by [Richard Leach Maddox](https://en.wikipedia.org/wiki/Richard_Leach_Maddox) (fast chemical photography) in 1871 – and soon thereafter, [chronophotography](https://en.wikipedia.org/wiki/Chronophotography), in the mid-1870s. Suddenly devices like the Zoetrope could depict movement with *photographic* media, and not just hand-drawn animations.
 
-![Eadweard Muybridge](images/muybridge_horse_gallop_animated_2.gif)<br />
+![Eadweard Muybridge galloping horse](images/muybridge_horse_gallop_animated_2.gif)<br />
 *[Eadweard Muybridge](https://en.wikipedia.org/wiki/Eadweard_Muybridge#Stanford_and_horse_gaits), Horse Gallop, 1878*
 
-Even after the invention of celluloid film in the 1890s (which allowed for narrative films with durations of multiple minutes), loops such as walk cycles remained a popular strategy for conserving effort and (stretching the duration) in animation. 
+The invention of celluloid film in the late 1880s (which allowed for narrative films with durations of multiple minutes) led to the Edison lab's development of the **Kinetoscope** in 1889, an early single-viewer cinema system:
 
-![gertie-loop.gif](images/gertie-loop.gif)<br />
+![Kinetoscope with interior, showing film loop](images/kinetoscope.jpg)
+
+The [**Mutoscope**](https://en.wikipedia.org/wiki/Mutoscope) was another early motion picture viewer, patented by W.K.L. Dickson and Herman Casler in 1894. It used a loop of printed cards, like a rolodex-flipbook. Cheaper and simpler than the Kinetoscope, the Mutoscope quickly dominated the coin-in-slot peep-show business.<br />
+![Mutoscope interior mechanics](images/mutoscope-mechanics.jpg)
+
+Here's a Mutoscope peepshow [SFW]:<br />
+[![Youtube video of a Mutoscope](images/mutoscope.jpg)](https://www.youtube.com/watch?v=8MS-2oZys6U&t=0m9s)
+
+---
+
+## Loops in Animation
+
+Loops such as walk cycles remained a popular strategy for conserving effort and (stretching the duration) in animation. 
+
+![Gertie the Dinosaur, standing loop](images/gertie-loop.gif)<br />
 *Gertie the Dinosaur* (Winsor McCay, 1914) — the first film to use animation techniques such as keyframes, registration marks, tracing paper, the Mutoscope action viewer, and animation loops. 
 
-![mickey-jumprope-loop.gif](images/mickey-jumprope-loop.gif)
+![Mickey Mouse jumprope loop](images/mickey-jumprope-loop.gif)
 
-Loops evolved from simple action sequences (like walk cycles) to entire passages:<br />
-![mickey-sawing-loop.gif](images/mickey-sawing-loop.gif)
+Loops evolved from simple actions (like walk cycles) to entire passages:<br />
+![mickey mouse sawing loop](images/mickey-sawing-loop.gif)
+
+For some artists, the loop is the whole story, and not just part of one. [Anna Firth](https://www.annafirth.com/ghost-loops/) is a contemporary Vancouver-based visual artist who creates animated loops.
+
+![anna firth cat loop](images/anna-firth-loop-720px.gif)
 
 ---
 
@@ -86,16 +103,19 @@ Loops evolved from simple action sequences (like walk cycles) to entire passages
 
 Physical Cinema: Loops on Physical Things:
 
-[Stroboscopic loops on Easter eggs](http://www.thisiscolossal.com/2016/03/eggstatic-stroboscopic-patterns-animated-on-easter-eggs/) by Jiri Zemanek:<br />
-![egg-zoetrope.gif](images/egg-zoetrope.gif)
-
 [Embroidered turntable animations](http://www.thisiscolossal.com/2015/07/fantastic-embroidered-zoetrope-animations-on-turntables-by-elliot-schultz/) by Elliot Schultz:<br />
 ![elliot-schultz_hobbling-wide.gif](images/elliot-schultz_hobbling-wide.gif)
+
+French director and animator Alexandre Dubosc creates [zoetrope chocolate cakes](https://www.thisiscolossal.com/2015/10/andre-duboscs-newest-animated-zoetrope-cake-melting-pop/):<br />
+![dubosc-zoetrope-cake.gif](images/dubosc-zoetrope-cake.gif)
+
+Computer modeling/printing can also play a role. Here, [Stroboscopic loops on Easter eggs](http://www.thisiscolossal.com/2016/03/eggstatic-stroboscopic-patterns-animated-on-easter-eggs/) by Jiri Zemanek, created using an [Eggbot](https://egg-bot.com/):<br />
+![egg-zoetrope.gif](images/egg-zoetrope.gif)
 
 [3D printed zoetrope](http://www.thisiscolossal.com/2016/06/a-fascinating-3d-printed-light-based-zoetrope-by-akinori-goto/) by Akinori Goto:<br />
 ![Akinori Goto Zoetrope](images/zoetrope-3d-printed-goto.gif)
 
-John Edmark creates "[Blooms](https://vimeo.com/198150547)", 3D printed sculptures that demonstrate phyllotaxis, similar to the arrangements of many plant parts; these are sculptures designed to be observed with a stroboscope or through a well-timed video shutter.<br />
+John Edmark creates "[Blooms](https://vimeo.com/198150547)", computer-modeled and 3D-printed sculptures that demonstrate phyllotaxis, similar to the arrangements of many plant parts; these are sculptures designed to be observed with a stroboscope or through a well-timed video shutter.<br />
 ![zoetrope-john-edmark.gif](images/zoetrope-john-edmark.gif)
 
 **Additional works of note:**
@@ -108,7 +128,7 @@ John Edmark creates "[Blooms](https://vimeo.com/198150547)", 3D printed sculptur
 
 ## Loops in Cinema
 
-Loops are now here to stay, and inform (and are informed by) other cinematic practices. 
+Loops are here to stay, and inform (and are informed by) both cinematic practices and, oftentimes, the musical foundation of *rhythm*.
 
 * Norman Mclaren, [*Canon*](https://www.youtube.com/watch?v=lxNhUswEO7c) (1964)
 * Zbigniew Rybczyński, [*Tango*](https://vimeo.com/90339479) (1980)
@@ -121,17 +141,20 @@ Michel Gondry + Chemical Brothers, [*Star Guitar*](https://www.youtube.com/watch
 ![](images/andreas_wannerstedt_pendulum.gif)<br />
 *Loop by [Andreas Wannerstedt](https://andreaswannerstedt.se/pendulums)*
 
-*Cinemagraphs* are an interesting hybrid of video and static photography.
-
+*Cinemagraphs* are an interesting hybrid of video and static photography and a new visual medium in their own right: <br />
 ![cinemagraph-nyc-newspaper.gif](images/cinemagraph-nyc-newspaper.gif)
 
 ![cinemagraph-swingset.gif](images/cinemagraph-swingset.gif)
 
 ![anigif_enhanced-buzz-5347-1367450247-20.gif](images/anigif_enhanced-buzz-5347-1367450247-20.gif)
 
+Check out more glossy cinemagraphs [here](http://cinemagraphs.com/).
+
 ---
 
 ## Computational Art and GIF Loops
+
+There are a burgeoning number of computational artists and designers who are discovering vast and expressive new worlds in the constraints of this durable format for dynamic imaging. 
 
 ![](images/bees_and_bombs_cube.gif)<br />
 *Loop by David Whyte ([Bees & Bombs](https://beesandbombs.tumblr.com/))*
@@ -139,7 +162,7 @@ Michel Gondry + Chemical Brothers, [*Star Guitar*](https://www.youtube.com/watch
 ![Kytten Janae](images/kytten-janae.gif)<br />
 *Loop by [Kytten Janae](https://www.instagram.com/kyttenjanae/)*
 
-There are a burgeoning number of computational artists and designers who are discovering vast and expressive new worlds in the constraints of this durable format for dynamic imaging. Here’s a list of some leading practitioners; please spend some time with their work:
+Here’s a list of some leading practitioners; please spend some time with their work:
 
 * [Bees & Bombs](https://beesandbombs.tumblr.com/)
 * [DVDP (Davidope)](http://dvdp.tumblr.com/)
@@ -151,7 +174,7 @@ There are a burgeoning number of computational artists and designers who are dis
 * [89A](http://www.89a.co.uk/)
 * [Echophon](http://echophon.tumblr.com/)
 * [Aaron Meyers](http://teleaaron.tumblr.com/tagged/loop)
-* [GIFPop! Artists](https://gifpop.io/collections/artists)
+* Rachel Binx and Sha Hwang developed [GIFPop!](https://gifpop.io/collections/artists), an e-commerce system for converting animated gifs into lenticular prints. 
 
 ![](images/bees-and-bombs-up-dn_540px.gif)<br />
 *Loop by David Whyte ([Bees & Bombs](https://beesandbombs.tumblr.com/))*
