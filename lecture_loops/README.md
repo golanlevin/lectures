@@ -17,9 +17,7 @@ The invention of the [Thaumatrope](https://en.wikipedia.org/wiki/Thaumatrope), c
 
 ![thaumatrope-fox.gif](images/thaumatrope-fox.gif)
 
-Below are some thaumatropes from the Richard Balzer collection:
-
-![thaumatrope-collection.jpg](images/thaumatrope-collection.jpg)
+Below are some thaumatropes from the Richard Balzer collection:<br />![thaumatrope-collection.jpg](images/thaumatrope-collection.jpg)
 
 Interestingly, [there is evidence](https://jenmacnab.wordpress.com/tag/paleolithic-art/) that thaumatropes may have been a paleolithic invention. A number of bone discs have been found in the Dordogne region in France, dating to approximately 30,000 BCE. Long supposed to be buttons or decorative beads, archaeologists have proposed that these bone discs, all of which have a small hole bored through the centre, are in fact the earliest examples of thaumatropes. They reported: 
 
@@ -35,7 +33,7 @@ Interestingly, [there is evidence](https://jenmacnab.wordpress.com/tag/paleolith
 
 ![phenakistoscope](images/phenakistoscope.jpg)
 
-Invented by Belgian physicist Joseph Plateau in 1833, the **Phenakistoscope** is largely considered to be the first mechanism for true animation. [This article at Colossal](http://www.thisiscolossal.com/2013/10/the-first-animated-gifs/) shows a terrific collection of Phenakistoscopes.
+Invented by Belgian physicist Joseph Plateau in 1833, the **Phenakistoscope** is largely considered to be the first mechanism for true animation. Viewers looked at a sequence of images through a set of narrow slits on a spinning disk. [This article at Colossal](http://www.thisiscolossal.com/2013/10/the-first-animated-gifs/) shows a terrific collection of Phenakistoscopes. (*Thanks to Chris Jobson of Colossal for compiling these.*)
 
 ![phenakistoscope-balzer-4.gif](images/phenakistoscope-balzer-4.gif)
 
@@ -75,7 +73,7 @@ The invention of celluloid film in the late 1880s (which allowed for narrative f
 The [**Mutoscope**](https://en.wikipedia.org/wiki/Mutoscope) was another early motion picture viewer, patented by W.K.L. Dickson and Herman Casler in 1894. It used a loop of printed cards, like a rolodex-flipbook. Cheaper and simpler than the Kinetoscope, the Mutoscope quickly dominated the coin-in-slot peep-show business.<br />
 ![Mutoscope interior mechanics](images/mutoscope-mechanics.jpg)
 
-Here's a Mutoscope peepshow [SFW]:<br />
+Here's a [Mutoscope peepshow](https://www.youtube.com/watch?v=8MS-2oZys6U&t=0m9s) [SFW-ish]:<br />
 [![Youtube video of a Mutoscope](images/mutoscope.jpg)](https://www.youtube.com/watch?v=8MS-2oZys6U&t=0m9s)
 
 ---
@@ -85,7 +83,7 @@ Here's a Mutoscope peepshow [SFW]:<br />
 Loops such as walk cycles remained a popular strategy for conserving effort and (stretching the duration) in animation. 
 
 ![Gertie the Dinosaur, standing loop](images/gertie-loop.gif)<br />
-*Gertie the Dinosaur* (Winsor McCay, 1914) — the first film to use animation techniques such as keyframes, registration marks, tracing paper, the Mutoscope action viewer, and animation loops. 
+[*Gertie the Dinosaur*](https://www.youtube.com/watch?v=TGXC8gXOPoU) (Winsor McCay, 1914) — the first film to use animation techniques such as keyframes, registration marks, tracing paper, the Mutoscope action viewer, and animation loops. 
 
 ![Mickey Mouse jumprope loop](images/mickey-jumprope-loop.gif)
 
@@ -120,7 +118,7 @@ John Edmark creates "[Blooms](https://vimeo.com/198150547)", computer-modeled an
 
 **Additional works of note:**
 
-* Pablo Garcia, [*Profilograph (After Durer)*](https://vimeo.com/56735804)
+* Pablo Garcia, [*Profilograph (After Dürer)*](https://vimeo.com/56735804)
 * [All Things Fall](https://vimeo.com/125791075) by Mat Collishaw & Sebastian Burdon (*note: violence*)
 * NYC subway zoetrope, [MASSTRANSISCOPE](https://www.youtube.com/watch?v=LKpfnYzsDCU)
 
@@ -128,7 +126,7 @@ John Edmark creates "[Blooms](https://vimeo.com/198150547)", computer-modeled an
 
 ## Loops in Cinema
 
-Loops are here to stay, and inform (and are informed by) both cinematic practices and, oftentimes, the musical foundation of *rhythm*.
+Loops inform (and are informed by) both cinematic practices and, oftentimes, the musical foundation of *rhythm*.
 
 * Norman Mclaren, [*Canon*](https://www.youtube.com/watch?v=lxNhUswEO7c) (1964)
 * Zbigniew Rybczyński, [*Tango*](https://vimeo.com/90339479) (1980)
