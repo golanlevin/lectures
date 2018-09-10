@@ -32,8 +32,8 @@ Here’s a decimal clock from the late 1700s:<br />
 We see this again in the *10-Hour Flux Clock* by George Maciunas (1969):<br />
 [![](images/maciunas.jpg)](https://www.moma.org/collection/works/128651?locale=en)
 
+--- 
 
--- 
 ### Software Clocks (I)
 
 Let’s start with something simple. [The Colour Clock](http://thecolourclock.co.uk/) displays the current time as a hexadecimal color. Hours = red, minutes = green, seconds = blue. There you go; glad that’s over with. In case you were wondering, more than several people have thought of this idea. Low hanging fruit.
