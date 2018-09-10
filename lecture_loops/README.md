@@ -152,7 +152,7 @@ Check out more glossy cinemagraphs [here](http://cinemagraphs.com/).
 
 ## Computational Art and GIF Loops
 
-There are a burgeoning number of computational artists and designers who are discovering vast and expressive new worlds in the constraints of this durable format for dynamic imaging. 
+There are a burgeoning number of computational artists, designers and animators who are discovering vast and expressive new worlds in the constraints of this durable format for dynamic imaging. 
 
 ![](images/bees_and_bombs_cube.gif)<br />
 *Loop by David Whyte ([Bees & Bombs](https://beesandbombs.tumblr.com/))*
@@ -174,5 +174,5 @@ Here’s a list of some leading practitioners; please spend some time with their
 * [Aaron Meyers](http://teleaaron.tumblr.com/tagged/loop)
 * Rachel Binx and Sha Hwang developed [GIFPop!](https://gifpop.io/collections/artists), an e-commerce system for converting animated gifs into lenticular prints. 
 
-![](images/bees-and-bombs-up-dn_540px.gif)<br />
-*Loop by David Whyte ([Bees & Bombs](https://beesandbombs.tumblr.com/))*
+![](images/cindy-suen-cubes.gif)<br />
+*Loop by [Cindy Suen](http://cindysuen.tumblr.com/post/162482063730/rainbowcubes)*
