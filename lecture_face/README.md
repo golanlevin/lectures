@@ -8,6 +8,15 @@ This page inherits significantly from resources [originally compiled by Kyle McD
 * [*Machine Pareidolia*](http://urbanhonking.com/ideasfordozens/2012/01/14/machine-pareidolia-hello-little-fella-meets-facetracker/) by Greg Borenstein (2012)
 * [*Más Que la Cara Overview*](https://medium.com/@zachlieberman/m%C3%A1s-que-la-cara-overview-48331a0202c0) by Zach Lieberman (2017)
 
+### Tools
+
+* See [this link](toolkits.md) for links to face tracking tools and templates. 
+
+### Masks (Preliminaries)
+
+* [*Masks Around the World*](https://www.youtube.com/watch?v=YWb_en6Fr-k) (introductory)
+* [*5 Creepy Masks from History*](https://www.youtube.com/watch?v=Ycxtk6RjOGI)
+
 --- 
 
 ### Performance
@@ -48,6 +57,7 @@ This page inherits significantly from resources [originally compiled by Kyle McD
 * Lingdong Huang, [*Face-Powered Shooter*](https://vimeo.com/187285292) (2017)
 * Elliott Spelman, [*Expressions* controller](http://facegames.co/expressions) (2018)
 * Nexus Studio, [*Face Pinball*](https://twitter.com/nexusstories/status/1023984741001965571) (2018)
+* Rafael Lozano-Hemmer, [*The Year's Midnight*](http://lozano-hemmer.com/the_years_midnight.php) (2010) 
 
 ### Face Intermixing
 
@@ -97,8 +107,5 @@ This page inherits significantly from resources [originally compiled by Kyle McD
 
 #### Bonus: Zach Lieberman's Instagram studies
 
-* Zach Lieberman's studies: <em><a href="https://vimeo.com/32857963">Face++</a></em>, <a href="https://www.instagram.com/p/Beli5JFAM0o/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BegV_t7AoUJ/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BeeP2yaATEd/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BeYBf_8AI0n/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BeT1n_pAFUN/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/Bd0gS9NAf4N/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BdJfpljAfQJ/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BdHFBDgAkRx/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/Bc_ynw5AC7q/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BaZ2Ed9AZgG/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BY9SY6gAkNJ/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BZBzEq-APM2/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BXTBSFpgkIS/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BUicj7zAAfm/?taken-by=zach.lieberman">inst</a> ...
+* Zach Lieberman's AR face studies: <em><a href="https://vimeo.com/32857963">Face++</a></em>, <a href="https://www.instagram.com/p/Beli5JFAM0o/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BegV_t7AoUJ/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BeeP2yaATEd/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BeYBf_8AI0n/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BeT1n_pAFUN/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/Bd0gS9NAf4N/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BdJfpljAfQJ/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BdHFBDgAkRx/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/Bc_ynw5AC7q/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BaZ2Ed9AZgG/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BY9SY6gAkNJ/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BZBzEq-APM2/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BXTBSFpgkIS/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BUicj7zAAfm/?taken-by=zach.lieberman">inst</a> ...
 
-Etc. 
-
-* Rafael Lozano-Hemmer, [*The Year's Midnight*](http://lozano-hemmer.com/the_years_midnight.php) (2010) 
