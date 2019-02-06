@@ -275,13 +275,15 @@ https://magenta.tensorflow.org/sketch-rnn-demo
 
 ### Student Project: *Human Lines* by Akiva Krauthamer
 
-[Akiva Krauthamer](http://www.akivadesign.com/default.html) was an undergraduate in the CMU School of Drama who took our *Interactive Art* advanced studio course in 2016. For his final project, he created [*Human Lines*](http://golancourses.net/2016/akiva/04/28/human-lines/), a system which used a performer's speech and body to create drawings in space. Two of his key inspirations were: 
-
-1. William Forsythe, [*Improvisation Technologies*](https://www.youtube.com/watch?time_continue=4&v=6X29OjcBHG8) (1995)<br />
+[Akiva Krauthamer](http://www.akivadesign.com/default.html) was an undergraduate in the CMU School of Drama who took our *Interactive Art* advanced studio course in 2016. For his final project, he created [*Human Lines*](http://golancourses.net/2016/akiva/04/28/human-lines/), a system which used a performer's speech and body to create drawings in space. His three key inspirations were:
+ 
+1. 20th century Bauhaus choreographer, Oskar Schlemmer<br />
+![](images/schlemmer.jpg)
+2. William Forsythe, [*Improvisation Technologies*](https://www.youtube.com/watch?time_continue=4&v=6X29OjcBHG8) (1995)<br />
 ![Forsythe](images/william_forsythe_improvisation_technologies_anim.gif)
  * [William Forsythe, example 1](https://www.youtube.com/watch?time_continue=4&v=6X29OjcBHG8)
  * [William Forsythe, example 2](https://www.youtube.com/watch?time_continue=5&v=cqGyFiEXXIQ)
-2. Chris Schmandt, [*Put that There*](https://www.youtube.com/watch?v=RyBEUyEtxQo) (1979)<br />
+3. Chris Schmandt, [*Put that There*](https://www.youtube.com/watch?v=RyBEUyEtxQo) (1979)<br />
 [![](images/put-that-there.png)](https://www.youtube.com/watch?v=RyBEUyEtxQo)
 
 Akiva's [*Human Lines*](http://golancourses.net/2016/akiva/04/28/human-lines/) project uses the Kinect skeleton tracking and real-time speech-to-text to enable voice-created lines on the body:<br />
