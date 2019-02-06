@@ -93,7 +93,7 @@ Julien Maire, [*Digit*](https://www.youtube.com/watch?v=IzDtVR0-0Es) (2008, 2015
 Christine Sugrue & Damian Stewart, [*A Cable Plays*](http://csugrue.com/acableplays/) (2008)<br />
 [![A Cable Plays](images/sugrue_cable_plays_2008.gif)](https://vimeo.com/12618634)
 
-Sougwen Chung, [*Drawing Operations*](http://sougwen.com/project/drawing-operations) (2015)
+Sougwen Chung, [*Drawing Operations*](http://sougwen.com/project/drawing-operations) (2015)<br />
 [![Sougwen Chung](images/chung_drawing_operations_2015.gif)](https://www.youtube.com/watch?v=yGQIh_g6WLM&t=0m54s)<br />
 *In this project, the robotic arm mimics the artist’s gesture by seeing through an overhead camera, and analyzing the movement through computer vision software. The result is a synchronicity of movement between artist and machine, captured as a drawing artifact.*
 
@@ -102,11 +102,10 @@ Sougwen Chung, [*Drawing Operations*](http://sougwen.com/project/drawing-operati
 Chutes
 
 
-Aaron Koblin, [*The Sheep Market*](http://www.aaronkoblin.com/project/the-sheep-market/) (2008)
+Aaron Koblin, [*The Sheep Market*](http://www.aaronkoblin.com/project/the-sheep-market/) (2008)<br />
 [![The Sheep Market](images/koblin_sheep_market_2008.gif)](https://www.youtube.com/watch?v=3Mmb5aSscck)
 
 Chris Milk & Aaron Koblin, [*Johnny Cash Project*](https://vimeo.com/15416762), 2011
-
 
 
 TEDDY: A Sketching Interface for 3D Freeform Design (1999), by Takeo Igarashi infers 3D information from a 2D silhouette:
@@ -171,7 +170,7 @@ Various, [*GPS drawings*](http://www.gpsdrawing.com/gallery.html)<br />
 Daphne Oram, *Oramics Machine* (1960s), “drawn sound” machine by  [play from 1:52](https://www.youtube.com/watch?v=mJ08diPUv6A&t=1m52s)<br />
 [![Oramics Machine](images/oram.jpg)](https://www.youtube.com/watch?v=mJ08diPUv6A&t=1m52s)
 
-Laurie Spiegel, *VAMPIRE* (1974-1979)
+Laurie Spiegel, *VAMPIRE* (1974-1979)<br />
 ![](images/spiegel.jpg)<br />
 ![](images/vampire.png)<br />
 Laurie Spiegel at Bell Labs created *VAMPIRE* (Video and Music Program for Interactive Realtime Exploration), a performance system for the simultaneous synthesis of video images and electronic sound. Spiegel’s system built on the GROOVE computer music system created by Max Matthews, by combining it with paintprogram-like graphic algorithms by Kenneth Knowlton. The VAMPIRE system offered realtime, gestural control of both sound and video image, through a variety of continuous input
@@ -285,7 +284,7 @@ https://magenta.tensorflow.org/sketch-rnn-demo
 2. Chris Schmandt, [*Put that There*](https://www.youtube.com/watch?v=RyBEUyEtxQo) (1979)<br />
 [![](images/put-that-there.png)](https://www.youtube.com/watch?v=RyBEUyEtxQo)
 
-Akiva's [*Human Lines*](http://golancourses.net/2016/akiva/04/28/human-lines/) project uses the Kinect skeleton tracking and real-time speech-to-text to enable voice-created lines on the body:
+Akiva's [*Human Lines*](http://golancourses.net/2016/akiva/04/28/human-lines/) project uses the Kinect skeleton tracking and real-time speech-to-text to enable voice-created lines on the body:<br />
 [![](images/akiva_clap.gif)](https://www.youtube.com/watch?v=B9SiAHSsQCM)<br />
 [![](images/akiva_jump.gif)](https://www.youtube.com/watch?v=B9SiAHSsQCM)<br />
 
