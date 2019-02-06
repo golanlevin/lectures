@@ -41,7 +41,7 @@ Scott Snibbe, [*Motion Phone*](https://www.youtube.com/watch?v=m2OVn4fUHPs) (199
 
 Golan Levin, [*Yellowtail*]() (1998-)
 
-####Augmentation with Physics: 
+#### Augmentation with Physics: 
 
 Paul Haeberli: [*Dynadraw*](http://www.graficaobscura.com/dyna/) (1989)<br />
 ![DynaDraw](images/dyna.gif)
@@ -55,7 +55,14 @@ Paul Haeberli: [*Dynadraw*](http://www.graficaobscura.com/dyna/) (1989)<br />
 [*Uzu*](https://www.youtube.com/watch?v=etEqfBrVp1w), 2009
 [![](images/uzu.png)](https://www.youtube.com/watch?v=etEqfBrVp1w)
 
+#### Augmentation with Other Algorithms
+
+[*Recursive Drawing*](http://recursivedrawing.com/) (2011) by Toby Schachman.<br />
+[![](images/recursive.png)](https://vimeo.com/41822151)
+
+
 Scott Snibbe, [*Bubble Harp*](https://www.youtube.com/watch?v=wkLB9ODb3Gc) (1998-2012)
+
 
 ---
 
