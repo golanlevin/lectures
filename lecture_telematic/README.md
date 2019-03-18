@@ -102,6 +102,14 @@ Hole in Space (1980) was a "communication sculpture" by Kit Galloway and Sherrie
 #### Million Dollar Homepage (2005) 
 [*Million Dollar Homepage*](http://milliondollarhomepage.com/) is a website "conceived by Alex Tew, a student from Wiltshire, England, to raise money for his university education. The home page consisted of a million pixels arranged in a 1000x1000 pixel grid; the image-based links on it were sold for $1 per pixel in 10x10 blocks. The purchasers of these pixel blocks provided tiny images to be displayed on them, a URL to which the images were linked, and a slogan to be displayed when hovering a cursor over the link. The aim of the website was to sell all of the pixels in the image, thus generating a million dollars of income for the creator." ([Wikipedia](https://en.wikipedia.org/wiki/The_Million_Dollar_Homepage))
 
+![](images/million_dollar_homepage.png)
+
+In the Harvard study, "[A Million Squandered: The “Million Dollar Homepage” as a Decaying Digital Artifact](https://lil.law.harvard.edu/blog/2017/07/21/a-million-squandered-the-million-dollar-homepage-as-a-decaying-digital-artifact/)", you can see which links still work after 12 years: 
+
+![](images/million_dollar_2017.png)
+
+The 547 unreachable links are attached to graphical elements that collectively take up 342,000 pixels (face value: $342,000).
+
 #### R/Place (2017)
 [*R/Place*](https://en.wikipedia.org/wiki/Place_(Reddit)) "was a collaborative project and social experiment hosted on the social networking site Reddit that began on April Fools' Day 2017. The experiment involved an online canvas of one million (1000x1000) pixel squares, located at a subreddit called /r/place, which registered users could edit by changing the color of a single pixel from a 16-colour palette. After each pixel was placed, a timer prevented the user from placing any pixels for a period of time varying from 5 to 20 minutes." (Wikipedia)
 
