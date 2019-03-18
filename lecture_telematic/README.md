@@ -39,7 +39,7 @@ Questions:
 
 #### Across deep time: the Chauvet Cave paintings (40KY BCE)
 
-We will watch a portion of [*The Cave of Forgotten Dreams by Werner Herzog*](https://www.youtube.com/watch?v=l7XTERdQZf8&t=29m58s), from 29:58 - 32:45. Regarding two artists, 5000 years apart, who 'collaborated' on the same drawing, Herzog remarks: "We are locked in history, and they were not."
+We will watch a portion of [*The Cave of Forgotten Dreams by Werner Herzog*](https://www.youtube.com/watch?v=l7XTERdQZf8&t=29m58s), from 29:58 - 32:45 (purchase required). Regarding two artists, 5000 years apart, who 'collaborated' on the same drawing, Herzog remarks: "We are locked in history, and they were not."
 
 [![image](images/cave_of_forgotten_dreams.jpg)](https://www.youtube.com/watch?v=l7XTERdQZf8&t=29m58s)
 
