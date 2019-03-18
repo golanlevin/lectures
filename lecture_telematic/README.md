@@ -164,6 +164,12 @@ Zach Gage's [*Can We Talk?*](https://vimeo.com/27421540)(2011) "is a chat progra
 
 [![Zach Gage's *Can We Talk?*](images/can_we_talk.png)](https://vimeo.com/27421540)
 
+#### The Smaller Picture (2002)
+
+The Smaller Picture (2002) by Kevan Davis is one of the first massively crowdsourced Internet artworks, and is still operational at [https://kevan.org/smaller.cgi](https://kevan.org/smaller.cgi), but the best part is no longer there — an emergent alphabet created by the hive mind:
+
+![](images/datavis_smaller_picture.jpg)
+
 #### Do Not Touch (2013)
 Studio Moniker's [*Do Not Touch*](http://donottouch.org/) (2013) [[live version here](http://donottouch.org/)] is a music video created from the crowdsourced movements of its viewers' cursors.
 
