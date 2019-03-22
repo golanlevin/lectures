@@ -22,6 +22,9 @@ J. Eisenman = Parametric Vase diagram
 Meshu = personal + fab pipeline
 Epler = political + data
 Kyle & Lisa Jeans - body + hand fabrication
+This is Art - Osman Khan
+
+
 
 ### Introduction
 
