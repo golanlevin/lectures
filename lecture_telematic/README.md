@@ -185,6 +185,13 @@ Lauren McCarthy's [*Social Turkers*](http://socialturkers.com/) (2013) asks: "Wh
 
 ![](images/horvitz_app_01-1200x800.jpg)
 
+#### Thumbkiss / Couple (2018)
+
+Another network-for-two is "[Thumbkiss](https://www.youtube.com/watch?v=NkveWyiU4Go&t=1m47s)" (recently renamed "Couple"). Couples in remote locations align their thumbprints in a shared, 2D virtual screenspace. 
+
+[![](images/thumbkiss.gif)](https://www.youtube.com/watch?v=NkveWyiU4Go&t=1m47s)
+
+
 #### Die With Me (2018)
 Dries Depoorter and David Surprenant developed [Die With Me](http://diewithme.online/), a chat app you can only use when you have less than 5% battery. "Die together in a chatroom on your way to offline peace."
 
