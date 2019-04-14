@@ -16,6 +16,8 @@
 
 ![Caleb Larsen, $10,000 Scupture](images/caleb_larsen_10ksculpture.jpg)
 
+
+
 ---
 
 ### Kim Beck & Osman Khan
@@ -27,6 +29,16 @@
 [![Beck/Khan sliding door](images/kim_beck_sliding_door.gif)](http://www.idealcities.com/when-laughter-trips-at-the-threshold-of-the-divine/)
 
 ![Beck/Khan sliding door](images/kim-beck-laughter-02.jpg)
+
+---
+
+### Andrew Ohanesian
+
+**[Pierogi West ATM Vestibule](https://www.pierogi2000.com/pierogi-west-atm-vestibule/)**, 2016
+
+*"A fully functioning ATM built by the artist charged the user the hefty fee of $4.99, but after completing a transaction, the user received a receipt with a title and an edition number on it… basically, a purchased work of art."*
+
+[![Pierogi West ATM Vestibule](images/andrew_ohanesian_pierogi_atm_03.jpg)](https://www.pierogi2000.com/pierogi-west-atm-vestibule/)
 
 ---
 
