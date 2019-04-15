@@ -6,12 +6,14 @@
 
 ### Overview
 
+We're doing a [speed project](http://fffff.at/speed-project/) with barcode scanners. Our purpose is to loosen up, have some fun, and think in some new ways.
+
 * Organize yourselves into two-person teams. 
 * Each team will receive a barcode scanner. 
-* You're also provided with barcode fonts, and some self-adhesive label paper. Feel free to use these, or any objects at your disposal that have barcodes. 
-* Using any programming environment you prefer, create an interesting interaction with barcodes. 
-* You have ~2, maybe 3 hours. If your idea outstrips your resources, make a speculative mockup. 
-* Document your project in time for our next class session, and move on to other things. 
+* You're also provided with barcode fonts, and some self-adhesive label paper. Feel free to use these, or any objects at your disposal that have barcodes on them. 
+* Using any programming environment you prefer, create an interesting interaction with barcodes. Whimsical is good. Go for it. 
+* You have until the end of class to complete this. If your idea outstrips your time or resources, make a speculative mockup. Emphasis is on concept.
+* Document your speed project in time for our next class session, and move on to other things. 
 
 Viewing: [*Barcode DJs*](https://www.youtube.com/watch?v=n610IKQM4IA) (Jakub Pišek, Beata Kolbašovská, Erik Bartoš, 2017)
 
