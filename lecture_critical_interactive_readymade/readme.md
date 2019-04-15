@@ -1,8 +1,16 @@
 # The Critical Interactive Readymade
 
+On the spectrum of interactive art, work at one extreme often looks something like this: 
 
+![Teamlab installation](images/teamlab-1024x683.jpg)
 
+Such work is expensive, immersive, and oriented to spectacle. The work communicates that it values large scale, fast frame rates, high resolution, low latency, and illusion. It is commissioned by patrons. It has broad appeal as entertainment, and straddles the line between kitsch and sublime. 
 
+***What is its opposite?***
+
+In this lecture we discuss works which are modest, conceptual, and above all, provocative. By adopting the user interface vocabulary of everyday commerce as a readymade, these projects employ interactivity to critically examine the dynamics of power and defamiliarize our relationship to late capitalism.
+
+Below are some examples of work at this "other end" of the spectrum.  
 
 ---
 
@@ -16,6 +24,8 @@
 
 ![Caleb Larsen, $10,000 Scupture](images/caleb_larsen_10ksculpture.jpg)
 
+Other notable work by Caleb Larsen: 
+* [A Tool to Deceive and Slaughter](images/A_Tool_to_Deceive_and_Slaughter.pdf), 2009
 
 
 ---
@@ -32,9 +42,21 @@
 
 ---
 
+### Osman Khan 
+
+[**Khan Artist**](http://www.osmankhan.com/works.asp?name=Khan%20Artist), 2004
+
+*"In Khan Artist, the artist directly appropriates the act and very systems of credit consumption. Registering as a validated merchant with a fully operational credit processing machine and account, the Artist (or through a sales rep proxy) asks the visitor to make a purchase - though no product or service is returned in kind at the time of transaction. The visitor's purchase card will be charged an amount of money (a minimum of $1.00 is required, though the visitor can willingly offer a higher amount). The Artist's name will show up on the itemized list of the visitor's monthly statement.*
+
+*"What is bought and what is sold? Is the piece become more precious if a larger amount is charged? Does the statement become an art object simply because the artist's name appears on it or acknowledgment of art and artist as commodity and product. Consumption of art or consumption as art?"*
+
+![Khan Artist](images/khan-artist.jpg)
+
+---
+
 ### Andrew Ohanesian
 
-**[Pierogi West ATM Vestibule](https://www.pierogi2000.com/pierogi-west-atm-vestibule/)**, 2016
+**[Pierogi West ATM Vestibule](https://www.pierogi2000.com/pierogi-west-atm-vestibule/)**, 2011-2016
 
 *"A fully functioning ATM built by the artist charged the user the hefty fee of $4.99, but after completing a transaction, the user received a receipt with a title and an edition number on it… basically, a purchased work of art."*
 
@@ -68,13 +90,16 @@ A product-as-provocation. *"The design for IRL Glasses is inspired by the 1988 c
 
 ---
 
-### mediengruppe_bitnik
+### !Mediengruppe Bitnik (Carmen Weisskopf + Domagoj Smoljo)
 
 **[Postal Machine Decision](https://www.instagram.com/p/BrfjYK-FaQt/)**, 2018 
 
 *"Each parcel carries two addresses, one on front, one on back, each with a unique barcode waiting to be scanned. Postal machines decide which direction the parcel takes, depending on which side is "up". Some parcels bounce around the postal system for weeks, traveling back and forth between Berlin, Leipzig, Halle, Cologne and Brussels. Some take a more direct route."*
 
 [![Bitnik Postal Machine](images/postal_machine.gif)](https://www.instagram.com/p/BrfjYK-FaQt/)
+
+Other notable work by !Mediengruppe Bitnik:
+* [Random Darknet Shopper](https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/r/), 2014
 
 ---
 
@@ -93,13 +118,8 @@ The Euthanasia Coaster would kill its passengers through prolonged cerebral hypo
 ![Euthanasia Coaster](images/eu-1000.jpeg)
 
 Other projects by Urbonas: 
-* [Objects for Arithmomaniacs](http://julijonasurbonas.lt/objects-for-arithmomaniacs/)
-* [Talking Doors](http://julijonasurbonas.lt/talking-doors/)
-
-
-
-
-
+* [Objects for Arithmomaniacs](http://julijonasurbonas.lt/objects-for-arithmomaniacs/), 2008
+* [Talking Doors](http://julijonasurbonas.lt/talking-doors/), 2009
 
 
 

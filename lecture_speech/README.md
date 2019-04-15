@@ -87,8 +87,6 @@ https://www.youtube.com/watch?v=BloTVTziM6c&t=1m27s
 * [Paper Signals](https://experiments.withgoogle.com/voice/paper-signals)
 
 
-
-
 ---
 
 ### Tools: 
@@ -118,3 +116,18 @@ RiTa is able to [break a word into syllables](https://rednoise.org/rita/referenc
 
 * [Compromise](https://github.com/spencermountain/compromise)
 * [Bottery](https://github.com/google/bottery)
+
+---
+
+### New Links (2019)
+
+Unincorporated links (TODO)
+
+* [Juerg Lehni, Apple Talk](http://juerglehni.com/works/apple-talk)
+* [Shannon Mattern, *History of Vocal Interfaces*](http://www.wordsinspace.net/interfaces/2019/portfolio/march-26-history-of-vocal-interfaces/)
+* [Shannon Mattern, *Contemporary Vocal Interfaces*](http://www.wordsinspace.net/interfaces/2019/portfolio/april-2-contemporary-vocal-interfaces/)
+* [Nicole He, *Fifteen Unconventional Uses of Voice Technology*](https://medium.com/@nicolehe/fifteen-unconventional-uses-of-voice-technology-fa1b749c14bf)
+* [Projects by Nicole He](http://nicole.pizza/)
+* [Nicole He, *Talking to Computers* (lecture)](https://www.youtube.com/watch?v=-TduI4IZ6SM)
+* [Perry Cook, VOCE: Voice + Technology](http://www.vocebella.org/)
+
