@@ -234,3 +234,11 @@ Animator [**David Lewandowski**](https://www.youtube.com/user/lewandowskidavid) 
 [*Motion capture study*](http://cmuems.com/2016/60212/krawleb/11/15/krawleb-mocap/) by Katrina Chaudoin & Kaleb Crawford (2016). This study, a collaboration between an Art sophomore and a Design junior, explores how a digital body enables operations like copy-paste. Here, the dynamic form of the performer's arm is duplicated and translocated.<br />
 [![](images/krawleb_kadoin_walking_man_anim.gif)](http://cmuems.com/2016/60212/krawleb/11/15/krawleb-mocap/)
 
+<hr />
+
+### Unprocessed Links
+
+* Bill T. Jones and Google Creative Lab have collaborated to create ["Body, Movement, Language"](https://experiments.withgoogle.com/billtjonesai)
+* ["A Visual Journey Through Addiction"](https://www.nytimes.com/interactive/2018/us/addiction-heroin-opioids.html). Shreeya Sinha with Zach Lieberman and Leslye Davis. New York Times, 12/18/2018. [*More Info*](https://www.nytimes.com/2018/12/20/reader-center/opioid-addiction-graphic-video.html)
+
+
