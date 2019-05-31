@@ -240,5 +240,7 @@ Animator [**David Lewandowski**](https://www.youtube.com/user/lewandowskidavid) 
 
 * Bill T. Jones and Google Creative Lab have collaborated to create ["Body, Movement, Language"](https://experiments.withgoogle.com/billtjonesai)
 * ["A Visual Journey Through Addiction"](https://www.nytimes.com/interactive/2018/us/addiction-heroin-opioids.html). Shreeya Sinha with Zach Lieberman and Leslye Davis. New York Times, 12/18/2018. [*More Info*](https://www.nytimes.com/2018/12/20/reader-center/opioid-addiction-graphic-video.html)
-
+* [It’s Murder On The Dancefloor: Incredible Expressionist Dance Costumes From The 1920s](https://dangerousminds.net/comments/its_murder_incredible_expressionist_dance_costumes_from_1920s)
+* Manabe, Daito. [Human Form and Motion](https://github.com/daitomanabe/Human-Pose-and-Motion)
+* [A Brief History Of Motion-capture In The Movies](https://www.ign.com/articles/2014/07/11/a-brief-history-of-motion-capture-in-the-movies)
 
