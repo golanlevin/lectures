@@ -1,15 +1,15 @@
-# A Brief Survey of Convolutional Neural Nets (CNNs) and Art
+# A Brief Survey of Convolutional Neural Nets (CNNs) and Generative Adversarial Networks (GANs) in Art
 
-As with 'traditional' generative art (e.g. Vera Molnár), artists are still creating programs that render a form, and these forms are still characterized, or parameterized, by variables. What’s interesting about the use of ML in the arts, is that the values of these variables are no longer specified by the artist. Instead, the variables are now *deduced indirectly* from the training data that the artist provides. As Kyle McDonald has pointed out, machine learning is *programming with examples, not instructions*.
+As with 'traditional' generative art (e.g. Vera Molnár), artists using machine learning (ML) continue to develop programs that render an infinite variety of forms, and these forms are still characterized (or parameterized) by variables. What’s interesting about the use of ML in the arts, is that the values of these variables are no longer specified by the artist. Instead, the variables are now *deduced indirectly* from the training data that the artist provides. As Kyle McDonald has pointed out, machine learning is *programming with examples, not instructions*.
 
-Furthermore, these variables control perceptually higher-order properties. The artist’s job becomes one of selecting or creating training sets, and deftly controlling the values of the neural networks’ variables. 
+The use of ML typically means that the artists' new variables control *perceptually higher-order properties*. (The parameter space, or number of possible variables, may also be significantly larger.) The artist’s job becomes one of selecting or creating training sets, and deftly controlling the values of the neural networks’ variables. 
 
 
 ### Helena Sarin, [*Leaves*](https://twitter.com/glagolista/status/1089157286684184576) (2018)
 
 [![Leaves by Helena Sarin](images/helena_sarin_leaves.jpg)](https://twitter.com/glagolista/status/1089157286684184576)
 
-Helena Sarin has trained a [Generative Adversarial Network](https://www.youtube.com/watch?v=ZRgwcMqxhPw) on images of leaves. As with the feedback between counterfeiters and the police, Sarin's generator attempts to synthesize a leaf-like image; the discriminator attempts to determine whether or not it is a real image of a leaf. Using evaluative feedback from the discriminator, the generator eventually creates such good leaves that the discriminator can't tell real from fake. 
+Helena Sarin has trained a [Generative Adversarial Network](https://www.youtube.com/watch?v=ZRgwcMqxhPw) on images of leaves. As with feedback between counterfeiters and authorities, Sarin's generator attempts to synthesize a leaf-like image; the discriminator then attempts to determine whether or not it is a real image of a leaf. Using evaluative feedback from the discriminator, the generator improves its fakes, eventually creating such good leaves that the discriminator can't tell real from fake. 
 
 (Incidentally, it's also possible to generate music this way. For example, here is [*Relentless Doppelganger*](https://www.youtube.com/watch?v=MwtVkPKx3RA) by DADABOTS (CJ Carr and Zack Zukowski), an infinite live stream of generated death metal.)
 
@@ -61,6 +61,8 @@ Akten uses input from a webcam to shape the response from a GAN, as it tries its
 #### Move Lab, [*Beat the Traffic*](https://www.move-lab.com/project/beatthetraffic/newyork/level/1/)
 
 [![Beat the Traffic by Move Lab](images/community-beat-the-traffic.jpg)](https://www.move-lab.com/project/beatthetraffic/newyork/level/1/)
+
+In this mini-game by Benedikt Groß et al., CNNs have been used to detect vehicles. 
 
 
 ---
