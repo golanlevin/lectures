@@ -296,6 +296,7 @@ Akiva's [*Human Lines*](http://golancourses.net/2016/akiva/04/28/human-lines/) p
 ### Unprocessed Links 
 
 * https://twitter.com/Gaziter/status/1132007797485395969
+* http://yangyang.blog/2019/04/magical-pencil/ ITP student thesis: draw the things you need to play the game.
 
 
 

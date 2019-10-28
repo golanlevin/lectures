@@ -47,10 +47,11 @@ Feel free to use 'found' barcodes, too.
 
 We are using [Code39 Barcodes](https://en.wikipedia.org/wiki/Code_39), an older format with wide compatibility. It represents 43 characters: all uppercase letters, numbers, and some special characters: 
 ```
-ABCDEFGHIJKLMNOPQRSTUVW 1234567890 $% / + .- 
+ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890$%/+.-_ 
 ```
+Note that there is no 'space' character, but you can use an underscore. 
 
-In plain text, barcodes must begin and end with an asterisk (*), as in: 
+**HERE'S THE MOST IMPORTANT INFORMATION.** Barcodes must begin and end with an asterisk (*), as in: 
 
 ```
 *HELLO*

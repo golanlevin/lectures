@@ -109,3 +109,7 @@ This page inherits significantly from resources [originally compiled by Kyle McD
 
 * Zach Lieberman's AR face studies: <em><a href="https://vimeo.com/32857963">Face++</a></em>, <a href="https://www.instagram.com/p/Beli5JFAM0o/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BegV_t7AoUJ/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BeeP2yaATEd/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BeYBf_8AI0n/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BeT1n_pAFUN/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/Bd0gS9NAf4N/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BdJfpljAfQJ/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BdHFBDgAkRx/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/Bc_ynw5AC7q/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BaZ2Ed9AZgG/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BY9SY6gAkNJ/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BZBzEq-APM2/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BXTBSFpgkIS/?taken-by=zach.lieberman">inst</a>, <a href="https://www.instagram.com/p/BUicj7zAAfm/?taken-by=zach.lieberman">inst</a> ...
 
+
+#### Unsorted additions (8/2/2019)
+
+* Hayden Anyasi, [StandardEyes](http://standardeyes.co.uk/)
