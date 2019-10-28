@@ -64,6 +64,13 @@ Akten uses input from a webcam to shape the response from a GAN, as it tries its
 
 In this mini-game by Benedikt Groß et al., CNNs have been used to detect vehicles. 
 
+#### Other links
+
+* [The Infinite Drum Machine](https://experiments.withgoogle.com/drum-machine), Manny Tan & Kyle McDonald (2017)
+
+* [White Collar Crime Risk Zones](https://lav.io/projects/white-collar-crime-risk-zones/), Sam Lavigne 
+
+
 
 ---
 
@@ -90,6 +97,8 @@ Not only is it possible to synthesize images which maximally activate the porn-d
 ---
 
 ### Some Technical Explanations of CNNs
+
+* "[Feature Visualization: How neural networks build up their understanding of images](https://distill.pub/2017/feature-visualization/)", Olah, Chris and Mordvintsev, Alexander and Schubert, Ludwig. Distill.pub
 
 * Gene Kogan, [*What convolutional neural networks see*](https://www.youtube.com/watch?v=Gu0MkmynWkw) (YouTube)
 
