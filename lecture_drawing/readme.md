@@ -32,7 +32,7 @@ Zach Lieberman's [2015 Eyeo lecture](https://vimeo.com/135073747), 7:20 - 18:40 
 Zach Lieberman, [*Inkspace*](https://www.youtube.com/watch?v=cufd7XnG4A8) (2015)
 [![](images/inkspace.png)](https://www.youtube.com/watch?v=cufd7XnG4A8)
 
-Josh Nimoy's [*Scribble Variations*](https://github.com/jtnimoy/scribble-variations) (2001)<br />
+JT Nimoy's [*Scribble Variations*](https://github.com/jtnimoy/scribble-variations) (2001)<br />
 [![](images/nimoy.gif)](https://github.com/jtnimoy/scribble-variations)
 
 Scott Snibbe, [*Motion Phone*](https://www.youtube.com/watch?v=m2OVn4fUHPs) (1995-2012)<br />
@@ -297,7 +297,7 @@ Akiva's [*Human Lines*](http://golancourses.net/2016/akiva/04/28/human-lines/) p
 
 * https://twitter.com/Gaziter/status/1132007797485395969
 * http://yangyang.blog/2019/04/magical-pencil/ ITP student thesis: draw the things you need to play the game.
-
+* https://vimeo.com/306264502 Anti-Drawing Machine
 
 
 
