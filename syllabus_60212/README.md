@@ -1,8 +1,10 @@
 # Syllabus for 60-212
 
-Carnegie Mellon University School of Art + IDeATe Program • Prof. Golan Levin
+* *Electronic Media Studio: Interactivity and Computation* (60-212)
+* Carnegie Mellon University School of Art + IDeATe Program
+* Professor Golan Levin
 
-## Contents
+### Contents
 
 * **Overview**
 	* Course Description
