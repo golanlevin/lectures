@@ -63,7 +63,7 @@ Now let’s go back in history. Here are John Maeda’s [12 O’Clocks](http://w
 * Download artwork from [http://www.maedastudio.com/2004/rbooks2k/twelve.html](http://www.maedastudio.com/2004/rbooks2k/twelve.html), [here (twelve.sit)](other/twelve.sit), or an unarchived version [here (12oclocks.app)](other/12oclocks.app)
 * It may be necessary to install [Stuffit Expander](https://apps.apple.com/us/app/stuffit-expander-16/id919269455).
 * Unstuff twelve.sit, and locate the unstuffed *12oclocks.app* in the directory /Users/Shared/MaedaClocks/12oclocks/
-* Launch the [SheepShaver OS9 emulator](http://sheepshaver.cebix.net/), for which you can find downloads in this [forum](https://www.emaculation.com/forum/viewtopic.php?f=20&t=7360&sid=9f0939dd674fd526f11aa79efbb56c30) or [here (Version 2.5, 8/10/2020)](SheepShaver_notarized_20200810.zip) /Users/golan/Desktop/PEDAGOGY/iacd/2015/clocks/COIV4.0.1+/Classic.app
+* Launch the [SheepShaver OS9 emulator](http://sheepshaver.cebix.net/), for which you can find downloads in this [forum](https://www.emaculation.com/forum/viewtopic.php?f=20&t=7360&sid=9f0939dd674fd526f11aa79efbb56c30) or [here (Version 2.5, 8/10/2020)](SheepShaver_notarized_20200810.zip). I'm using the instructions [here](https://emaculation.com/doku.php/sheepshaver_mac_os_x_setup) with the *New World PPC ROM*  and *Mac OS 9 Boot Image* from [here](https://www.redundantrobot.com/sheepshaver/)
 * After OS9 launches, navigate to Unix/MaedaClocks/12oclocks in OS9; run demo
 * You may need to force-quit SheepShaver to exit.
 
