@@ -239,9 +239,11 @@ Jingwen Zhu's [*Real Me*](http://www.jingwen-zhu.com/real-me/) (2015) "is a chat
 * Bilal, Wafaa. [*Domestic Tension*](http://wafaabilal.com/domestic-tension/) (2007). Viewers log onto the internet to contact the artist, or to shoot him with a paintball gun.
 * Black Socialists of America. *BSA’s Clapback Chest*. 2019. Custom search engine. https://blacksocialists.us/clapback-chest.
 * Brain, Tega, and Sam Lavigne. *Smell Dating*. 2016. Smell-based dating service. http://smell.dating/. 
+* Chen, Alexander. [*Shared Piano*](https://musiclab.chromeexperiments.com/Shared-Piano/#P0kMOE-Po)
 * Depoorter, Dries, and David Surprenant. *Die With Me*. 2018. Mobile chat app. https://diewithme.online.
 * Dinahmoe. *_plink*. 2011. Multiplayer online instrument. [http://dinahmoelabs.com/_plink/](http://dinahmoelabs.com/_plink/).
 * Exonemo. [*The Internet Bedroom*](http://idpw.org/bedroom/) (2015). A sleepover in Google Hangouts.
+* [Fahner, Craig](https://twitter.com/feelalrighttt/status/1304468647310749699). [https://eigengrau.glitch.me](https://eigengrau.glitch.me) A web-based synthesizer you and other people play together, by closing your eyes in front of your computer. 
 * Gage, Zach. *Can We Talk?*. 2011. Chat program. https://vimeo.com/27421540.
 * Goldberg, Ken, and Joseph Santarromana. *Telegarden*. 1995. Collaborative garden with industrial robot arm. Ars Electronica Museum, Linz, Austria. http://ieor.berkeley.edu/~goldberg/garden/Ars.
 * Hawkins, Max. [*Call in the Night*](http://callinthenight.com/) (2013), "An experimental radio show and telephone network documenting the nighttime experience. Anyone with a phone can participate for free."
@@ -260,3 +262,4 @@ Jingwen Zhu's [*Real Me*](http://www.jingwen-zhu.com/real-me/) (2015) "is a chat
 
 
 Kris Paulsen, *Here/There: Telepresence, Touch, and Art at the Interface*
+
