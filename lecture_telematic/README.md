@@ -232,11 +232,31 @@ Jingwen Zhu's [*Real Me*](http://www.jingwen-zhu.com/real-me/) (2015) "is a chat
 * [Pasties](http://pasties.maddy.zone/) - A chatroom in which participants communicate exclusively by copy-pasting.
 
 
+---
+
 #### Time Permitting
 
-If time permits, we'll also look at...
 * Bilal, Wafaa. [*Domestic Tension*](http://wafaabilal.com/domestic-tension/) (2007). Viewers log onto the internet to contact the artist, or to shoot him with a paintball gun.
-* Max Hawkins, [*Call in the Night*](http://callinthenight.com/) (2013), "An experimental radio show and telephone network documenting the nighttime experience. Anyone with a phone can participate for free."
-* Soledad Penadés, [*Chat.meatspac.es*](https://chat.meatspac.es/). (2014), allows 'chatting' with small webcam GIFs.
+* Black Socialists of America. *BSA’s Clapback Chest*. 2019. Custom search engine. https://blacksocialists.us/clapback-chest.
+* Brain, Tega, and Sam Lavigne. *Smell Dating*. 2016. Smell-based dating service. http://smell.dating/. 
+* Depoorter, Dries, and David Surprenant. *Die With Me*. 2018. Mobile chat app. https://diewithme.online.
+* Dinahmoe. *_plink*. 2011. Multiplayer online instrument. [http://dinahmoelabs.com/_plink/](http://dinahmoelabs.com/_plink/).
 * Exonemo. [*The Internet Bedroom*](http://idpw.org/bedroom/) (2015). A sleepover in Google Hangouts.
+* Gage, Zach. *Can We Talk?*. 2011. Chat program. https://vimeo.com/27421540.
+* Goldberg, Ken, and Joseph Santarromana. *Telegarden*. 1995. Collaborative garden with industrial robot arm. Ars Electronica Museum, Linz, Austria. http://ieor.berkeley.edu/~goldberg/garden/Ars.
+* Hawkins, Max. [*Call in the Night*](http://callinthenight.com/) (2013), "An experimental radio show and telephone network documenting the nighttime experience. Anyone with a phone can participate for free."
+* July, Miranda. *Somebody*. 2014. Messaging service. http://somebodyapp.com.
+* Lavigne, Sam, Joshua Cohen, Adrian Chen, and Alix Rule. *PCKWCK*. 2015. Digital novel written in real time. http://uselesspress.org/things/pckwck.
+* Lewis, John. *Intralocutor*. 2006. Interactive voice-activated installation. http://jasonlewis.org/category/artwork/ 
+* Mayer, Jillian. *The Sleep Site, A Place for Online Dreaming,* 2013, website, https://www.jillianmayer.net/a-place-for-online-dreaming.
+* McCarthy, Lauren. *Social Turkers*. 2013. System for crowdsourced relationship feedback. http://socialturkers.com.
+* McDonald, Kyle. *Exhausting a Crowd*. 2015. Video with crowdsourced annotations. https://www.exhaustingacrowd.com.
+* Mutiti, Nontsikelelo and Julia Novitch, *Braiding Braiding,* 2015, experimental publising project. http://nontsikelelomutiti.com/2017/01/24/braiding-braiding/.
+* Penadés, Soledad. [*Chat.meatspac.es*](https://chat.meatspac.es/). (2014), allows 'chatting' with small webcam GIFs.
+* Rohrer, Jason. *Sleep Is Death (Geisterfahrer)*. 2010. Two-player storytelling game. http://sleepisdeath.net/.
+* Sermon, Paul. *Telematic Dreaming*. 1992. Live telematic video installation. http://www.hgb-leipzig.de/~sermon/dream.
+* Sokpop Collective. *sok-worlds*. 2020. Multiplayer collage. https://sokpop.itch.io/sok-worlds.
+* Tale of Tales. *The Endless Forest*. 2005. Multiplayer online role-playing game. http://tale-of-tales.com/TheEndlessForest/.
 
+
+Kris Paulsen, *Here/There: Telepresence, Touch, and Art at the Interface*
