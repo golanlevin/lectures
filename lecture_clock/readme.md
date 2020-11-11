@@ -13,6 +13,8 @@ Created: 2 February 2018
 [A History of Timekeeping in Six Minutes](https://www.youtube.com/watch?v=SsULOvIWSUo). Contextualizes timekeeping in relation to military history.
 [![](images/history-of-timekeeping.jpg)](https://www.youtube.com/watch?v=SsULOvIWSUo)
 
+[72 Micro-Seasons in Ancient Japan](https://thekidshouldseethis.com/post/japan-72-micro-seasons-change-mindfulness-video)
+
 ---
 
 ### Unusual Historical Clocks
