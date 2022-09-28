@@ -132,13 +132,14 @@ Golan Levin & Zach Lieberman, [*Manual Input Workstation*](https://www.youtube.c
 
 ## Resources
 
-![1.gif](clips/1.gif)![2.gif](clips/2.gif)
-![3.gif](clips/3.gif)
-![4.gif](clips/4.gif)
-![5.gif](clips/5.gif)
-![6.gif](clips/6.gif)
-![7.gif](clips/7.gif)
+A [directory](clips/) of demonstration videos of binarized contours:
 
+[![1.gif](clips/1.gif)](clips/1.mov)[![2.gif](clips/2.gif)](clips/2.mov)
+[![3.gif](clips/3.gif)](clips/3.mov)
+[![4.gif](clips/4.gif)](clips/4.mov)
+[![5.gif](clips/5.gif)](clips/5.mov)
+[![6.gif](clips/6.gif)](clips/6.mov)
+[![7.gif](clips/7.gif)](clips/7.mov)
 
 [PContour](https://github.com/LingDong-/PContour) contour tracing code for Processing, by Lingdong Huang
 
