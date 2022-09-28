@@ -93,11 +93,44 @@ Shreeya Sinha with Zach Lieberman and Leslye Davis, [*A Visual Journey Through A
 
 ---
 
-## Personal Perspective (Some Works by Golan)
+## A Personal Perspective (Some Works by Golan)
+
+Golan Levin & Zach Lieberman, [*Messa di Voce*](https://www.youtube.com/watch?v=STRMcmj-gHc) (2003)
+
+[![Messa di Voce](images/messa_6.jpg)](https://www.youtube.com/watch?v=STRMcmj-gHc)
+
+[![Messa di Voce](images/messa_2.jpg)](https://www.youtube.com/watch?v=STRMcmj-gHc)
+
+[![Messa di Voce installation](images/messa_inst.jpg)](https://www.youtube.com/watch?v=kIDlOokfHy8&t=11s)
+
+---
+
+Golan Levin, *Ghost Pole Propagator* (2007, 2016)
+
+![*Ghost Pole Propagator* inspirations](images/gpp-ii-inspirations-665x200.jpg)
+
+![*Ghost Pole Propagator* skeletonization](images/gpp-ii-skeletonization-664x240.gif)
+
+![*Ghost Pole Propagator*, 2007-2016](images/gpp-ii_1.jpg)
+
+---
+
+Golan Levin, [*Interstitial Fragment Processor*](https://vimeo.com/2340199) (2007)
+
+[![*Interstitial Fragment Processor*](images/ifp2.jpg)](https://vimeo.com/86071976)
+
+[![*Interstitial Fragment Processor*](images/ifp.jpg)](https://vimeo.com/2340199)
 
 
+---
 
+Golan Levin & Zach Lieberman, [*Manual Input Workstation*](https://www.youtube.com/watch?v=3paLKLZbRY4) (2004)
 
+[![*Manual Input Workstation*](images/miw.jpg)](https://www.youtube.com/watch?v=3paLKLZbRY4)
+
+---
+
+## Resources
 
 
 
