@@ -132,5 +132,24 @@ Golan Levin & Zach Lieberman, [*Manual Input Workstation*](https://www.youtube.c
 
 ## Resources
 
+![1.gif](clips/1.gif)![2.gif](clips/2.gif)
+![3.gif](clips/3.gif)
+![4.gif](clips/4.gif)
+![5.gif](clips/5.gif)
+![6.gif](clips/6.gif)
+![7.gif](clips/7.gif)
+
+
+[PContour](https://github.com/LingDong-/PContour) contour tracing code for Processing, by Lingdong Huang
+
+[![PContour](images/lingdong-pcontour.gif)](https://github.com/LingDong-/PContour)
+
+---
+
+[Skeleton-tracing](https://github.com/LingDong-/skeleton-tracing) code (for various languages) by Lingdong Huang (includes live [demo](https://skeleton-tracing.netlify.app/) and related [Zhang-Shuen JS demo](https://skeletonization-js.glitch.me/))
+
+
+[![Skeleton-tracing](images/lingdong-skeleton.png)](https://github.com/LingDong-/skeleton-tracing)
+
 
 
