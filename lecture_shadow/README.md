@@ -132,14 +132,56 @@ Golan Levin & Zach Lieberman, [*Manual Input Workstation*](https://www.youtube.c
 
 ## Resources
 
-A [directory](clips/) of demonstration videos of binarized contours:
+#### Pipeline Overview
 
-[![1.gif](clips/1.gif)](clips/1.mov)[![2.gif](clips/2.gif)](clips/2.mov)
-[![3.gif](clips/3.gif)](clips/3.mov)
-[![4.gif](clips/4.gif)](clips/4.mov)
-[![5.gif](clips/5.gif)](clips/5.mov)
-[![6.gif](clips/6.gif)](clips/6.mov)
-[![7.gif](clips/7.gif)](clips/7.mov)
+Here's a typical computer vision pipeline for shadow play.
+
+1. Environment preparation (lighting, costumes, etc.)
+2. Silhouette thresholding to produce blobs
+3. Blob filtering (erosion, dilation, etc.)
+4. Blob contour tracing
+5. Contour filtering (resampling, smoothing)
+6. Win!
+
+
+#### Test Videos
+
+A [directory](clips/) of demonstration videos of binarized body contours:
+
+[![1.gif](images/clips/1.gif)](clips/1.mov)[![2.gif](images/clips/2.gif)](clips/2.mov)
+[![3.gif](images/clips/3.gif)](clips/3.mov)
+[![4.gif](images/clips/4.gif)](clips/4.mov)
+[![5.gif](images/clips/5.gif)](clips/5.mov)
+[![6.gif](images/clips/6.gif)](clips/6.mov)
+[![7.gif](images/clips/7.gif)](clips/7.mov)
+
+---
+
+#### Techniques for Real-Time Silhouette Computing
+
+There are many techniques for extracting silhouettes in real-time. The most appropriate choice of technique will depend on specifics including (but not limited to) lighting, environment, camera hardware, computing hardware, and your level of coding experience. Techniques include:
+
+* **Luminance thresholding.** The silhouette consists of pixels whose luminance is sufficiently darker than some threshold value. This approach is computationally simple, but requires an evenly-lit white background, and absolutely no front-lighting. 
+* **Background subtraction.** The silhouette consists of pixels whose color is sufficiently different than corresponding pixels in a pre-recorded image of the background environment (not including the subject). This approach is computationally simple, but requires an environment whose lighting does not change, and a subject whose skin/clothing is sufficiently different from the background. 
+* **Dynamic thresholding.** A more sophisticated approach to background subtraction. The silhouette consists of pixels whose luminance is sufficiently different than the average luminance (less some threshold) of a *region* of corresponding pixels in a pre-recorded background image. In other words, every pixel in the background image gets its own corresponding threshold, computed from an average of its neighbors. This technique works well if the background is unevenly lit. 
+* **Depth thresholding.** The silhouette consists of pixels whose depth in 3D is less than some threshold. This requires a depth camera, such as a Microsoft Kinect or Intel Realsense.
+* **Machine learning.** The silhouette is "segmented" by a machine-learning model.
+
+---
+
+#### Some Demonstration Projects
+
+* **Brightness Thresholding.** JavaScript by Kyle McDonald: [https://kylemcdonald.github.io/cv-examples/Thresholding/](https://kylemcdonald.github.io/cv-examples/Thresholding/)
+* **Background Subtraction.** JavaScript by Kyle McDonald: [https://kylemcdonald.github.io/cv-examples/BackgroundSubtraction/](https://kylemcdonald.github.io/cv-examples/BackgroundSubtraction/)
+* **Contour Tracing.** JavaScript for p5.js with openCV by Kyle McDonald: [https://kylemcdonald.github.io/cv-examples/ContourDetection-opencvjs/](https://kylemcdonald.github.io/cv-examples/ContourDetection-opencvjs/)
+
+![Contour Tracing](images/contour-tracing-p5-opencv.jpg)
+
+* **Machine-learning based segmentation.** JavaScript, browser-based body segmentation using the BodyPix algorithm in ml5.js (v.0.12.2), implemented in the online p5.js (v.1.4.2) Editor: [https://editor.p5js.org/golan/sketches/z3NqzKcX7](https://editor.p5js.org/golan/sketches/z3NqzKcX7)
+
+![Machine-learning based segmentation](images/ml5js_bodypix_p5js.gif)
+
+---
 
 [PContour](https://github.com/LingDong-/PContour) contour tracing code for Processing, by Lingdong Huang
 
@@ -151,6 +193,12 @@ A [directory](clips/) of demonstration videos of binarized contours:
 
 
 [![Skeleton-tracing](images/lingdong-skeleton.png)](https://github.com/LingDong-/skeleton-tracing)
+
+--- 
+
+In a 2003 Master's thesis, *Unencumbered Full Body Interaction in Video Games*, Jonah Warren presents *Contact, Overlap, Reflect* - a vocabulary of various interaction techniques which can use this kind of body-pixel data. 
+
+![](images/warren_interactions.png)
 
 
 
