@@ -49,7 +49,13 @@ Scott Snibbe, *Screen Series* (2002-2007)
 
 Philip Worthington, [*Shadow Monsters*](https://www.youtube.com/watch?v=ShHQHAlZ7fA) (2004)
 
-[![Philip Worthington, *Shadow Monsters*](images/worthington_monsters.jpg)](9https://www.youtube.com/watch?v=ShHQHAlZ7fA)
+[![Philip Worthington, *Shadow Monsters*](images/worthington_monsters.jpg)](https://www.youtube.com/watch?v=ShHQHAlZ7fA)
+
+---
+
+Rafael Lozano-Hemmer, [*Underscan*](https://www.youtube.com/watch?v=fsqTyo7PcKM) (2005)
+
+[![Rafael Lozano-Hemmer, *Underscan*](images/underscan_london_03.jpg)](https://www.youtube.com/watch?v=fsqTyo7PcKM)
 
 ---
 
