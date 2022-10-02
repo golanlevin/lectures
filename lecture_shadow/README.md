@@ -12,6 +12,19 @@ Myron Krueger & Katrin Hinrichsen, *Videoplace* (1972-1989)
 
 [![Myron Krueger, *Videoplace*](images/krueger_videoplace_3.jpg)](https://www.youtube.com/watch?v=dmmxVA5xhuo&t=133s)
 
+![Videoplace](https://raw.githubusercontent.com/golanlevin/lectures/master/lecture_full_body_interactive_art/images/myron_krueger_videoplace.gif)
+
+![Videoplace](https://raw.githubusercontent.com/golanlevin/lectures/master/lecture_full_body_interactive_art/images/myron_krueger_videoplace_drawing.gif)
+
+![Videoplace](https://raw.githubusercontent.com/golanlevin/lectures/master/lecture_full_body_interactive_art/images/myron_krueger_videoplace_fingeranimation.gif)
+
+
+---
+
+Erkki Kurenniemi, [DIMI-O](https://www.youtube.com/watch?v=d-yHULQ2V5c) (1971)
+
+![DIMI-O](https://raw.githubusercontent.com/golanlevin/lectures/master/lecture_full_body_interactive_art/images/erkki_kurenniemi_dimi_o.gif)
+
 ---
 
 Ed Tannenbaum, [*Recollections*](https://www.youtube.com/watch?v=y3nwMOY0eWQ&t=5s) (1981)
@@ -24,18 +37,23 @@ Jim Campbell, [*Hallucination*](https://www.youtube.com/watch?v=6viIpmm_NDI) (19
 
 [![Jim Campbell, *Hallucination*](images/campbell_hallucination.jpg)](https://www.youtube.com/watch?v=6viIpmm_NDI)
 
+![Hallucination](https://raw.githubusercontent.com/golanlevin/lectures/master/lecture_full_body_interactive_art/images/jim_campbell_hallucination.gif)
+
 ---
 
 Camille Utterback, [*Text Rain*](https://www.youtube.com/watch?v=f_u3sSffS78&t=18s) (1998)
 
-[![Camille Utterback, *Text Rain*](images/utterback_textrain.jpg)](
-https://www.youtube.com/watch?v=f_u3sSffS78&t=18s)
+[![Camille Utterback, *Text Rain*](images/utterback_textrain.jpg)](https://www.youtube.com/watch?v=f_u3sSffS78&t=18s)
+
+![Text Rain](https://raw.githubusercontent.com/golanlevin/lectures/master/lecture_full_body_interactive_art/images/camille_utterback_romy_achituv_text_rain.gif)
 
 ---
 
 Scott Snibbe, *Screen Series* (2002-2007)
 
 ![Scott Snibbe, Impressions](images/snibbe_screen_series.jpg)
+
+![Make Like a Tree](https://raw.githubusercontent.com/golanlevin/lectures/master/lecture_full_body_interactive_art/images/scott_snibbe_make_like_a_tree.gif)
 
 * [*Deep Walls*](https://www.youtube.com/watch?v=X7h9ckxlxtc&t=5s) (2002)
 * [*Depletion* (2003)](https://www.youtube.com/watch?v=MvJ51SzR44U&t=3s)
@@ -51,17 +69,39 @@ Philip Worthington, [*Shadow Monsters*](https://www.youtube.com/watch?v=ShHQHAlZ
 
 [![Philip Worthington, *Shadow Monsters*](images/worthington_monsters.jpg)](https://www.youtube.com/watch?v=ShHQHAlZ7fA)
 
+![Shadow Monsters](https://raw.githubusercontent.com/golanlevin/lectures/master/lecture_full_body_interactive_art/images/philip_worthington_shadow_monsters.gif)
+
 ---
 
 Rafael Lozano-Hemmer, [*Underscan*](https://www.youtube.com/watch?v=fsqTyo7PcKM) (2005)
 
 [![Rafael Lozano-Hemmer, *Underscan*](images/underscan_london_03.jpg)](https://www.youtube.com/watch?v=fsqTyo7PcKM)
 
+![Underscan](https://raw.githubusercontent.com/golanlevin/lectures/master/lecture_full_body_interactive_art/images/rafael_lozano_hemmer_underscan.gif)
+
+---
+
+Chunky Move, [*Mortal Engine*](https://www.youtube.com/watch?v=CHKLr_pvj2I&t=90s) performance (2008)
+
+![Mortal Engine](https://raw.githubusercontent.com/golanlevin/lectures/master/lecture_full_body_interactive_art/images/chunky_move_mortal_engine.gif)
+
 ---
 
 Emily Gobeille and Theo Watson (Design-IO), [*Puppet Parade*](https://www.design-io.com/projects/puppetparade) (2011)
 
 [![Design-IO, *Puppet Parade*](images/puppetParade05a.jpg)](https://www.design-io.com/projects/puppetparade)
+
+![Puppet Parade](https://raw.githubusercontent.com/golanlevin/lectures/master/lecture_full_body_interactive_art/images/designio_puppet_parade.gif)
+
+![Puppet Parade (prototype)](https://raw.githubusercontent.com/golanlevin/lectures/master/lecture_full_body_interactive_art/images/designio_puppet_prototype.gif)
+
+![Weather Worlds](https://raw.githubusercontent.com/golanlevin/lectures/master/lecture_full_body_interactive_art/images/designio_weather_worlds.gif)
+
+---
+
+Chris Milk, [*Treachery of Sanctuary*](https://www.youtube.com/watch?v=_2kZdl8hs_s) (2012)
+
+![Treachery of Sanctuary](https://raw.githubusercontent.com/golanlevin/lectures/master/lecture_full_body_interactive_art/images/chris_milk_treachery_of_sanctuary.gif)
 
 ---
 
@@ -109,6 +149,8 @@ Golan Levin & Zach Lieberman, [*Messa di Voce*](https://www.youtube.com/watch?v=
 
 [![Messa di Voce installation](images/messa_inst.jpg)](https://www.youtube.com/watch?v=kIDlOokfHy8&t=11s)
 
+![Messa di Voce](https://raw.githubusercontent.com/golanlevin/lectures/master/lecture_full_body_interactive_art/images/messa_di_voce.gif)
+
 ---
 
 Golan Levin, *Ghost Pole Propagator* (2007, 2016)
@@ -126,6 +168,8 @@ Golan Levin, [*Interstitial Fragment Processor*](https://vimeo.com/2340199) (200
 [![*Interstitial Fragment Processor*](images/ifp2.jpg)](https://vimeo.com/86071976)
 
 [![*Interstitial Fragment Processor*](images/ifp.jpg)](https://vimeo.com/2340199)
+
+![Interstitial Fragment Processor](https://raw.githubusercontent.com/golanlevin/lectures/master/lecture_full_body_interactive_art/images/golan_levin_interstitial_fragment_processor.gif)
 
 
 ---
@@ -177,6 +221,10 @@ There are many techniques for extracting silhouettes in real-time. The most appr
 
 #### Some Demonstration Projects
 
+[OpenFrameworks (C++) openCV example](https://openframeworks.cc/ofBook/chapters/image_processing_computer_vision.html#acompleteworkflowbackgroundsubtraction), demonstrating background subtraction: 
+
+![Background subtraction in OpenFrameworks](images/opencvExample.png)
+
 * **Brightness Thresholding.** JavaScript by Kyle McDonald: [https://kylemcdonald.github.io/cv-examples/Thresholding/](https://kylemcdonald.github.io/cv-examples/Thresholding/)
 * **Background Subtraction.** JavaScript by Kyle McDonald: [https://kylemcdonald.github.io/cv-examples/BackgroundSubtraction/](https://kylemcdonald.github.io/cv-examples/BackgroundSubtraction/)
 * **Contour Tracing.** JavaScript for p5.js with openCV by Kyle McDonald: [https://kylemcdonald.github.io/cv-examples/ContourDetection-opencvjs/](https://kylemcdonald.github.io/cv-examples/ContourDetection-opencvjs/)
@@ -186,6 +234,11 @@ There are many techniques for extracting silhouettes in real-time. The most appr
 * **Machine-learning based segmentation.** JavaScript, browser-based body segmentation using the BodyPix algorithm in ml5.js (v.0.12.2), implemented in the online p5.js (v.1.4.2) Editor: [https://editor.p5js.org/golan/sketches/z3NqzKcX7](https://editor.p5js.org/golan/sketches/z3NqzKcX7)
 
 ![Machine-learning based segmentation](images/ml5js_bodypix_p5js.gif)
+
+[ofxTensorFlow2](https://github.com/zkmkarlsruhe/ofxTensorFlow2) video matting example, built in the openFrameworks (C++) arts engineering toolkit: 
+
+![ofxTensorFlow2](images/ofxTensorFlow2.jpg)
+
 
 ---
 
