@@ -4,7 +4,7 @@
 
 ---
 
-Myron Krueger & Katrin Hinrichsen, *Videoplace* (1972-1989)
+Myron Krueger with Katrin Hinrichsen, *Videoplace* (1972-1989)
 
 [![Myron Krueger, *Videoplace*](images/krueger_videoplace_1.jpg)](https://www.youtube.com/watch?v=d4DUIeXSEpk)
 
