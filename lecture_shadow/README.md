@@ -1,4 +1,7 @@
-# SHADOW PLAY
+# SHADOW PLAY 
+## (COMPUTING WITH SILHOUETTES)
+
+===
 
 ## Interactive Installations
 
@@ -23,7 +26,7 @@ Myron Krueger with Katrin Hinrichsen, *Videoplace* (1972-1989)
 
 Erkki Kurenniemi, [DIMI-O](https://www.youtube.com/watch?v=d-yHULQ2V5c) (1971)
 
-![DIMI-O](https://raw.githubusercontent.com/golanlevin/lectures/master/lecture_full_body_interactive_art/images/erkki_kurenniemi_dimi_o.gif)
+[![DIMI-O](https://raw.githubusercontent.com/golanlevin/lectures/master/lecture_full_body_interactive_art/images/erkki_kurenniemi_dimi_o.gif)](https://www.youtube.com/watch?v=d-yHULQ2V5c)
 
 ---
 
