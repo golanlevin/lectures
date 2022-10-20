@@ -199,14 +199,15 @@ Here's a typical computer vision pipeline for shadow play.
 
 #### Test Videos
 
-A [directory](clips/) of demonstration videos of binarized body contours:
+A [directory](images/clips/) of demonstration videos of binarized body contours:
 
-[![1.gif](images/clips/1.gif)](clips/1.mov)[![2.gif](images/clips/2.gif)](clips/2.mov)
-[![3.gif](images/clips/3.gif)](clips/3.mov)
-[![4.gif](images/clips/4.gif)](clips/4.mov)
-[![5.gif](images/clips/5.gif)](clips/5.mov)
-[![6.gif](images/clips/6.gif)](clips/6.mov)
-[![7.gif](images/clips/7.gif)](clips/7.mov)
+[![1.gif](images/clips/1.gif)](images/clips/1.mov)
+[![2.gif](images/clips/2.gif)](images/clips/2.mov)
+[![3.gif](images/clips/3.gif)](images/clips/3.mov)
+[![4.gif](images/clips/4.gif)](images/clips/4.mov)
+[![5.gif](images/clips/5.gif)](images/clips/5.mov)
+[![6.gif](images/clips/6.gif)](images/clips/6.mov)
+[![7.gif](images/clips/7.gif)](images/clips/7.mov)
 
 ---
 
