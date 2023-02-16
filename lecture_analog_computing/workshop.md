@@ -15,7 +15,6 @@ In this two-hour workshop, we will explore creative coding "unplugged" — exper
 * Tables which can sit 4-6 people
 
 
-
 ---
 
 ## Part 1. Algorithmic Body Movement Games
@@ -106,6 +105,13 @@ Japanese:
 * If you ZOOM someone you are *already* in conversation with
 * If you SCHWARTZ someone you are *not* already in conversation with
 * If you PROFIGLIANO, but you look at someone you are *already* in conversation with 
+
+Japanese:
+
+* アクティブな会話に参加していないときに発言または返信した場合
+* 既に会話をしている相手をZOOMする場合
+* まだ会話をしていない人をシュワルツする場合
+* あなたがPROFIGLIANOであるが、あなたがすでに会話をしている誰かを見ている場合
 
 ### Advanced Vocabulary:
 
