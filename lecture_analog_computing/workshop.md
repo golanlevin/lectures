@@ -97,6 +97,7 @@ There are two drawings made by the Professor, [**Drawing-A**](resources/drawing-
 
 These exercises are by the [Conditional Design](https://conditionaldesign.org/) group. 
 
+Conditional Design is a design method formulated by Luna Maurer, Jonathan Puckey, Roel Wouters, and Edo Paulus, in which conditions and rules of play are drawn up that invite cooperation within a ‘regulated’ process towards an unpredictable design or result. 
 
 ![The Beach](images/thebeach.jpg)
 
@@ -116,7 +117,7 @@ The first player draws a line.
 The other players draw a line that goes over and under the last drawn line.
 
 **In Turns:**<br />
-The player elongates his/her line on both ends. The elongations have to go over and under a line of another player and may not go over the line of the same color twice in a row.
+The player elongates his/her line on both ends. The elongations have to go over and under a line of another player and may not go over the line of the same color twice [optional: in a row].
 When a line can no longer be elongated, it is considered dead for the rest of the game. When both ends of a line have died, the player may place a new line.
 
 ---
@@ -145,7 +146,7 @@ The ending of the game is decided by the player who proposed to play it.
 
 ![Sprouts](images/Sprouts-2spot-game.png)
 
-This is [Sprouts](https://en.wikipedia.org/wiki/Sprouts_(game)) / Shoots / Chutes, a planar graph drawing game. It is demonstrated in [this video](https://www.youtube.com/watch?v=ZQY4v5GItes).
+This is [Sprouts](https://en.wikipedia.org/wiki/Sprouts_(game)), a planar graph drawing game. It is demonstrated in [this video](https://www.youtube.com/watch?v=ZQY4v5GItes).
 
 The game is played by two players, starting with a few spots drawn on a sheet of paper. Players take turns, where each turn consists of drawing a line between two spots (or from a spot to itself) and adding a new spot somewhere along the line. The players are constrained by the following rules:
 
