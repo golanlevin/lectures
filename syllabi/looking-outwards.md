@@ -45,6 +45,6 @@ In normal times, you would be encouraged to do research at our university’s li
 
 ### Warning
 
-In a group of approximately a dozen students, the likelihood that two people would choose to write Looking Outwards reports about the same project ought to be infinitesimally small, given the *thousands* of interesting projects that exist. Yet it happens. How is this possible? It seems some students are satisfied to select something from the first page of results returned from a search. That is not especially deep research. To encourage students to dig deepeer, at the professor's discretion, two students who both submit reports about the same project may each receive no credit. 
+In a group of approximately a dozen students, the likelihood that two people would choose to write Looking Outwards reports about the same project ought to be infinitesimally small, given the *thousands* of interesting projects that exist. Yet it happens. How is this possible? It seems some students are satisfied to select something from the first page of results returned from a search. That is not especially deep research. To encourage students to dig deeper, at the professor's discretion, two students who both submit reports about the same project may each receive no credit. 
 
 
