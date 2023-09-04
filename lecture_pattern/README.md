@@ -1,6 +1,10 @@
-# Pattern
+# Pattern and Visual Rhythm
 
 > *Making procedural patterns is a mental exercise in finding minimal reusable elements. This practice is old; we as a species have been using grids and patterns to decorate textiles, floors and borders of objects for a long time: from meander patterns in ancient Greece, to Chinese lattice design, the pleasure of repetition and variation catches our imagination. Take some time to look at decorative patterns and see how artists and designers have a long history of navigating the fine edge between the predictability of order and the surprise of variation and chaos. From Arabic geometrical patterns, to gorgeous African fabric designs, there is an entire universe of patterns to learn from.* — From "The Book of Shaders" by Patricio Gonzalez-Vivo.
+
+From Casey Reas et al., "Form+Code": 
+
+> *Repetition can have a powerful effect on the human body and psyche. One of the most extreme examples is the way a rapidly flashing light can trigger a seizure. A more universal example is how the beat of a good song will inspire people to dance along. In a similar way, dynamic visual patterns can appear, in subtle ways, to vibrate physically. Within the visual realm, repetition encourages our eyes to dance. Controlling repetition is a way to choreograph human eye movement. There are many examples of artworks that modulate repetition to create strong sensations of depth and motion.*
 
 Pattern is the starting point from which we perceive and impose order in the world. Examples of functional, decorative, and expressive pattern-making date from ancient times and take many forms, including calendars, mosaics, tapestry, quilting, jewelry, calligraphy, furniture, and architecture. There is an intimate connection between pattern design, visual rhythm, geometry, mathematics, and iterative algorithms. This week, you are invited to expand your understanding of these relationships in formal terms.
 
@@ -40,7 +44,7 @@ Recently, scholarly reconsiderations of indigenous patterns have made plain thei
 
 ---
 
-### Pattern in Modernism: Anni Albers and Victor Vasarely
+### Pattern in Modernism: Anni Albers and Bridget Riley
 
 Anni Albers was one of the most influential textile designers of the 20th century. In the early 1930s, she was the director of the textiles studio in the German Bauhaus school; in 1949, she became the first textile designer to have a solo exhibition at the Museum of Modern Art. Her work reveals a stunning sensibility for rhythm, color, and punctuation and helped define visual Modernism in textile art. 
 
@@ -60,13 +64,27 @@ Anni Albers, *Fox II* (1972), silkscreen. Later in life, Albers developed a stro
 
 ![Anni Albers, *Fox II*](img/anni_albers_fox_II_1972.jpg)
 
-The psychedelic "Op Art" movement of the late-1960s made heavy use of (analog) procedural design and mathematical design, producing optical illusions to activate the viewer. Here's Victor Vasarely's [*Alom (Rêve)*](https://www.artsy.net/artwork/victor-vasarely-alom-reve) 1966 collage:
+Optical art (often shortened to "Op Art") is a term used since the early 1960s to describe artworks that induce retinal phenomena, including vibration, flashing, swelling, and warping. Though their works were created without the aid of computers, many Op Artists relied on the use of algorithms, in the form of (analog) procedural design and mathematical calculations. 
 
-![Victor Vasarely's *Alom (Rêve)* (1966)](img/vasarely.jpg)
+[*The Responsive Eye*](https://www.youtube.com/watch?v=ek_lQJsU41U&t=9s) (video) was an influential exhibition of Op Art at MoMA in 1965:
 
-Vasarely used a great deal of hand-computed mathematics to make patterned paintings like *Feny* (1973):
+[![The Responsive Eye, MoMA exhibition 1965](img/responsive_eye.jpg)](https://www.youtube.com/watch?v=ek_lQJsU41U&t=9s)
 
-![Victor Vasarely's *Feny* (1973)](img/vasarely_feny_1973.jpg)
+Born in London in 1931, Bridget Riley emerged onto the art scene in the 1960s with a series of abstract black and white geometric paintings. Her work *Currents* (1964) can be seen at left in the still above. In 1968, she became the first British artist and the first woman to win the Venice Biennale's International Prize for Painting.
+
+![Bridget Riley](img/riley_in_studio.jpg)
+
+Riley's Shift (1963):
+
+![Bridget Riley, *Shift*, 1963](img/riley_shift_1963.png)
+
+*Untitled [Fragment 3/11]*, Bridget Riley, 1965:
+
+![Bridget Riley, *Fragment 3*, 1963](img/bridget_riley_fragment_3_1965.jpg)
+
+Riley created many iconic Op Art paintings, involving patterns developed with hand-computed curves. Her *Cataract 3* (1967) work shows a complete mastery of the effects that are characteristic of Op Art: in particular, subtle variations in the size, shape, or placement of serialized units in the overall pattern. 
+
+![Bridget Riley, *Cataract 3* (1967)](img/riley_cataract_3_1967.jpg)
 
 ---
 
@@ -81,6 +99,10 @@ Another pioneer of early computer art, Manfred Mohr, [wrote plotter programs in 
 > "*The elements are horizontal, vertical, 45 degree lines, square waves, zig-zags, and have probabilities for line widths and lengths. The algorithm places elements in a horizontal direction and has a high probability to move from left to right and a limited probability to backtrack. The original idea of this algorithm was to create a visual musical score which defies the progression in time by occasionally turning back on itself. Thus at the same time an abstract text is created.*"
 
 ![Manfred Mohr's *P-021/A+B*](img/manfred_mohr_p021a.gif)
+
+Mark Wilson began developing patterned computer-generated plotter works in the early 1980s. His *PSC-31* (2003) is shown below left, and in detail: 
+
+![Mark Wilson, *PSC-31*, 2003](img/mark_wilson_psc31.jpg)
 
 Here's a grab bag of other works that use computation to make patterns.
 
@@ -99,10 +121,6 @@ Dave Bollinger. [*Density Series*](https://www.flickr.com/photos/davebollinger/s
 Saskia Freeke. [*Daily generative art*](https://www.instagram.com/sasj_nl). 2010–2020. Generative image series.
 
 ![Saskia Freeke, *Daily generative art*](img/saska_freeke_2.png) 
-
-Holger Lippmann, [*The Abracadabra Series*](https://e-art.co/project/abracadabra). 2018. Generative image series. 
-
-![Holger Lippmann, *The Abracadabra Series*](img/holger_lippman_abracadabra_2018.png) 
 
 [*nth culture*](https://deca.art/collection/nth-culture-by-fingacode) by [Fingacode (Junior Ngoma)](https://www.youtube.com/watch?v=2Lero3In5uc) (video); 
 
@@ -164,7 +182,7 @@ In a return to the roots of computation itself, the (now-defunct) Swiss Museum o
 
 Spanish artist Galo Canizares has been creating his own Arduino-powered e-ink computers (2023) to display generative patterns at an intimate scale and form factor. The use of e-Ink (like a Kindle screen) makes for very low-power devices:
 
-![Galo Canizares](img/itsgalo_epaper.png)
+![Galo Canizares](img/itsgalxo_epaper.png)
 
 Swiss software artist Leander Herzog has made a terminal program, *Agglo* (2023) that uses colored text blocks to create an endless stream of generative pattern:
 
