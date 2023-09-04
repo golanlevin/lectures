@@ -16,25 +16,25 @@ Medieval tiles from Marrakech:
 
 ![Medieval tiles from Marrakech](img/marrakech_tiles_onethird.jpg)
 
-In the mid-19th century, colonialist Europeans scholars "discovered" the design languages of the rest of the world. Two highly influential and lavishly printed books published in France and England compiled and popularized collections of designs from Asia and the Middle East: Albert Racinet’s *L’Ornement Polychrome* (1869–73), and *The Grammar of Ornament* (1856) by Owen Jones:
+In the mid-19th century, colonialist Europeans scholars "discovered" the design languages of the rest of the world. Two highly influential and lavishly printed books published in France and England compiled and popularized collections of designs from Asia and the Middle East: Albert Racinet’s [*L’Ornement Polychrome*](https://publicdomainreview.org/collection/albert-racinet-s-l-ornement-polychrome-1869-73/) (1869–73), and [*The Grammar of Ornament*](https://archive.org/details/grammarornament00Jone) (1856) by Owen Jones:
 
 ![Racinet](img/racinet_1.jpg)
 
-Repetitive visual patterns play a huge role in vernacular decorative arts. For a fun example, check out the fantastic *Historic New England Wallpaper Archive*, which has more than 6000 high-resolution scans of antique wallpapers: 
+Repetitive visual patterns play a huge role in vernacular decorative arts. For a fun example, check out the fantastic [*Historic New England Wallpaper Archive*](https://www.historicnewengland.org/explore/collections-access/wallpaper/), which has more than 6000 high-resolution scans of antique wallpapers: 
 
 ![New England Wallpaper Archive](img/wallpaper_archive.jpg)
 
 ### Pattern and Mathematics
 
-Mathematicians have studied the logic of patterns for decades. Did you know that there are only and exactly 17 types of 2D crystallographic (wallpaper) symmetries. (There are no others!)
+Mathematicians have studied the logic of patterns for decades. Did you know that there are only and exactly [17 types of 2D crystallographic (wallpaper) symmetries](https://blog.artlandia.com/the-simplest-diagram-of-the-17-symmetry-types-ever/). (There are no others!)
 
 ![The 17 2D crystallographic symmetries](img/17_symmetries.png)
 
-Below are the 51 types of discrete periodic patterns. This image is from the amazing book, *Tilings and Patterns* by Grünbaum and Shephard. If you're interested, you can find a PDF copy online here.
+Below are the 51 types of discrete periodic patterns. This image is from the amazing book, *Tilings and Patterns* by Grünbaum and Shephard. If you're interested, you can find a [PDF copy online here](https://archive.org/details/isbn_0716711931).
 
 ![the 51 types of discrete periodic patterns](img/grunbaum_tilings_2048x1088.jpg)
 
-Recently, scholarly reconsiderations of indigenous patterns have made plain their rigorous use of mathematics. The book African Fractals: modern computing and indigenous design by Ron Eglash is an example, presenting works such as this self-similar (fractal) design in a Fulani wedding blanket:
+Recently, scholarly reconsiderations of indigenous patterns have made plain their rigorous use of mathematics. The book [*African Fractals: modern computing and indigenous design*](https://cmu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991019840889704436&context=L&vid=01CMU_INST:01CMU&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,African%20Fractals&mode=Basic) by Ron Eglash is an example, presenting works such as this self-similar (fractal) design in a Fulani wedding blanket:
 
 ![Fractals in a Fulani wedding blanket](img/blanketsmall.png)
 
@@ -60,7 +60,7 @@ Anni Albers, *Fox II* (1972), silkscreen. Later in life, Albers developed a stro
 
 ![Anni Albers, *Fox II*](img/anni_albers_fox_II_1972.jpg)
 
-The psychedelic "Op Art" movement of the late-1960s made heavy use of (analog) procedural design and mathematical design, producing optical illusions to activate the viewer. Here's Victor Vasarely's [*Alom (Rêve)*](img/https://www.artsy.net/artwork/victor-vasarely-alom-reve) 1966 collage:
+The psychedelic "Op Art" movement of the late-1960s made heavy use of (analog) procedural design and mathematical design, producing optical illusions to activate the viewer. Here's Victor Vasarely's [*Alom (Rêve)*](https://www.artsy.net/artwork/victor-vasarely-alom-reve) 1966 collage:
 
 ![Victor Vasarely's *Alom (Rêve)*](img/vasarely.jpg)
 
@@ -72,7 +72,7 @@ The computer's abilities to (1) compute mathematics, (2) iterate tirelessly, and
 
 ![Vera Molnár's *Square Structures*](img/molnar_computer_drawing.jpg)
 
-Another pioneer of early computer art, Manfred Mohr, wrote plotter programs in the late 1960s to generate patterns (comprised of repeated elements) that resembled writing. For this project, P-021/A+B (1969), the generative rule is: 
+Another pioneer of early computer art, Manfred Mohr, [wrote plotter programs in the late 1960s](http://www.emohr.com/two_1969.html) to generate patterns (comprised of repeated elements) that resembled writing. For this project, P-021/A+B (1969), the generative rule is: 
 
 > "*The elements are horizontal, vertical, 45 degree lines, square waves, zig-zags, and have probabilities for line widths and lengths. The algorithm places elements in a horizontal direction and has a high probability to move from left to right and a limited probability to backtrack. The original idea of this algorithm was to create a visual musical score which defies the progression in time by occasionally turning back on itself. Thus at the same time an abstract text is created.*"
 
@@ -80,7 +80,7 @@ Another pioneer of early computer art, Manfred Mohr, wrote plotter programs in t
 
 Here's a grab bag of other works that use computation to make patterns.
 
-Jennifer Steinkamp's [*Daisy Bell*](img/http://jsteinkamp.com/html/daisy_bell_08.htm) (2008) is a generative video projection of a flower pattern: 
+Jennifer Steinkamp's [*Daisy Bell*](http://jsteinkamp.com/html/daisy_bell_08.htm) (2008) is a generative video projection of a flower pattern: [[video](http://jsteinkamp.com/html/daisy_bell_08.htm)]
 
 ![Jennifer Steinkamp's *Daisy Bell*](img/steinkamp_daisy_bell.jpg)
 
@@ -88,15 +88,15 @@ Mark Webster, generative patterns, 2023:
 
 ![Mark Webster, generative patterns](img/mark_webster_2023.png)
 
-Dave Bollinger. [*Density Series*](img/https://www.flickr.com/photos/davebollinger/sets/72157603205771398). 2007. Generative image series. 
+Dave Bollinger. [*Density Series*](https://www.flickr.com/photos/davebollinger/sets/72157603205771398). 2007. Generative image series. 
 
 ![Dave Bollinger, *Density Series*](img/dave_bollinger_density_cobbles_2007.png)
 
-Saskia Freeke. [*Daily generative art*](img/https://www.instagram.com/sasj_nl). 2010–2020. Generative image series.
+Saskia Freeke. [*Daily generative art*](https://www.instagram.com/sasj_nl). 2010–2020. Generative image series.
 
 ![Saskia Freeke, *Daily generative art*](img/saska_freeke_2.png) 
 
-Holger Lippmann, [*The Abracadabra Series*](img/https://e-art.co/project/abracadabra). 2018. Generative image series. 
+Holger Lippmann, [*The Abracadabra Series*](https://e-art.co/project/abracadabra). 2018. Generative image series. 
 
 ![Holger Lippmann, *The Abracadabra Series*](img/holger_lippman_abracadabra_2018.png) 
 
@@ -128,11 +128,11 @@ Shunsuke Takawo, [various works](https://openprocessing.org/user/6533?view=sketc
 
 ![Shunsuke Takawo](img/takawo.png) 
 
-Casey Reas has created patterns by rearranging the pixels of video streams. The results have a very organic color scheme.
+Casey Reas has created patterns by rearranging the pixels of video streams. The [results](https://www.vice.com/en/article/9an9da/casey-reas-launches-new-exhibition-at-bitforms-gallery) have a very organic color scheme.
 
 ![Casey Reas](img/reas_pill_a_day_onethird.jpg) 
 
-Other computational works (on paper) by Reas make minute positional changes in small monochromatic elements to produce complex patterns:
+Other [computational works](https://reas.com/hsb/) (on paper) by Reas make minute positional changes in small monochromatic elements to produce complex patterns:
 
 ![Casey Reas](img/reas_hsb_1.jpg) 
 
