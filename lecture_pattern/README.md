@@ -98,7 +98,35 @@ Saskia Freeke. [*Daily generative art*](https://www.instagram.com/sasj_nl). 2010
 
 Holger Lippmann, [*The Abracadabra Series*](https://e-art.co/project/abracadabra). 2018. Generative image series. 
 
-![Holger Lippmann, *The Abracadabra Series*]() 
+![Holger Lippmann, *The Abracadabra Series*](holger_lippman_abracadabra_2018.png) 
+
+[*nth culture*](https://deca.art/collection/nth-culture-by-fingacode) by [Fingacode (Junior Ngoma)](https://www.youtube.com/watch?v=2Lero3In5uc) (video); 
+
+![image](nth-culture-by-fingacode.jpg)
+
+Kjetil Gold, [*Archetype*](https://www.artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/23?section=all%20items) (generative series, 2021, p5.js); [interview](https://beta.cent.co/artblocks/+jz68r)
+
+![Golid, Archetype](golid.png)
+
+Anna Carreras, [*Trossets*](https://www.artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/147?section=all%20items) (generative series, 2021, p5.js); [interview](https://www.artblocks.io/info/spectrum/in-conversation-with-anna-carreras)
+
+![Carreras](carreras_trossets.png) 
+
+Julien Gachadoat, [*Radiance*](https://www.artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/106?section=all%20items) (generative series, 2021, p5.js)
+
+![Gachadoat](gachadoat_radiance.png) 
+
+Armaghan Fatemi (MA), [*Two Mathematicians*](https://www.artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/242) (generative series, 2022, p5.js)
+
+![Fatemi](fatemi_mathematicians.png) 
+
+Anna Lucia, [*Loom*](https://www.artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/213?section=all%20items) (generative series, 2022, p5.js)
+
+![Lucia](lucia_loom.png)
+
+Shunsuke Takawo, [various works](https://openprocessing.org/user/6533?view=sketches&o=48) (p5.js)
+
+![Shunsuke Takawo](takawo.png) 
 
 Casey Reas has created patterns by rearranging the pixels of video streams. The results have a very organic color scheme.
 
@@ -117,6 +145,10 @@ Andreas Gysin has made a variety of works that present grids of computed ASCII c
 ![Andreas Gysin](gysin.gif) 
 
 Take Gysin's [*ASCII PLAY*](https://play.ertdfgcvb.xyz) project for a spin.
+
+
+
+
 
 Computationally designed patterns can be output to media other than screen and paper. Leah Buechley explores the intersection of computation and craft. The pattern in her *lasercut curtain* (2017), computationally generated in Processing, features multiple forms of iteration and controlled randomness: 
 
