@@ -64,6 +64,10 @@ The psychedelic "Op Art" movement of the late-1960s made heavy use of (analog) p
 
 ![Victor Vasarely's *Alom (Rêve)*](img/vasarely.jpg)
 
+Vasarely used a great deal of hand-computed mathematics to make patterned paintings like *Feny* (1973):
+
+![Victor Vasarely's *Feny*](img/vasarely_feny_1973.jpg)
+
 ---
 
 ### Pattern on the Computer
