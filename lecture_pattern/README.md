@@ -62,11 +62,11 @@ Anni Albers, *Fox II* (1972), silkscreen. Later in life, Albers developed a stro
 
 The psychedelic "Op Art" movement of the late-1960s made heavy use of (analog) procedural design and mathematical design, producing optical illusions to activate the viewer. Here's Victor Vasarely's [*Alom (Rêve)*](https://www.artsy.net/artwork/victor-vasarely-alom-reve) 1966 collage:
 
-![Victor Vasarely's *Alom (Rêve)*](img/vasarely.jpg)
+![Victor Vasarely's *Alom (Rêve)* (1966)](img/vasarely.jpg)
 
 Vasarely used a great deal of hand-computed mathematics to make patterned paintings like *Feny* (1973):
 
-![Victor Vasarely's *Feny*](img/vasarely_feny_1973.jpg)
+![Victor Vasarely's *Feny* (1973)](img/vasarely_feny_1973.jpg)
 
 ---
 
