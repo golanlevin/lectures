@@ -66,7 +66,7 @@ Anni Albers, *Fox II* (1972), silkscreen. Later in life, Albers developed a stro
 
 Optical art (often shortened to "Op Art") is a term used since the early 1960s to describe artworks that induce retinal phenomena, including vibration, flashing, swelling, and warping. Though their works were created without the aid of computers, many Op Artists relied on the use of algorithms, in the form of (analog) procedural design and mathematical calculations. 
 
-[*The Responsive Eye*](https://www.youtube.com/watch?v=ek_lQJsU41U&t=9s) (video) was an influential exhibition of Op Art at MoMA in 1965:
+[*The Responsive Eye*](https://www.youtube.com/watch?v=ek_lQJsU41U&t=9s) (video) was an influential exhibition of Op Art (and in a sense, interactive art) at MoMA in 1965:
 
 [![The Responsive Eye, MoMA exhibition 1965](img/responsive_eye.jpg)](https://www.youtube.com/watch?v=ek_lQJsU41U&t=9s)
 
