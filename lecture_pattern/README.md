@@ -146,7 +146,6 @@ Andreas Gysin has made a variety of works that present grids of computed ASCII c
 
 Take Gysin's [*ASCII PLAY*](https://play.ertdfgcvb.xyz) project for a spin.
 
-
 Computationally designed patterns can be output to media other than screen and paper. Leah Buechley explores the intersection of computation and craft. The pattern in her *lasercut curtain* (2017), computationally generated in Processing, features multiple forms of iteration and controlled randomness: 
 
 ![Leah Buechley, *lasercut curtain*](img/buechley_curtain_tallhalf.jpg) 
@@ -154,6 +153,10 @@ Computationally designed patterns can be output to media other than screen and p
 Jessica Rosenkrantz and Jesse Louis-Rosenberg's [*Patchwork Amoeba Puzzle* (2012)](https://n-e-r-v-o-u-s.com/shop/product.php?code=363), plywood, is a computer-generated and digitally-fabricated wooden design derived from a computer simulation of differential growth, similar to how the sutures of skull bones are formed.
 
 ![Jessica Rosenkrantz and Jesse Louis-Rosenberg's *Patchwork Amoeba Puzzle*](img/nervous.jpg)
+
+In a return to the roots of computation itself, the (now-defunct) Swiss Museum of Digital Art commissioned the creation of a computationally-generated, unique-per-customer [algorithmically knit sweatshirt](https://muda.co/sweatshirt/) ([video](https://www.youtube.com/watch?v=hyrgF1M1OxY))
+
+[![Algorithmic sweatshirt](img/muda_sweatshirt.jpg)](https://www.youtube.com/watch?v=hyrgF1M1OxY)
 
 Spanish artist Galo Canizares has been creating his own Arduino-powered e-ink computers (2023) to display generative patterns at an intimate scale and form factor. The use of e-Ink (like a Kindle screen) makes for very low-power devices:
 
