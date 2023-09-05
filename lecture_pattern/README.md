@@ -182,7 +182,7 @@ In a return to the roots of computation itself, the (now-defunct) Swiss Museum o
 
 Spanish artist Galo Canizares has been creating his own Arduino-powered e-ink computers (2023) to display generative patterns at an intimate scale and form factor. The use of e-Ink (like a Kindle screen) makes for very low-power devices:
 
-![Galo Canizares](img/itsgalxo_epaper.png)
+![Galo Canizares](img/itsgalo_epaper.png)
 
 Swiss software artist Leander Herzog has made a terminal program, *Agglo* (2023) that uses colored text blocks to create an endless stream of generative pattern:
 
