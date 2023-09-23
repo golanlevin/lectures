@@ -106,7 +106,7 @@ My student Greg Vassallo made this clock for my class in 2005:<br />
 ### Crowdsourced Clocks
 
 [*All the Minutes*](http://alltheminutes.com/) by Studio Moniker, is a clock which cites tweets that mention the current time.<br />
-[![](images/tweet.png)](http://alltheminutes.com/)
+[![](images/all-the-minutes.gif)](http://alltheminutes.com/)
 
 The [Human Clock](http://www.humanclock.com/) is a clock made from crowdsourced photographs that feature the current time.<br />
 [![](images/1231.jpg)](http://www.humanclock.com/)
