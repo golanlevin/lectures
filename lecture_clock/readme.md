@@ -57,8 +57,8 @@ Let’s start with something simple. [The Colour Clock](http://thecolourclock.co
 
 Now let’s go back in history. Here are John Maeda’s [12 O’Clocks](http://www.maedastudio.com/2004/rbooks2k/twelve.html) from 1996. If the real apps (OS9) don’t work any longer, [here’s a video](https://www.youtube.com/watch?v=nA_UTUvC4h8) (jump to 4’00”).
 
-[Maeda's 12 O'Clocks](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/maedas-clocks/)<br />
-[![](images/maeda-all.gif)](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/maedas-clocks/)
+[Maeda's 12 O'Clocks](https://ems.andrew.cmu.edu/2016-60212/lectures/lecture-09-09b-clocks/maedas-clocks/index.html)<br />
+[![](images/maeda-all.gif)](https://ems.andrew.cmu.edu/2016-60212/lectures/lecture-09-09b-clocks/maedas-clocks/index.html)
 
 #### *Live Mac OS9 demonstration instructions:*
 
