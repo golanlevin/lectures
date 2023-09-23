@@ -180,6 +180,7 @@ Taiwanese designer Yen-Wen Tseng has designed a clock, [*Hand in Hand*](http://w
 [![](images/ink-calendar.jpg)](http://www.oscar-diaz.net/work/ink-calendar)
 
 [*A Dot for Every Second in the Day*](http://www.clarifyscience.info/assets/day_of_dots_clock)<br />
+[OpenProcessing Re-Code](https://openprocessing.org/sketch/2018170)<br />
 [![](images/dot_clock.gif)](http://www.clarifyscience.info/assets/day_of_dots_clock)
 
 [*Untitled (For The Sun)*](http://www.jimcampbell.tv/portfolio/objects/untitled_for_the_sun/) by Jim Campbell<br />
