@@ -101,7 +101,7 @@ My student Greg Vassallo made this clock for my class in 2005:<br />
 [![](images/yugo_nakamura_industrious_clock.gif)](https://www.youtube.com/watch?v=xkAfH11FJDk)
 
 [*Book Clock*](https://www.youtube.com/watch?v=A9M__aTuItY) by Masaaki Hiromura<br />
-[![](images/book-clock.jpg)](https://www.youtube.com/watch?v=A9M__aTuItY)
+[![](images/book-clock.gif)](https://www.youtube.com/watch?v=A9M__aTuItY)
 
 ### Crowdsourced Clocks
 
