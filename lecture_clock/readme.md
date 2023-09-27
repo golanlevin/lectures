@@ -113,14 +113,14 @@ The [Human Clock](http://www.humanclock.com/) is a clock made from crowdsourced 
 
 A well-known ‘crowdsourced’ clock (in a different sense) is Christian Marclay’s [*Clock*](https://www.youtube.com/watch?v=0gSwtr3E4Fo), a 24-hour film made up of about seven thousand clips, each of which either says or displays the (actual) time of day, or which makes a cogent reference to time:
 
-[![](images/marclay.jpg)](https://www.youtube.com/watch?v=BXbQw0rE5UE)
+[![](images/marclay.jpg)](https://www.youtube.com/watch?v=0gSwtr3E4Fo)
 
 
 ---
 
 ### Physical Machines & Clock Typography
 
-[*Continue Time*](https://vimeo.com/10800426) by Sander Mulder<br />
+[*Continue Time*](https://vimeo.com/10800426) by Sander Mulder ([p5 version](https://editor.p5js.org/golan/sketches/xZ618XMCt))<br />
 [![](images/sander_mulder_continue_time.gif)](https://vimeo.com/10800426)
 
 [*3.16 Billion Cycles*](https://cwandt.com/products/3-16-billion-cycles) by Che-Wei Wang & Taylor Lev<br />
