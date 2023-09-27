@@ -132,7 +132,7 @@ A well-known ‘crowdsourced’ clock (in a different sense) is Christian Marcla
 Taiwanese designer Yen-Wen Tseng has designed a clock, [*Hand in Hand*](http://www.dezeen.com/2010/03/26/hand-in-hand-clock-yen-wen-tseng/), where the hands are linked by two pivoting arms:<br />
 [![](images/dzn_Hand-in-Hand-Clock-Yen-Wen-Tseng-2.jpg)](http://www.dezeen.com/2010/03/26/hand-in-hand-clock-yen-wen-tseng/)
 
-[*Water Clocks*](https://vimeo.com/28461780) by Bernard Gitton (*jump to 2:19*)<br />
+[*Water Clocks*](https://vimeo.com/28461780) by Bernard Gitton (*jump to 3:00*)<br />
 [![](images/water.jpg)](https://vimeo.com/28461780)
 
 [*Drop Clock*](https://www.youtube.com/watch?v=I32NLiAl9PA&t=0m20s) by Stasean<br />
