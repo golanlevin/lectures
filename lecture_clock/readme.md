@@ -111,7 +111,7 @@ My student Greg Vassallo made this clock for my class in 2005:<br />
 The [Human Clock](http://www.humanclock.com/) is a clock made from crowdsourced photographs that feature the current time.<br />
 [![](images/1231.jpg)](http://www.humanclock.com/)
 
-A well-known ‘crowdsourced’ clock (in a different sense) is Christian Marclay’s [*Clock*](https://www.youtube.com/watch?v=BXbQw0rE5UE), a 24-hour film made up of about seven thousand clips, each of which either says or displays the (actual) time of day, or which makes a cogent reference to time:
+A well-known ‘crowdsourced’ clock (in a different sense) is Christian Marclay’s [*Clock*](https://www.youtube.com/watch?v=0gSwtr3E4Fo), a 24-hour film made up of about seven thousand clips, each of which either says or displays the (actual) time of day, or which makes a cogent reference to time:
 
 [![](images/marclay.jpg)](https://www.youtube.com/watch?v=BXbQw0rE5UE)
 
