@@ -241,6 +241,8 @@ Jingwen Zhu's [*Real Me*](http://www.jingwen-zhu.com/real-me/) (2015) "is a chat
 * Brain, Tega, and Sam Lavigne. *Smell Dating*. 2016. Smell-based dating service. http://smell.dating/. 
 * Chen, Alexander. [*Shared Piano*](https://musiclab.chromeexperiments.com/Shared-Piano/#P0kMOE-Po)
 * Depoorter, Dries, and David Surprenant. *Die With Me*. 2018. Mobile chat app. https://diewithme.online.
+* Depoorter, Dries. [*The Follower*](https://driesdepoorter.be/thefollower/). Geolocating instagram photos.
+* DePoorter, Dries. [*The Message*](https://driesdepoorter.be/themessage/). 2023. Public message bumped by follower count.
 * Dinahmoe. *_plink*. 2011. Multiplayer online instrument. [http://dinahmoelabs.com/_plink/](http://dinahmoelabs.com/_plink/).
 * Exonemo. [*The Internet Bedroom*](http://idpw.org/bedroom/) (2015). A sleepover in Google Hangouts.
 * [Fahner, Craig](https://twitter.com/feelalrighttt/status/1304468647310749699). [https://eigengrau.glitch.me](https://eigengrau.glitch.me) A web-based synthesizer you and other people play together, by closing your eyes in front of your computer. 
@@ -259,7 +261,7 @@ Jingwen Zhu's [*Real Me*](http://www.jingwen-zhu.com/real-me/) (2015) "is a chat
 * Sermon, Paul. *Telematic Dreaming*. 1992. Live telematic video installation. http://www.hgb-leipzig.de/~sermon/dream.
 * Sokpop Collective. *sok-worlds*. 2020. Multiplayer collage. https://sokpop.itch.io/sok-worlds.
 * Tale of Tales. *The Endless Forest*. 2005. Multiplayer online role-playing game. http://tale-of-tales.com/TheEndlessForest/.
+* Davis, Douglas. [*The World's First Collaborative Sentence*](https://en.wikipedia.org/wiki/The_World%27s_First_Collaborative_Sentence)(
 
-
-Kris Paulsen, *Here/There: Telepresence, Touch, and Art at the Interface*
+Kris Paulsen, *Here/There: Telepresence, Touch, and Art at the Interface*.
 
