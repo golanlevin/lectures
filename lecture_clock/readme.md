@@ -57,8 +57,8 @@ Let’s start with something simple. [The Colour Clock](http://thecolourclock.co
 
 Now let’s go back in history. Here are John Maeda’s [12 O’Clocks](http://www.maedastudio.com/2004/rbooks2k/twelve.html) from 1996. If the real apps (OS9) don’t work any longer, [here’s a video](https://www.youtube.com/watch?v=nA_UTUvC4h8) (jump to 4’00”).
 
-[Maeda's 12 O'Clocks](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/maedas-clocks/)<br />
-[![](images/maeda-all.gif)](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/maedas-clocks/)
+[Maeda's 12 O'Clocks](https://ems.andrew.cmu.edu/2016-60212/lectures/lecture-09-09b-clocks/maedas-clocks/index.html)<br />
+[![](images/maeda-all.gif)](https://ems.andrew.cmu.edu/2016-60212/lectures/lecture-09-09b-clocks/maedas-clocks/index.html)
 
 #### *Live Mac OS9 demonstration instructions:*
 
@@ -111,16 +111,16 @@ My student Greg Vassallo made this clock for my class in 2005:<br />
 The [Human Clock](http://www.humanclock.com/) is a clock made from crowdsourced photographs that feature the current time.<br />
 [![](images/1231.jpg)](http://www.humanclock.com/)
 
-A well-known ‘crowdsourced’ clock (in a different sense) is Christian Marclay’s [*Clock*](https://www.youtube.com/watch?v=BXbQw0rE5UE), a 24-hour film made up of about seven thousand clips, each of which either says or displays the (actual) time of day, or which makes a cogent reference to time:
+A well-known ‘crowdsourced’ clock (in a different sense) is Christian Marclay’s [*Clock*](https://www.youtube.com/watch?v=0gSwtr3E4Fo), a 24-hour film made up of about seven thousand clips, each of which either says or displays the (actual) time of day, or which makes a cogent reference to time:
 
-[![](images/marclay.jpg)](https://www.youtube.com/watch?v=BXbQw0rE5UE)
+[![](images/marclay.jpg)](https://www.youtube.com/watch?v=0gSwtr3E4Fo)
 
 
 ---
 
 ### Physical Machines & Clock Typography
 
-[*Continue Time*](https://vimeo.com/10800426) by Sander Mulder<br />
+[*Continue Time*](https://vimeo.com/10800426) by Sander Mulder ([p5 version](https://editor.p5js.org/golan/sketches/xZ618XMCt))<br />
 [![](images/sander_mulder_continue_time.gif)](https://vimeo.com/10800426)
 
 [*3.16 Billion Cycles*](https://cwandt.com/products/3-16-billion-cycles) by Che-Wei Wang & Taylor Lev<br />
@@ -132,7 +132,7 @@ A well-known ‘crowdsourced’ clock (in a different sense) is Christian Marcla
 Taiwanese designer Yen-Wen Tseng has designed a clock, [*Hand in Hand*](http://www.dezeen.com/2010/03/26/hand-in-hand-clock-yen-wen-tseng/), where the hands are linked by two pivoting arms:<br />
 [![](images/dzn_Hand-in-Hand-Clock-Yen-Wen-Tseng-2.jpg)](http://www.dezeen.com/2010/03/26/hand-in-hand-clock-yen-wen-tseng/)
 
-[*Water Clocks*](https://vimeo.com/28461780) by Bernard Gitton (*jump to 2:19*)<br />
+[*Water Clocks*](https://vimeo.com/28461780) by Bernard Gitton (*jump to 3:00*)<br />
 [![](images/water.jpg)](https://vimeo.com/28461780)
 
 [*Drop Clock*](https://www.youtube.com/watch?v=I32NLiAl9PA&t=0m20s) by Stasean<br />
