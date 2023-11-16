@@ -265,6 +265,21 @@ p5.js ([sketch](https://editor.p5js.org/golan/sketches/QskmgK4Wl))
 
 ```
 function setup() {
+  let output = "";
+  for (let i = 0; i < 2000; i++) {
+    if (random(0, 1) < 0.5) {
+      output += "⟍";
+    } else {
+      output += "⟋";
+    }
+  }
+  print(output); 
+}
+```
+OR
+
+```
+function setup() {
   createCanvas(440, 440);
   strokeWeight(2);
   frameRate(1);
@@ -363,6 +378,5 @@ Riso Opportunity:
 
 ### Wang Tiles:
 
-[Lecture](https://courses.ideate.cmu.edu/60-428/f2021/daily-notes/09-29-truchet/)
-
-[Wang Tiles p5](https://editor.p5js.org/golan/sketches/vUSpJuD6f) (p5.js)
+* [Lecture](https://courses.ideate.cmu.edu/60-428/f2021/daily-notes/09-29-truchet/)
+* [Wang Tiles p5](https://editor.p5js.org/golan/sketches/vUSpJuD6f) (p5.js)
