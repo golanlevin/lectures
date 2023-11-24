@@ -30,7 +30,7 @@ Repetitive visual patterns play a huge role in vernacular decorative arts. For a
 
 ### Pattern and Mathematics
 
-Mathematicians have studied the logic of patterns for decades. Did you know that there are only and exactly [17 types of 2D crystallographic (wallpaper) symmetries](https://blog.artlandia.com/the-simplest-diagram-of-the-17-symmetry-types-ever/). (There are no others!)
+Mathematicians have studied the logic of patterns for decades. Did you know that there are only and exactly [17 types of 2D crystallographic (wallpaper) symmetries](https://blog.artlandia.com/the-simplest-diagram-of-the-17-symmetry-types-ever/). (There are no others!) You can draw the 17 wallpaper symmetries interactively at [**https://eschersket.ch**](https://eschersket.ch/).
 
 ![The 17 2D crystallographic symmetries](img/17_symmetries.png)
 
@@ -190,3 +190,193 @@ Swiss software artist Leander Herzog has made a terminal program, *Agglo* (2023)
 * (password: agglo)
 
 ![Leander Herzog, *Agglo*](img/leander_herzog_agglo.png)
+
+---
+
+## Randomness and Order
+
+The exploration of the relationship between chaos and order has been an abiding theme in computer-based generative art. Consider this classic work by Georg Nees, *Schotter* (“Gravel”, 1968), [in the collection of the Victoria & Albert Museum](http://collections.vam.ac.uk/item/O221321/schotter-print-nees-georg/), London. (Nees was the first person to ever publicly exhibit artwork created with a digital computer, in 1965.)
+
+![Schotter](img/nees_schotter.jpg)
+
+* Which visual properties of the squares is Nees manipulating in order to achieve disorder?
+* To perceive disorder, it helps to see it *in contrast with order*. How is that contrast established in *Schotter*? (*hint*: gradient...)
+
+Paul Rickards is an artist and retrocomputing enthusiast currently active on #PlotterTwitter. In September 2016 he [tweeted](https://twitter.com/paulrickards/status/780057031566917632) this small study, “Grid of imperfect circles”:
+
+![Rickards imperfect circles](img/rickards.jpg)
+
+* Attempt to describe the algorithm which (you guess) produced this work.
+* To the extent that this artwork is interesting, *what makes it so*? (Can you imagine this work without the imperfections in the circles?)
+* How is *disorder* achieved in this work? (*hint*: fighting against a grid...)
+* Do you think the circles are intended to look “hand drawn”?) 
+
+Here's a recent photo of computer art pioneer Vera Molnár, standing in front of one of her generative artworks:
+
+![Vera Molnar](img/vera_photo.jpg)
+
+* In what way is this image *ordered*?
+* In what way is this image *disordered*?
+
+Too little variation, and the image is boring; too much randomness, and it's "just noise". The question is, how much randomness is enough, or just right? Information theoreticians call this the Wundt curve: 
+
+![Order-Disorder](img/order_disorder.jpg)
+
+![wundt-curve](img/wundt-curve.png)
+
+---
+
+## Truchet & Related Patternmaking
+
+### Modular Elements, Randomized; Larger Structures Seemingly Emerging Therefrom
+
+In 1704, the Dominican friar Sebastien Truchet considered the range of possible patterns formed by tilings of right triangles oriented at the four corners of a square.
+
+![truchet patterns](img/truchet-12.png)
+
+![truchet patterns](img/truchet-34.png)
+
+It 
+
+
+![10 Print](img/the_ppg256_article_image.png)
+
+Commodore C64 Basic:
+
+```
+10 PRINT CHR$(205.5+RND(1)); : GOTO 10
+```
+
+Processing (Java):
+
+```
+for (int i=0; i<1000000; i++){
+  print ((char)(random(1)<0.5? 47:92));
+}
+```
+
+JavaScript in HTML (paste into URL bar!):
+
+```
+data:text/html,<div style="line-height:1em;word-wrap:break-word;"id=d><script>for(i=0;1e4>i;i++)d.innerHTML+=String.fromCharCode(9585+Math.random()*2);</script>
+```
+
+p5.js ([sketch](https://editor.p5js.org/golan/sketches/QskmgK4Wl))
+
+```
+function setup() {
+  let output = "";
+  for (let i = 0; i < 2000; i++) {
+    if (random(0, 1) < 0.5) {
+      output += "⟍";
+    } else {
+      output += "⟋";
+    }
+  }
+  print(output); 
+}
+```
+OR
+
+```
+function setup() {
+  createCanvas(440, 440);
+  strokeWeight(2);
+  frameRate(1);
+  noFill();
+}
+
+function draw() {
+  background("wheat");
+
+  var count = 20;
+  for (var j = 1; j <= count; j++) {
+    for (var i = 1; i <= count; i++) {
+      var cx = i * 20;
+      var cy = j * 20;
+      
+      if (random(0, 1) < 0.5) {
+        line(cx, cy, cx + 20, cy + 20);
+      } else {
+        line(cx, cy + 20, cx + 20, cy);
+      }
+    }
+  }
+}
+```
+
+A modification of Truchet’s tiles ("**Smith tiles**") leads to a single tile consisting of two circular arcs of radius equal to half the tile edge length centered at opposed corners. There are two possible orientations of this tile, and tiling the plane using tiles with random orientations gives visually interesting patterns.
+
+![Image](img/smith-tiles.png)
+
+![Image](img/1920px-Truchet_tiling.svg-1536x1536.png)
+
+A further variation is "**Duotone Truchet Tilings**", by Cameron Browne. using these requires additional continuity constraints:
+
+![Image](img/fig-2-duotone-square-2.jpg)
+
+![Image](img/duotone-hex-1.jpg)
+
+![Image](img/duotone-bridge-1.jpg)
+
+[Interactive demonstration at Observable](https://observablehq.com/@nrabinowitz/truchet-tiles) by Nick Rabinowitz:
+
+![Image](img/rabinowitz.png)
+
+Another variation is **Multiscale Truchet Patterns**: 
+
+* From [Multiscale Truchet Patterns](https://christophercarlson.com/portfolio/multi-scale-truchet-patterns/) (blog post) by Christopher Carlson
+* [Full PDF paper](http://archive.bridgesmathart.org/2018/bridges2018-39.pdf) by Christopher Carlson
+* Interactive [Truchet-Carlson Tiles](https://observablehq.com/@osteele/truchet-carlson-tiles) demonstration at Observable
+
+![Image](img/pairwise-connectivities.png)
+
+![Image](img/multiscale-tilings.png)
+
+Multiscale Truchet Pattern Gradient by Paavo Toivanen:
+
+![Image](img/Paavo_Toivanen.png)
+
+![Image](img/gannon-multiscale.png)
+
+Carpets by Alexander Reben:
+
+![Image](img/reben1.jpg)![Image](img/reben2.jpg)
+
+Andrew Kudless:
+
+![Image](img/kudless.png)
+
+Ruud de Rooij:
+
+![Image](img/ruudderooij.jpg)
+
+Anna Carreras:
+
+![Image](img/anna-carreras.png)
+
+Joshua Schachter:
+
+![Image](img/joshua-schachter.png)
+Jessica In:
+
+![Image](img/jessica_in.png)
+
+Riso Opportunity: 
+
+![Image](img/riso-truchet-example.png)
+
+---
+
+## Readings
+
+* Excerpt (Chapter 30, p. 64-81) from *10 PRINT*, by Nick Montfort et al. [[**6MB PDF**]](img/10_print_excerpt_moln.pdf)
+* Excerpt (Chapter 1, p. 17-37) from *Graphic Games*, by Victor Baumgartner, paying the most attention to “Game C” [[**22MB PDF**]](img/graphic_games_ch1.pdf)
+
+
+---
+
+### Wang Tiles:
+
+* [Lecture](https://courses.ideate.cmu.edu/60-428/f2021/daily-notes/09-29-truchet/)
+* [Wang Tiles p5](https://editor.p5js.org/golan/sketches/vUSpJuD6f) (p5.js)
