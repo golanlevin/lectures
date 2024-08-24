@@ -7,7 +7,7 @@ A “Looking-Outwards” report is a brief post that reports on a new media proj
 Try to find things that you aspire to make yourself. If you’re not finding projects that interest you, ask your professor or teaching assistant for advice. You probably just need to find the right search terms. For this course, it may be most appropriate to select projects that are made by individuals or small teams, rather than large companies, but that’s not a strong requirement.
 
 
-### How to do a Looking Outwards report
+### How to do a *Looking Outwards* report
 
 In a posting,
 
@@ -22,22 +22,22 @@ In the paragraph you write, you should:
 * **Research** the project’s chain of influences. Dig up the ‘deep background’, and compare the project with related work or prior art, if appropriate. What sources inspired the creator this project? What was “their” Looking Outwards?
 Please be sure to label your blog post with our WordPress “category”, Part of the purpose of your Looking Outwards documentation is to increase the documentation, in the world, of noteworthy but vulnerable media artifacts. Therefore, when including video documentation of projects:
 
-### Evaluation of your Looking Outwards Reports
+### Evaluation of your *Looking Outwards* Reports
 Each Looking Outwards report can receive one of two marks:
 
 * **0 points.** You did not do the report.
 * **1 point.** You did the report.
 
-### Learning Outcomes of Looking Outwards Reports
+### Learning Outcomes of *Looking Outwards* Reports
 
 After completing the sequence of Looking Outwards reports, you will be able to:
 
 * Demonstrate familiarity with historic and/or contemporary new-media projects relevant to that student’s specific research interests;
 * Demonstrate familiarity with new-media projects that exemplify cultural practices that use widely-used arts-engineering toolkits and/or with specific technologies.
 
-### Where to research Looking Outwards subjects
+### Where to research *Looking Outwards* subjects
 
-In normal times, you would be encouraged to do research at our university’s library. It has books, films and other media that are not online.  Owing to the COVID-19 pandemic, however, it is likely that you will conduct this research online. Below is a list of some prominent online feeds that present current work in new media art. This list can be used as a starting point for preparing your regular Looking Outwards reports. Highly recommended:
+In normal times, you would be encouraged to do research at our university’s library. It has books, films and other media that are not online.  Owing to the COVID-19 pandemic, however, it is likely that you will conduct this research online. Below is a list of some prominent online feeds that present current work in new media art. This list can be used as a starting point for preparing your regular *Looking Outwards* reports. Highly recommended:
 
 * [CreativeApplications.net](http://www.creativeapplications.net/)
 * [Eyeo Festival Videos](https://vimeo.com/eyeofestival/videos/all)
@@ -45,6 +45,4 @@ In normal times, you would be encouraged to do research at our university’s li
 
 ### Warning
 
-In a group of approximately a dozen students, the likelihood that two people would choose to write Looking Outwards reports about the same project ought to be infinitesimally small, given the *thousands* of interesting projects that exist. Yet it happens. How is this possible? It seems some students are satisfied to select something from the first page of results returned from a search. That is not especially deep research. To encourage students to dig deeper, at the professor's discretion, two students who both submit reports about the same project may each receive no credit. 
-
-
+In a group of approximately a dozen students, the likelihood that two people would choose to write Looking Outwards reports about the same project ought to be infinitesimally small, given the *thousands* of interesting projects that exist. Yet it happens. How is this possible? It seems some students are satisfied to select something from the first page of results returned from a search. That is not especially deep research. To encourage students to dig deeper, for some assignments, the professor may announce that two students who both submit reports about the same project may each receive no credit.
