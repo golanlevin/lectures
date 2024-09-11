@@ -3,15 +3,13 @@
 
 ### Deep History
 
-*Question: Why does the circle have 360°?*
+*(Question: Why does the circle have 360°?)*
 
-[A Brief History of the Calendar and Timekeeping](https://www.youtube.com/watch?v=OaYMK2n9Aow) (watch up to 12:42). Lecture by Dr. Donna Carroll, Lecturer of Physics, Maastricht University: 
-[![](images/history-of-calendar.jpg)](https://www.youtube.com/watch?v=OaYMK2n9Aow)
+[A Brief History of the Calendar and Timekeeping](https://www.youtube.com/watch?v=OaYMK2n9Aow&t=4s) (watch up to 12:42). Lecture by Dr. Donna Carroll, Lecturer of Physics, Maastricht University:<br />[![](images/history-of-calendar.jpg)](https://www.youtube.com/watch?v=OaYMK2n9Aow)
 
-[A History of Timekeeping in Six Minutes](https://www.youtube.com/watch?v=SsULOvIWSUo). Contextualizes timekeeping in relation to military history.
-[![](images/history-of-timekeeping.jpg)](https://www.youtube.com/watch?v=SsULOvIWSUo)
+[A History of Timekeeping in Six Minutes](https://www.youtube.com/watch?v=SsULOvIWSUo). Contextualizes timekeeping in relation to military history.<br />[![](images/history-of-timekeeping.jpg)](https://www.youtube.com/watch?v=SsULOvIWSUo)
 
-[72 Micro-Seasons in Ancient Japan](https://thekidshouldseethis.com/post/japan-72-micro-seasons-change-mindfulness-video)
+[72 Micro-Seasons in Ancient Japan](https://www.youtube.com/watch?v=aScTn2A8hv8&t=46s)<br />[![72-microseasons.jpg](images/72-microseasons.jpg)](https://www.youtube.com/watch?v=aScTn2A8hv8&t=46s)
 
 ---
 
@@ -51,11 +49,11 @@ We see this again in the *10-Hour Flux Clock* by George Maciunas (1969):<br />
 
 ### Software Clocks (I)
 
-Let’s start with something simple. The [Colour Clock](http://www.thecolourclock.com/) displays the current time as a hexadecimal color. Hours = red, minutes = green, seconds = blue. There you go. In case you were wondering, more than several people have thought of this idea. Low hanging fruit.
+Let’s begin with something simple. The [Colour Clock](http://www.thecolourclock.com/) displays the current time as a hexadecimal color. Hours = red, minutes = green, seconds = blue. There you go. In case you were wondering, more than several people have thought of this idea. Low hanging fruit.
 
 Here's another very simple clock, [*hms*](https://www.gysin-vanetti.com/hms/) by Andreas Gysin (2010), which maps the time to the dimensions (lwh) of a rectangular solid. The piece can be seen [live online here](https://www.gysin-vanetti.com/hms/)<br />![gysin-hms.gif](images/gysin-hms.gif)
 
-Much of this work began with John Maeda’s highly influential [*12 O’Clocks*](http://www.maedastudio.com/2004/rbooks2k/twelve.html) software from 1996. [Here’s a video](https://www.youtube.com/watch?v=nA_UTUvC4h8&t=240s) (jump to 4’00”), and here are individual GIF recordings: [maeda-01](images/maeda/maeda-01.gif), [maeda-02](images/maeda/maeda-02.gif), [maeda-03](images/maeda/maeda-03.gif), [maeda-04](images/maeda/maeda-04.gif), [maeda-05](images/maeda/maeda-05.gif), [maeda-06](images/maeda/maeda-06.gif), [maeda-07](images/maeda/maeda-07.gif), [maeda-08](images/maeda/maeda-08.gif), [maeda-09](images/maeda/maeda-09.gif), [maeda-10](images/maeda/maeda-10.gif), [maeda-11](images/maeda/maeda-11.gif), [maeda-12](images/maeda/maeda-12.gif)<br />![maeda-all.gif](images/maeda/maeda-all.gif)
+Much of this kind of investigation began with John Maeda’s highly influential [*12 O’Clocks*](http://www.maedastudio.com/2004/rbooks2k/twelve.html) software from 1996. [Here’s a video](https://www.youtube.com/watch?v=nA_UTUvC4h8&t=240s) (jump to 4’00”), and here are individual GIF recordings: [maeda-01](images/maeda/maeda-01.gif), [maeda-02](images/maeda/maeda-02.gif), [maeda-03](images/maeda/maeda-03.gif), [maeda-04](images/maeda/maeda-04.gif), [maeda-05](images/maeda/maeda-05.gif), [maeda-06](images/maeda/maeda-06.gif), [maeda-07](images/maeda/maeda-07.gif), [maeda-08](images/maeda/maeda-08.gif), [maeda-09](images/maeda/maeda-09.gif), [maeda-10](images/maeda/maeda-10.gif), [maeda-11](images/maeda/maeda-11.gif), [maeda-12](images/maeda/maeda-12.gif)<br />![maeda-all.gif](images/maeda/maeda-all.gif)
 
 <!--
 #### *Live Mac OS9 demonstration instructions:*
@@ -74,11 +72,9 @@ The duo CWANDT ([Che-Wei Wang and Taylor Levy](https://cwandt.com/pages/about)) 
 
 ---
 
-Clocks have been an idee fixe in new media. Here's the elegant video-slitscan-based [*Last Clock*](https://vimeo.com/27975734), (2002) by Jussi Angesleva & Ross Cooper:<br />
-[![](images/lastclock2-620x527.jpg)](https://vimeo.com/27975734)
+Clocks have been an *idee fixé* in new media. Here's the elegant video-slitscan-based [*Last Clock*](https://vimeo.com/27975734), (2002) by Jussi Angesleva & Ross Cooper:<br />[![](images/lastclock2-620x527.jpg)](https://vimeo.com/27975734)
 
-[Here's a clock](https://www.openprocessing.org/sketch/503941) I produced as a student of John Maeda in 1999.<br />
-[![](images/banded_clock.gif)](https://www.openprocessing.org/sketch/503941)
+[Here's a clock](https://www.openprocessing.org/sketch/503941) I produced as a student of John Maeda in 1999.<br />[![](images/banded_clock.gif)](https://www.openprocessing.org/sketch/503941)
 
 My student Greg Vassallo made this clock for my class in 2005:<br />
 ![](images/vassallo.png)
@@ -86,7 +82,7 @@ My student Greg Vassallo made this clock for my class in 2005:<br />
 
 ---
 
-### The Clock and Human Industry
+### Time, Labor and Human Industry
 
 [*Real Time: Schiphol Clock*](https://vimeo.com/171408075) by Maarten Baas<br />
 [![](images/maarten_baas_real_time_schiphol_clock_1.gif)](https://vimeo.com/171408075)
@@ -117,7 +113,6 @@ A well-known ‘crowdsourced’ clock (in a different sense) is Christian Marcla
 
 [![](images/marclay.jpg)](https://www.youtube.com/watch?v=0gSwtr3E4Fo)
 
-
 ---
 
 ### Physical Machines & Clock Typography
@@ -134,23 +129,18 @@ A well-known ‘crowdsourced’ clock (in a different sense) is Christian Marcla
 Taiwanese designer Yen-Wen Tseng has designed a clock, [*Hand in Hand*](http://www.dezeen.com/2010/03/26/hand-in-hand-clock-yen-wen-tseng/), where the hands are linked by two pivoting arms:<br />
 [![](images/dzn_Hand-in-Hand-Clock-Yen-Wen-Tseng-2.jpg)](http://www.dezeen.com/2010/03/26/hand-in-hand-clock-yen-wen-tseng/)
 
-[*Water Clocks*](https://vimeo.com/28461780) by Bernard Gitton (*jump to 3:00*)<br />
-[![](images/water.jpg)](https://vimeo.com/28461780)
+[*Water Clocks*](https://vimeo.com/28461780#t=180) by Bernard Gitton (*jump to 3:00*)<br />[![](images/water.jpg)](https://vimeo.com/28461780#t=180)
 
-[*Drop Clock*](https://www.youtube.com/watch?v=I32NLiAl9PA&t=0m20s) by Stasean<br />
-[![](images/drop_clock.gif)](https://www.youtube.com/watch?v=I32NLiAl9PA&t=0m20s)
+[*Drop Clock*](https://www.youtube.com/watch?v=I32NLiAl9PA&t=0m20s) by Stasean<br />[![](images/drop_clock.gif)](https://www.youtube.com/watch?v=I32NLiAl9PA&t=0m20s)
 
 [*Binary Clock*](https://www.youtube.com/watch?v=-n-ZWACEtoM&t=1m18s)<br />
 [![](images/binary.jpg)](https://www.youtube.com/watch?v=-n-ZWACEtoM&t=1m18s)
 
-[*LEGO Mindstorms Digital Clock*](https://www.youtube.com/watch?v=A_mA72r3ZiQ&t=0m7s)<br />
-[![](images/lego_mindstorms_digital_clock.gif)](https://www.youtube.com/watch?v=A_mA72r3ZiQ&t=0m7s)
+[*LEGO Mindstorms Digital Clock*](https://www.youtube.com/watch?v=A_mA72r3ZiQ&t=0m7s)<br />[![](images/lego_mindstorms_digital_clock.gif)](https://www.youtube.com/watch?v=A_mA72r3ZiQ&t=0m7s)
 
-[*Segmentus Clock*](https://www.youtube.com/watch?v=yWma_3koR_M&t=0m17s) by Art Lebedev<br />
-[![](images/art_lebedev_segmentus_clock.gif)](https://www.youtube.com/watch?v=yWma_3koR_M&t=0m17s)
+[*Segmentus Clock*](https://www.youtube.com/watch?v=yWma_3koR_M&t=0m17s) by Art Lebedev<br />[![](images/art_lebedev_segmentus_clock.gif)](https://www.youtube.com/watch?v=yWma_3koR_M&t=0m17s)
 
-[*Ferrolic*](https://vimeo.com/116510462) by Zelf Koelman<br />
-[![](images/ferrolic.jpg)](https://vimeo.com/116510462)
+[*Ferrolic*](https://vimeo.com/116510462) by Zelf Koelman<br />[![](images/ferrolic.jpg)](https://vimeo.com/116510462)
 
 [*A Million Times*](https://vimeo.com/60491636) by Humans Since 1982<br />
 [![](images/humans_since_1982_a_million_times.gif)](https://vimeo.com/60491636)
@@ -234,18 +224,6 @@ In another situation, a clock may simply be working so slowly that it never appe
 
 [*The Clock of the Long Now*](https://www.youtube.com/watch?v=w9uM6BBKfO8) (10,000 Year Clock)
 [![](images/long-now.jpg)](https://www.youtube.com/watch?v=w9uM6BBKfO8)
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
