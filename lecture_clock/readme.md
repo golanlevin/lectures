@@ -1,6 +1,4 @@
-## Representing Time
-
-Created: 2 February 2018
+## Representing Time; Clocks, Reimagined
 
 
 ### Deep History
@@ -53,13 +51,13 @@ We see this again in the *10-Hour Flux Clock* by George Maciunas (1969):<br />
 
 ### Software Clocks (I)
 
-Let’s start with something simple. [The Colour Clock](http://thecolourclock.co.uk/) displays the current time as a hexadecimal color. Hours = red, minutes = green, seconds = blue. There you go; glad that’s over with. In case you were wondering, more than several people have thought of this idea. Low hanging fruit.
+Let’s start with something simple. The [Colour Clock](http://www.thecolourclock.com/) displays the current time as a hexadecimal color. Hours = red, minutes = green, seconds = blue. There you go. In case you were wondering, more than several people have thought of this idea. Low hanging fruit.
 
-Now let’s go back in history. Here are John Maeda’s [12 O’Clocks](http://www.maedastudio.com/2004/rbooks2k/twelve.html) from 1996. If the real apps (OS9) don’t work any longer, [here’s a video](https://www.youtube.com/watch?v=nA_UTUvC4h8) (jump to 4’00”).
+Here's another very simple clock, [*hms*](https://www.gysin-vanetti.com/hms/) by Andreas Gysin (2010), which maps the time to the dimensions (lwh) of a rectangular solid. The piece can be seen [live online here](https://www.gysin-vanetti.com/hms/)<br />![gysin-hms.gif](images/gysin-hms.gif)
 
-[Maeda's 12 O'Clocks](https://ems.andrew.cmu.edu/2016-60212/lectures/lecture-09-09b-clocks/maedas-clocks/index.html)<br />
-[![](images/maeda-all.gif)](https://ems.andrew.cmu.edu/2016-60212/lectures/lecture-09-09b-clocks/maedas-clocks/index.html)
+Much of this work began with John Maeda’s highly influential [*12 O’Clocks*](http://www.maedastudio.com/2004/rbooks2k/twelve.html) software from 1996. [Here’s a video](https://www.youtube.com/watch?v=nA_UTUvC4h8&t=240s) (jump to 4’00”), and here are individual GIF recordings: [maeda-01](images/maeda/maeda-01.gif), [maeda-02](images/maeda/maeda-02.gif), [maeda-03](images/maeda/maeda-03.gif), [maeda-04](images/maeda/maeda-04.gif), [maeda-05](images/maeda/maeda-05.gif), [maeda-06](images/maeda/maeda-06.gif), [maeda-07](images/maeda/maeda-07.gif), [maeda-08](images/maeda/maeda-08.gif), [maeda-09](images/maeda/maeda-09.gif), [maeda-10](images/maeda/maeda-10.gif), [maeda-11](images/maeda/maeda-11.gif), [maeda-12](images/maeda/maeda-12.gif)<br />![maeda-all.gif](images/maeda/maeda-all.gif)
 
+<!--
 #### *Live Mac OS9 demonstration instructions:*
 
 * Download artwork from [http://www.maedastudio.com/2004/rbooks2k/twelve.html](http://www.maedastudio.com/2004/rbooks2k/twelve.html), [here (twelve.sit)](other/twelve.sit), or an unarchived version [here (12oclocks.app)](other/12oclocks.app)
@@ -68,6 +66,11 @@ Now let’s go back in history. Here are John Maeda’s [12 O’Clocks](http://w
 * Launch the [SheepShaver OS9 emulator](http://sheepshaver.cebix.net/), for which you can find downloads in this [forum](https://www.emaculation.com/forum/viewtopic.php?f=20&t=7360&sid=9f0939dd674fd526f11aa79efbb56c30) or [here (Version 2.5, 8/10/2020)](SheepShaver_notarized_20200810.zip). I'm using the instructions [here](https://emaculation.com/doku.php/sheepshaver_mac_os_x_setup) with the *New World PPC ROM*  and *Mac OS 9 Boot Image* from [here](https://www.redundantrobot.com/sheepshaver/)
 * After OS9 launches, navigate to Unix/MaedaClocks/12oclocks in OS9; run demo
 * You may need to force-quit SheepShaver to exit.
+-->
+
+Here is [*24 Times* by Andreas Gysin](https://24times.gysin-vanetti.com/). This is a collection of 24 typographic clocks: sequences of numbers, letters or punctuation marks animated in different ways to express the time. More can be [seen online](https://24times.gysin-vanetti.com)<br />![gysin-24-times.gif](images/gysin-24-times.gif)
+
+The duo CWANDT ([Che-Wei Wang and Taylor Levy](https://cwandt.com/pages/about)) have made [many unusual digital and mechatronic timepieces](https://cwandt.com/collections/time), including [*Superlocal*](https://cwandt.com/products/superlocal?variant=41099183128732):<br />![superlocal_cwandt.gif](images/superlocal_cwandt.gif)
 
 ---
 
@@ -75,12 +78,11 @@ Clocks have been an idee fixe in new media. Here's the elegant video-slitscan-ba
 [![](images/lastclock2-620x527.jpg)](https://vimeo.com/27975734)
 
 [Here's a clock](https://www.openprocessing.org/sketch/503941) I produced as a student of John Maeda in 1999.<br />
-[![](images/bandedclock.jpg)](https://www.openprocessing.org/sketch/503941)
+[![](images/banded_clock.gif)](https://www.openprocessing.org/sketch/503941)
 
 My student Greg Vassallo made this clock for my class in 2005:<br />
 ![](images/vassallo.png)
 ![](images/vassallo.gif)
-
 
 ---
 
@@ -198,8 +200,8 @@ Taiwanese designer Yen-Wen Tseng has designed a clock, [*Hand in Hand*](http://w
 [*Center Clock*](http://leebyron.com/centerclock/) by Lee Byron (2007)<br />
 [![](images/lee_byron_center_clock.gif)](http://leebyron.com/centerclock/)
 
-[*QR Clock*](https://www.qrplanet.com/clock/) by QRPlanet<br />
-[![](images/qr_clock.gif)](https://www.qrplanet.com/clock/)
+[*QR Clock*](https://qr-clock.glitch.me/) by QRPlanet<br />
+[![](images/qr_clock.gif)](https://qr-clock.glitch.me/)
 
 [*Time Machine*](http://www.todayandtomorrow.net/2013/06/14/time-machine/) by Daniel Duarte<br />
 [![](images/daniel_duarte_time_machine.gif)](http://www.todayandtomorrow.net/2013/06/14/time-machine/)
