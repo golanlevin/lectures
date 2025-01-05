@@ -226,7 +226,11 @@ In another situation, a clock may simply be working so slowly that it never appe
 [![](images/long-now.jpg)](https://www.youtube.com/watch?v=w9uM6BBKfO8)
 
 
+---
 
+Additional References
+
+* [*Calendar*](https://www.instagram.com/p/DEUzASIoFj-/), 1961-1975, by Walter De Maria (American, 1935 - 2013). Kröller-Müller Museum. 
 
 
 
