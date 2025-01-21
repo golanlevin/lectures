@@ -10,7 +10,7 @@ imagenet.png
 
 [![excavating.png](img/excavating.png)](https://www.youtube.com/watch?v=P4JpD1PWBDI)
 
---
+---
 
 [Deep Hysteria by Amy Alexander](https://amy-alexander.com/projects/deep-hysteria/)
 
@@ -18,20 +18,20 @@ One AI generates "twins" that vary only in gender presentation. Another "AI", tr
 
 ![alexander_amy.png](img/alexander_amy.png)
 
---
+---
 
 Various types of racial and gender bias have been affecting AI systems since their inception. For example, in [AI-generated barbies](https://www.youtube.com/watch?v=L2sQRrf1Cd8&t=105s)
 
 [![barbie.png](img/barbie.png)](https://www.youtube.com/watch?v=L2sQRrf1Cd8&t=105s)
 
---
+---
 
 
 Also see the [Stable Diffusion Bias Explorer](https://huggingface.co/spaces/society-ethics/DiffusionBiasExplorer)
 
 [![stable-explorer.png](img/stable-explorer.png)](https://huggingface.co/spaces/society-ethics/DiffusionBiasExplorer)
 
---
+---
 
 DALL-E3 attempts to combat the racial bias in its training data by occasionally randomly inserting race words that aren’t white into a prompt. These can bubble up accidentally: 
 
@@ -39,13 +39,13 @@ DALL-E3 attempts to combat the racial bias in its training data by occasionally 
 
 ![homer-simpson-ai.png](img/homer-simpson-ai.png)
 
---
+---
 
 Object recognition can be affected by skin color.
 
 ![googlevision.png](img/googlevision.png)
 
---
+---
 
 ["The viral AI avatar app Lensa undressed me—without my consent"](https://www.technologyreview.com/2022/12/12/1064751/the-viral-ai-avatar-app-lensa-undressed-me-without-my-consent/)
 > *My avatars were cartoonishly pornified, while my male colleagues got to be astronauts, explorers, and inventors*.
