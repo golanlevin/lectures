@@ -1,6 +1,13 @@
 # An Introduction
 
-*A first-day lesson plan for Creative Coding.*
+*A first-day lesson plan for "Introduction to Interactivy and Computation" (60-210), a required course for sophomores at the Carnegie Mellon School of Art.*
+
+#### Preliminaries
+
+* Roll call
+* What do you think this class is about? 
+* What are some things you have seen?
+* What are some skills you may have? 
 
 ---
 
@@ -16,20 +23,15 @@ In 1985, Andy Warhol, at the height of his career, and widely held to be the pre
 
 Nowadays, people use computers for *everything*. Photoshop and such tools have been around more than a quarter century. In this course, we will distinguish between art that happens to have been made on a computer, and art which necessarily requires the development of new technology (software, circuits). 
 
-> *"When you use someone else's software, you are living in their dream."*<br />— John Maeda
+* *"When you use someone else's software, you are living in their dream."*<br />— John Maeda
 
-
-### Poetic Computation, Creative Coding
-
-Zachary Lieberman, in IdN *Interaction Issue* (December 2012), describes the challenge of making art by writing software as follows: 
-
-![Lieberman quote](images/poems-not-demos.jpg)
-
+--
 
 ### Computing, Outside a School of Computer Science
 
-* How many of you have taken a computer science course? More than one course?
+* How many of you have taken a computer science course? More than one?
 * As curious and creative people (inventors, artists, designers, musicians, etc.), in what ways have such courses disappointed you?
+* How many of you came to Art School in order to avoid computers? 
 
 ![Leah Buechley](images/leah_buechley.jpg)
 
@@ -50,7 +52,7 @@ It's possible that STEM education might benefit from the inclusion of arts-orien
 **“Creative coding”** describes the growing set of cultural practices by which artists, designers, architects, and poets employ computer programming and custom software as their chosen medium. This burgeoning field has been accelerated by the widespread adoption of open-source arts-engineering toolkits, such as Processing, p5.js, and openFrameworks, into the curricula of hundreds of art and design schools around the world. Created *by artists, for artists*, these toolkits are specifically oriented to the needs and working styles of cultural practitioners, and have radically democratized software development as a potent mode of creative inquiry. 
 
 * Our objective is to make stirring and provocative new forms of culture.
-* Our medium is software.
+* Our medium is software and electronics.
 * We learn codecraft as necessary to execute our ideas.
 
 We don't need much in order to make something powerful: 
@@ -67,50 +69,27 @@ Also, *it takes a while:*
 
 ![How to](images/how-to.png)
 
-From [*An App Can Be A Homecooked Meal*](https://www.robinsloan.com/notes/home-cooked-app/) by Robin Sloan:
-
-![robin_sloan_homecooked_meal.jpg](images/robin_sloan_homecooked_meal.jpg)
-
-From Melanie Hoff: [*Already Always Coding*](https://gist.github.com/melaniehoff/95ca90df7ca47761dc3d3d58fead22d4):
-
-> Everyone who interacts with computers has in important ways always already been programming them.
-> 
-> Every time you make a folder or rename a file on your computer, the actions you take through moving your mouse and clicking on buttons, translate into text-based commands or scripts which eventually translate into binary.
-> 
-> Why are the common conceptions of what a programmer and user is so divorced from each other? The distinction between programmer and user is reinforced and maintained by a tech industry that benefits from a population rendered computationally passive. If we accept and adopt the role of less agency, we then make it harder for ourselves to come into more agency.
-> 
-> We’ve unpacked the “user” a little, now let’s look at the “programmer.” When a programmer is writing javascript, they are using prewritten, packaged functions and variables in order to carry out the actions they want their code to do. In this way, the programmer is also the user. Why is using pre-made scripts seen so differently than using buttons that fire pre-made scripts?
-> 
-> When we all build up and cultivate one another’s agency to shape technology and online spaces, we are contributing to creating a world that is more supportive, affirming, and healing.
-
-![Already coding](images/hoff.png)
-
----
-
-## Our Tools: For us, by us
-
 The tools we are using were made by artist-educators who care a great deal to improve the experiences of new learners. They have made lots of great resources to help you, including written documentation and video tutorials. 
 
-**Here are some of those people:**
+**Here are some of those people: **
 
-* Here is Casey Reas and Ben Fry explaining the Processing [mission statement](https://vimeo.com/28117873) in 2011.
-* Lauren Lee McCarthy [speaking at the 2017 Gray Area Festival about the origin of p5.js](https://www.youtube.com/watch?v=l1qeNMXccvA&amp;t=1831s), a sibling project that is also part of the Processing family of tools. (View from 30:30–37:30)
-* Zach Lieberman [interviewed by Verse](https://twitter.com/verse_works/status/1688889255995609088), 2023. (5 minutes)
-
-**Also:** 
-
-
-* Here is [a video introduction to p5.js](http://hello.p5js.org/)
+* Here is Casey Reas and Ben Fry explaining the Processing [mission statement](https://vimeo.com/28117873).
+* And here is [Lauren McCarthy introducing p5.js](http://hello.p5js.org/), a sibling project that is also part of the Processing family of tools.
 * There are countless pitfalls waiting to bite you in the ass. Here's Zach Lieberman discussing [what can go wrong](https://vimeo.com/47203759?t=38m22s) (Jump to 38:22).
-* If available, see the *CLOUDS.app*
-
-
-
 
 ---
 
 ## Viewings 
 
+### The Challenge
+
+Zachary Lieberman, in IdN *Interaction Issue* (December 2012), describes the challenge of making art by writing software as follows: 
+
+![Lieberman quote](images/poems-not-demos.jpg)
+
+### Computer Art is more than 50 Years Old
+
+[Lecture on Machine Art](http://cmuems.com/2014a/lectures/lecture-01-machine-art/) (*time permitting*)
 
 ### Some exemplary recent works of poetic computing
 
@@ -122,11 +101,11 @@ One defining characteristic of work that we can make with code is that it can be
 * Camille Utterback & Romy Achituv, [Text Rain](https://www.youtube.com/watch?v=f_u3sSffS78), 1999
 * Christine Sugrue, [*Delicate Boundaries*](http://csugrue.com/delicateboundaries/), 2007
 * Camille Scherrer, [*Le Monde Des Montagnes*](https://vimeo.com/49153795), 2008
-* Chris O'Shea, [*Hand from Above*](https://vimeo.com/7042266), 2008
-* Karolina Sobecka, [*Sniff*](https://karolinasobecka.com/Sniff), 2011
+* Chris O'Shea, [*Hand from Above*](http://www.chrisoshea.org/hand-from-above), 2008
+* Karolina Sobecka & James George, [*Sniff*](http://www.karolinasobecka.com/artwork/sniff), 2011
 * Theo Watson & Emily Gobeille, [*Weather Worlds*](http://design-io.com/projects/WeatherWorlds/) (2013); [*Connected Worlds*](https://vimeo.com/13158551) (2015)
 * Zachary Lieberman, [*Más Que la Cara*](https://vimeo.com/211271693), 2016
-* Madeline Gannon, [*Mimus*](https://atonaton.com/mimus/), 2016, and [Two Circles](https://www.instagram.com/p/Cq-9RyouK-G/?img_index=1), 2023
+* Madeline Gannon, [*Mimus*](https://atonaton.com/mimus/), 2016
 
 ![Moth Generator](images/moth-generator.jpg)
 [*Moth Generator*](https://twitter.com/mothgenerator) by Everest Pipkin
@@ -134,14 +113,12 @@ One defining characteristic of work that we can make with code is that it can be
 Another defining characteristic of code as an artistic medium, is that it can be **generative**. We "*make a thing that makes a thing*": 
 
 * Kate Compton, [*Puppets*](http://www.galaxykate.com/apps/unpublic/puppet/index.html), 2017
-* Melissa Wiederrecht, [*Take Wing*](https://www.fxhash.xyz/generative/19456), 2022
-* Michael Chang, [*Generative Machines* Chrome Experiment](https://web.archive.org/web/20200513075153/http://machines.chromeexperiments.com/)
+* Michael Chang, [*Generative Machines* Chrome Experiment](http://machines.chromeexperiments.com/)
 * FIELD.io (Vera-Maria Glahn and Marcus Wendt), [Communion](https://vimeo.com/28227109), 2011
 * Matthias Dörfelt, [*Munching*](https://www.mokafolio.de/works/Munching), 2014
 * Nervous System (Jessica Rosenkrantz and Jesse Louis-Rosenburg): [generative jigsaw puzzles](https://n-e-r-v-o-u-s.com/projects/albums/generative-jigsaw-puzzles/); [*Cell Cycle* custom ring](https://n-e-r-v-o-u-s.com/cellCycle/?t=0); [*Kinematics Dress*](https://www.youtube.com/watch?v=6EK9MBJiFXU) 
 * Lia, [*Filament Sculptures*](https://vimeo.com/85913081), 2013 
-* Robert Hodgin, [*Meander*](https://roberthodgin.com/project/meander)
-* Hugues Bruyère, [Plasticine/Diffusion experiment](https://www.instagram.com/p/C7vQTGONBxB/)
+* Christopher Hesse (via Isola et al.), [Edges2Cats](https://affinelayer.com/pixsrv/index.html)
 
 ![Steinkamp](images/steinkamp-madamecurie-1024x822.jpg)
 *Madame Curie* by Jennifer Steinkamp
@@ -154,11 +131,78 @@ New media works can also function as self-standing artworks, public installation
 * Markus Kayser, [*Solar Sinter*](https://kayserworks.com/#/798817030644/), 2011
 * Lauren McCarthy, [*Social Turkers*](http://lauren-mccarthy.com/Social-Turkers) and [*LAUREN*](http://lauren-mccarthy.com/LAUREN)
 * Miranda July, [*Somebody* app](https://vimeo.com/105256055)
+
+If time permits, we'll watch a bit of:
+
 * Jonathan Minard & James George, [CLOUDS Documentary](https://cloudsdocumentary.com/)
 
 ---
 
-<!-- 
+## Activities
+
+### Exercise 1: *Blind Drawing*
+
+There are two drawings made by the Professor, Drawing-1 and Drawing-2.
+
+* Divide students into pairs. Call one person of each pair X, the other Y.
+* X students get Drawing-1.
+* Y students get Drawing-2.
+* Distribute blank paper and pens if necessary.
+* Pairs sit back to back without looking at the other’s drawing
+* X student describes their drawing to Y; Y tries to draw it from X's instructions.
+Switch at a reasonable time.
+* Y student describes their drawing to X; X tries to draw it from Y's instructions.
+* Pin up the drawings at the end, so people can see. 
+* Group by X/Y.
+* Discuss the results.
+
+### Exercise 2: *Conditional Design*
+
+These exercises are by the [Conditional Design](https://conditionaldesign.org/) group. 
+
+![Knots](images/knots.jpg)
+
+#### [*Knots*](https://vimeo.com/5559525)
+
+**First Step:**<br />
+The first player draws a line.
+The other players draw a line that goes over and under the last drawn line.
+
+**In Turns:**<br />
+The player elongates his/her line on both ends. The elongations have to go over and under a line of another player and may not go over the line of the same color twice in a row.
+When a line can no longer be elongated, it is considered dead for the rest of the game. When both ends of a line have died, the player may place a new line.
+
+---
+
+![The Beach](images/mirroreddrawings.jpg)
+
+#### [*Kaleidoscope*](https://vimeo.com/4186304)
+
+**Setup**<br />
+Each player has one color pen.
+The paper is divided into 4 imaginary segments, in which a player operates.
+Each turn a player is either leader or follower.
+The players decide which person may be the leader first.
+
+**Play**<br />
+Clockwise in turns a player is the leader, for approx. 30 sec. The other 3 people are the followers.
+The leader draws freely in his segment using only straight lines.
+The followers must mirror the drawing of the leader, synchronously while he/she is drawing.
+
+**End**<br />
+The ending of the game is decided by the player who proposed to play it.
+
+---
+
+![The Beach](images/thebeach.jpg)
+
+#### [*The Beach*](https://vimeo.com/5311402)
+
+**Instructions**<br />
+Each turn, find the most empty space on the paper and place a dot in the middle of it.
+
+---
+
 ## Individual Work (Before Next Session)
 
 1. Create a (free) account on [OpenProcessing.org](https://www.openprocessing.org/).
@@ -167,5 +211,9 @@ New media works can also function as self-standing artworks, public installation
 1. Spend some time browsing the [p5.js Reference](https://p5js.org/reference/). Examine at least 6 Reference pages, starting with the Shape commands. 
 1. Browse [CreativeApplications.net](http://www.creativeapplications.net/) (using the login provided in class) and the [MediaArtTube](https://www.youtube.com/user/MediaArtTube/videos) YouTube channel. Identify a project you find interesting. Later this week, you will be asked to write a paragraph about this project. 
 
--->
+
+--- 
+
+## What Questions do You Have? 
+
 
