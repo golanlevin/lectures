@@ -21,7 +21,7 @@ In 1985, Andy Warhol, at the height of his career, and widely held to be the pre
 
 ![Warhol article](images/computer-art-really-art-1024x768.jpg)
 
-Nowadays, people use computers for *everything*. Photoshop and such tools have been around more than a quarter century. In this course, we will distinguish between art that happens to have been made on a compute, and art which necessarily requires the development of new technology (software, circuits). 
+Nowadays, people use computers for *everything*. Photoshop and such tools have been around more than a quarter century. In this course, we will distinguish between art that happens to have been made on a computer, and art which necessarily requires the development of new technology (software, circuits). 
 
 * *"When you use someone else's software, you are living in their dream."*<br />— John Maeda
 
@@ -172,7 +172,7 @@ The other players draw a line that goes over and under the last drawn line.
 The player elongates his/her line on both ends. The elongations have to go over and under a line of another player and may not go over the line of the same color twice in a row.
 When a line can no longer be elongated, it is considered dead for the rest of the game. When both ends of a line have died, the player may place a new line.
 
--- 
+---
 
 ![The Beach](images/mirroreddrawings.jpg)
 
@@ -192,7 +192,7 @@ The followers must mirror the drawing of the leader, synchronously while he/she 
 **End**<br />
 The ending of the game is decided by the player who proposed to play it.
 
---
+---
 
 ![The Beach](images/thebeach.jpg)
 
