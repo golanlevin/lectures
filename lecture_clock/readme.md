@@ -239,3 +239,11 @@ Additional References
 * [AI Poetry Clock](https://www.kickstarter.com/projects/genmon/poem-1-the-ai-poetry-clock)
 
 ![ai-poetry-clock.jpg](images/ai-poetry-clock.jpg)
+
+* [Alicja_Kwade-clock.gif](https://alicjakwade.com/exhibitions/against-the-run) - Against the Run and [Gegen den Lauf](https://alicjakwade.com/works/gegen_den_lauf) by Alicja Kwade
+
+![Alicja_Kwade-clock.gif](images/Alicja_Kwade-clock.gif)
+
+![kwade-clock.jpg](images/kwade-clock.jpg)
+
+
