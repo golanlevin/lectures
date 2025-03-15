@@ -232,5 +232,10 @@ Additional References
 
 * [*Calendar*](https://www.instagram.com/p/DEUzASIoFj-/), 1961-1975, by Walter De Maria (American, 1935 - 2013). Kröller-Müller Museum. 
 
+---
 
+### Landfill
 
+* [AI Poetry Clock](https://www.kickstarter.com/projects/genmon/poem-1-the-ai-poetry-clock)
+
+![ai-poetry-clock.jpg](images/ai-poetry-clock.jpg)
