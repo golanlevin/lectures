@@ -239,6 +239,7 @@ Additional References
 * [Kinetic clock](https://www.instagram.com/reel/DLSIHbfIfGM/?utm_source=ig_web_copy_link)
 * [Clocks by Space.Filler.Art](https://www.instagram.com/p/DKqpuZYO4mi/) (Alex Miller) and *[Strange Time](https://strange-time.com/)* exhibition
 * [AI Poetry Clock](https://www.kickstarter.com/projects/genmon/poem-1-the-ai-poetry-clock)
+* [Flood Fill Clock](https://vimeo.com/16216790), Jurg Lehni, 2008
 
 ![ai-poetry-clock.jpg](images/ai-poetry-clock.jpg)
 
