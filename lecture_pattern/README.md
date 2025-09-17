@@ -230,13 +230,16 @@ Too little variation, and the image is boring; too much randomness, and it's "ju
 
 ### Modular Elements, Randomized; Larger Structures Seemingly Emerging Therefrom
 
+![truchet_triangular_tiles_800.gif](img/truchet_triangular_tiles_800.gif)
+
 In 1704, the Dominican friar Sebastien Truchet considered the range of possible patterns formed by tilings of right triangles oriented at the four corners of a square.
+
 
 ![truchet patterns](img/truchet-12.png)
 
 ![truchet patterns](img/truchet-34.png)
 
-It 
+
 
 
 ![10 Print](img/the_ppg256_article_image.png)
@@ -311,6 +314,10 @@ A modification of Truchet’s tiles ("**Smith tiles**") leads to a single tile c
 
 ![Image](img/1920px-Truchet_tiling.svg-1536x1536.png)
 
+Machined [by Bleeptrack](https://www.youtube.com/watch?v=k0wkpYMZ984):
+
+[![Bleeptrack machining](img/bleeptrack.jpg)](https://www.youtube.com/watch?v=k0wkpYMZ984)
+
 A further variation is "**Duotone Truchet Tilings**", by Cameron Browne. using these requires additional continuity constraints:
 
 ![Image](img/fig-2-duotone-square-2.jpg)
@@ -378,5 +385,5 @@ Riso Opportunity:
 
 ### Wang Tiles:
 
-* [Lecture](https://courses.ideate.cmu.edu/60-428/f2021/daily-notes/09-29-truchet/)
+* [Lecture](https://courses.ideate.cmu.edu/60-428/f2021/daily-notes/09-29-truchet/) or [here](https://courses.ideate.cmu.edu/60-428/f2021/index.html%3Fp=1160.html)
 * [Wang Tiles p5](https://editor.p5js.org/golan/sketches/vUSpJuD6f) (p5.js)
