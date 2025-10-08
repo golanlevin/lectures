@@ -60,7 +60,7 @@ Paul Haeberli: [*Dynadraw*](http://www.graficaobscura.com/dyna/) (1989) • [int
 [*Crayon Physics*](https://www.youtube.com/watch?v=QsTqspnvAaI&t=16s)<br />
 [![](images/crayon_physics.png)](https://www.youtube.com/watch?v=QsTqspnvAaI&t=16s)
 
-See also
+For more games, see also:
 
 * [*Draw a Stickman*](https://www.youtube.com/watch?v=GzyWXOOrICM) – Draw and create your own character; draw your way out of dangerous situations.
 * [*Magical Pencil*](https://vimeo.com/337309331) by Yang, ITP student thesis: draw the things you need to play the game.*
@@ -71,7 +71,8 @@ See also
 * [*Action Painting Pro*](https://www.youtube.com/watch?v=yeoA2iJ58U8)
 
 
-### Augmentation with Other Algorithms
+### Augmentation with Mathy Algorithms
+
 
 [*Recursive Drawing*](http://recursivedrawing.com/) (2011) by Toby Schachman.<br />
 [![](images/recursive.png)](https://vimeo.com/41822151)
@@ -83,7 +84,7 @@ Scott Snibbe, [*Bubble Harp*](https://www.youtube.com/watch?v=wkLB9ODb3Gc&t=90s)
 
 ### Performed Imagery
 
-The performance of live imagery has a long history.
+The performance of live imagery has a long history. VJing!
 
 [Mary Hallock-Greenwalt](http://amy-alexander.com/projects/online-communities/the-mary-hallock-greenewalt-visibility-project.html) (1871 – 1950) *"was an artist/inventor who was active during the first half of the 20th century. After beginning her career as a concert pianist, she became interested in the performance of light and color in addition to music. She went on to design and perform custom electric visual instruments that displayed colored light."* She called her instrument the *Sarabet*, and she called the medium of temporal light, "Nourathar". In the course of making her instruments she invented and patented the rheostat (dimmer) and the mercury tilt-switch. 
  
@@ -136,7 +137,7 @@ Various, [*GPS drawings*](http://www.gpsdrawing.com/gallery.html)<br />
 
 ![Banksy](images/banksy_if-graffiti-changed-anything-it-would-be-illegal.jpg)
 
-Technologies which enable artists to deploy imagery at new scales, in difficult-to-access locations, beyond the limits of their bodies.
+Technologies which enable artists to deploy drawings at new scales, in difficult-to-access locations, beyond the limits of their bodies.
 
 Graffiti Research Lab / Theo Watson, [*Laser Tag*](https://www.youtube.com/watch?v=DKbtTPYZEig) (2007)<br />
 [![Laser Tag](images/grl_laser_tag_2007.gif)](https://www.youtube.com/watch?v=DKbtTPYZEig)
@@ -156,10 +157,11 @@ CROMATICS, [*Graffiti Rainbow Bike*](https://vimeo.com/47245840) (2012)
 
 
 
-
 ---
 
 ### Audiovisual Drawing Systems
+
+Creating sound and imagery simultaneously. 
 
 Daphne Oram, *Oramics Machine* (1960s), [“drawn sound” machine](https://www.youtube.com/watch?v=QJQUPRPJ8yM)<br />
 [![Oramics Machine](images/oram.jpg)](https://www.youtube.com/watch?v=mJ08diPUv6A&t=1m52s)
@@ -203,25 +205,10 @@ Harold Cohen, *AARON* (1973-1985)
 ![](images/aaron-harold-cohen1-1.jpg)<br />
 [![](images/harold_cohen.png)](https://www.youtube.com/watch?v=IPczQgCuOOc)
 
-[Four Experiments in Handwriting with a Neural Network](https://distill.pub/2016/handwriting/)
-
-http://blog.otoro.net/2017/05/19/teaching-machines-to-draw/
-https://medium.com/@samim/assisted-drawing-7b26c81daf2d
-
-https://distill.pub/2016/handwriting/
-
-https://github.com/tensorflow/magenta-demos/tree/master/sketch-rnn-js
-
-
-#### Synthesis
-
-ml5.js Sketch-RNN [cat synthesizer](https://ml5js.org/docs/sketchrnn-example)<br />
-[![](images/ml5js_cat_rnn.png)](https://ml5js.org/docs/sketchrnn-example)
-
-Coding Train #128 (21'): [Sketch-RNN Snowflakes with ml5.js](https://www.youtube.com/watch?v=pdaNttb7Mr8)<br />
-[![](images/coding-train-sketch-rnn.png)](https://www.youtube.com/watch?v=pdaNttb7Mr8)
 
 #### Interactive Completion etc.
+
+[Four Experiments in Handwriting with a Neural Network](https://distill.pub/2016/handwriting/)
 
 Microsoft, [*ShadowDraw*](https://www.youtube.com/watch?v=zh_-HUdQwow) (2011)<br />
 [![](images/shadowdraw.png)](https://www.youtube.com/watch?v=zh_-HUdQwow)
@@ -235,6 +222,22 @@ Magenta Sketch-RNN [interpolation demo](https://magenta.tensorflow.org/assets/sk
 
 Magenta Sketch-RNN [Demo](https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html) • [Other demos](https://magenta.tensorflow.org/sketch-rnn-demo)
 
+#### Synthesis
+
+ml5.js Sketch-RNN [cat synthesizer](https://ml5js.org/docs/sketchrnn-example)<br />
+[![](images/ml5js_cat_rnn.png)](https://ml5js.org/docs/sketchrnn-example)
+
+Coding Train #128 (21'): [Sketch-RNN Snowflakes with ml5.js](https://www.youtube.com/watch?v=pdaNttb7Mr8)<br />
+[![](images/coding-train-sketch-rnn.png)](https://www.youtube.com/watch?v=pdaNttb7Mr8)
+
+<!--
+http://blog.otoro.net/2017/05/19/teaching-machines-to-draw/
+https://medium.com/@samim/assisted-drawing-7b26c81daf2d
+
+https://github.com/tensorflow/magenta-demos/tree/master/sketch-rnn-js
+-->
+
+<!--
 
 ---
 
@@ -254,6 +257,8 @@ Magenta Sketch-RNN [Demo](https://magenta.tensorflow.org/assets/sketch_rnn_demo/
 Akiva's [*Human Lines*](http://golancourses.net/2016/akiva/04/28/human-lines/) project uses the Kinect skeleton tracking and real-time speech-to-text to enable voice-created lines on the body:<br />
 [![](images/akiva_clap.gif)](https://www.youtube.com/watch?v=B9SiAHSsQCM)<br />
 [![](images/akiva_jump.gif)](https://www.youtube.com/watch?v=B9SiAHSsQCM)<br />
+
+-->
 
 
 ---
