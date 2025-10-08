@@ -9,7 +9,7 @@ Animation recorder
 
 ### Mark-Making is Intuitive
 
-> Not drawings of things, but drawing as exhilarating.
+> Today's particular focus: Not drawings *of* things, but drawing as an exhilarating act.
 
 [![](animals_painting/elephant.gif)](https://www.youtube.com/watch?v=foahTqz7On4) ![](animals_painting/dolphin.gif)
 
@@ -222,6 +222,8 @@ Magenta Sketch-RNN [interpolation demo](https://magenta.tensorflow.org/assets/sk
 
 Magenta Sketch-RNN [Demo](https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html) • [Other demos](https://magenta.tensorflow.org/sketch-rnn-demo)
 
+<!--
+
 #### Synthesis
 
 ml5.js Sketch-RNN [cat synthesizer](https://ml5js.org/docs/sketchrnn-example)<br />
@@ -229,6 +231,18 @@ ml5.js Sketch-RNN [cat synthesizer](https://ml5js.org/docs/sketchrnn-example)<br
 
 Coding Train #128 (21'): [Sketch-RNN Snowflakes with ml5.js](https://www.youtube.com/watch?v=pdaNttb7Mr8)<br />
 [![](images/coding-train-sketch-rnn.png)](https://www.youtube.com/watch?v=pdaNttb7Mr8)
+
+-->
+
+---
+
+An animation tool I made yesterday:
+
+* [plottimation GIF generator](https://editor.p5js.org/golan/sketches/KpB0k7Pu7)
+* [grid-animation-svg-generator](https://editor.p5js.org/golan/sketches/Lv53d3TZw)
+
+
+
 
 <!--
 http://blog.otoro.net/2017/05/19/teaching-machines-to-draw/
