@@ -249,4 +249,6 @@ Additional References
 
 ![kwade-clock.jpg](images/kwade-clock.jpg)
 
+![colour_venn_by_mrjoneswatches.jpg](images/colour_venn_by_mrjoneswatches.jpg)
+
 
