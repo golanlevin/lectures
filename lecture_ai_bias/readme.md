@@ -4,7 +4,6 @@
 
 ---
 
-imagenet.png
 
 [Excavating AI by Kate Crawford and Trevor Paglen](https://www.youtube.com/watch?v=P4JpD1PWBDI)
 
