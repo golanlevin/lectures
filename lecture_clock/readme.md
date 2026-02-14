@@ -51,7 +51,7 @@ We see this again in the *10-Hour Flux Clock* by George Maciunas (1969):<br />
 
 Let’s begin with something simple. The [Colour Clock](http://www.thecolourclock.com/) displays the current time as a hexadecimal color. Hours = red, minutes = green, seconds = blue. There you go. In case you were wondering, more than several people have thought of this idea. Low hanging fruit.
 
-Here's another very simple clock, [*hms*](https://www.gysin-vanetti.com/hms/) by Andreas Gysin (2010), which maps the time to the dimensions (lwh) of a rectangular solid. The piece can be seen [live online here](https://www.gysin-vanetti.com/hms/)<br />![gysin-hms.gif](images/gysin-hms.gif)
+Here's another very simple clock, [*hms*](https://hms.gysin-vanetti.com/) by Andreas Gysin (2010), which straightforwardly maps the time to the dimensions (lwh) of a rectangular solid. The piece can be seen [live online here](https://hms.gysin-vanetti.com/).<br />![gysin-hms.gif](images/gysin-hms.gif)
 
 Much of this kind of investigation began with John Maeda’s highly influential [*12 O’Clocks*](http://www.maedastudio.com/2004/rbooks2k/twelve.html) software from 1996. [Here’s a video](https://www.youtube.com/watch?v=nA_UTUvC4h8&t=240s) (jump to 4’00”), and here are individual GIF recordings: [maeda-01](images/maeda/maeda-01.gif), [maeda-02](images/maeda/maeda-02.gif), [maeda-03](images/maeda/maeda-03.gif), [maeda-04](images/maeda/maeda-04.gif), [maeda-05](images/maeda/maeda-05.gif), [maeda-06](images/maeda/maeda-06.gif), [maeda-07](images/maeda/maeda-07.gif), [maeda-08](images/maeda/maeda-08.gif), [maeda-09](images/maeda/maeda-09.gif), [maeda-10](images/maeda/maeda-10.gif), [maeda-11](images/maeda/maeda-11.gif), [maeda-12](images/maeda/maeda-12.gif)<br />![maeda-all.gif](images/maeda/maeda-all.gif)
 
@@ -109,9 +109,12 @@ My student Greg Vassallo made this clock for my class in 2005:<br />
 The [Human Clock](http://www.humanclock.com/) is a clock made from crowdsourced photographs that feature the current time.<br />
 [![](images/1231.jpg)](http://www.humanclock.com/)
 
-A well-known ‘crowdsourced’ clock (in a different sense) is Christian Marclay’s [*Clock*](https://www.youtube.com/watch?v=0gSwtr3E4Fo), a 24-hour film made up of about seven thousand clips, each of which either says or displays the (actual) time of day, or which makes a cogent reference to time:
+A well-known ‘crowdsourced’ clock (in a different sense) is Christian Marclay’s [*Clock*](https://www.youtube.com/watch?v=FgPpmaImuEs), a 24-hour film made up of about seven thousand clips, each of which either says or displays the (actual) time of day, or which makes a cogent reference to time:
 
-[![](images/marclay.jpg)](https://www.youtube.com/watch?v=0gSwtr3E4Fo)
+[![](images/marclay.jpg)](https://www.youtube.com/watch?v=FgPpmaImuEs)<br />[Documentary](https://www.youtube.com/watch?v=FgPpmaImuEs), [Clip](https://www.youtube.com/watch?v=9mJW2VVOaC0), [Clip](https://www.youtube.com/watch?v=0gSwtr3E4Fo)
+
+
+
 
 ---
 
@@ -190,11 +193,14 @@ Taiwanese designer Yen-Wen Tseng has designed a clock, [*Hand in Hand*](http://w
 [*Center Clock*](http://leebyron.com/centerclock/) by Lee Byron (2007)<br />
 [![](images/lee_byron_center_clock.gif)](http://leebyron.com/centerclock/)
 
-[*QR Clock*](https://qr-clock.glitch.me/) by QRPlanet<br />
-[![](images/qr_clock.gif)](https://qr-clock.glitch.me/)
+[*QR Clock*](https://qrclock.live/)<br />
+[![](images/qr_clock.gif)](https://qrclock.live/)
 
-[*Time Machine*](http://www.todayandtomorrow.net/2013/06/14/time-machine/) by Daniel Duarte<br />
-[![](images/daniel_duarte_time_machine.gif)](http://www.todayandtomorrow.net/2013/06/14/time-machine/)
+[Clocks by Space.Filler.Art](https://www.instagram.com/p/DKqpuZYO4mi/) (Alex Miller) and *[Strange Time](https://strange-time.com/)* exhibition<br />
+[![space-filler-clock.gif](images/space-filler-clock.gif)](https://www.instagram.com/p/DKqpuZYO4mi/)
+
+[*Time Machine*](https://www.danielduarte.pt/portfolio/time-machine) by Daniel Duarte<br />
+[![](images/daniel_duarte_time_machine.gif)](https://www.danielduarte.pt/portfolio/time-machine)
 
 [*L'Ora X Clock*](https://www.moma.org/collection/works/3696?locale=en) by Bruno Munari (1945)<br />
 [![](images/munari.jpg)](https://www.moma.org/collection/works/3696?locale=en)
@@ -208,8 +214,8 @@ Taiwanese designer Yen-Wen Tseng has designed a clock, [*Hand in Hand*](http://w
 [*Personal Timekeeper*](http://i-s-o-p-t.com/2015/07/21/CircleofMoment/) by Taeyoon Choi & E Roon<br />
 [![](images/taeyoon.jpg)](http://i-s-o-p-t.com/2015/07/21/CircleofMoment/)
 
-[*Ten Things I Can Count On*](http://electronicsculpture.brucecannon.org/sculptures/ten_things/ten_things_i_can_count_on.htm) by Bruce Cannon<br />
-[![](images/ten_things_breaths_taken.jpg)](http://electronicsculpture.brucecannon.org/sculptures/ten_things/ten_things_i_can_count_on.htm)
+[*Ten Things I Can Count On*](https://brucecannon.com/art/#ten-things-i-can-count-on-1993) by Bruce Cannon<br />
+[![](images/ten_things_breaths_taken.jpg)](https://brucecannon.com/art/#ten-things-i-can-count-on-1993)
 
 [*Zero Noon*](http://lozano-hemmer.com/zero_noon.php) by Rafael Lozano-Hemmer<br />
 [![](images/rafael.jpg)](http://lozano-hemmer.com/zero_noon.php)
@@ -234,14 +240,12 @@ Additional References
 
 ---
 
-### Landfill
+### Unsorted Additional Clocks
 
-* [Kinetic clock](https://www.instagram.com/reel/DLSIHbfIfGM/?utm_source=ig_web_copy_link)
-* [Clocks by Space.Filler.Art](https://www.instagram.com/p/DKqpuZYO4mi/) (Alex Miller) and *[Strange Time](https://strange-time.com/)* exhibition
-* [AI Poetry Clock](https://www.kickstarter.com/projects/genmon/poem-1-the-ai-poetry-clock)
+[AI Poetry Clock](https://www.kickstarter.com/projects/genmon/poem-1-the-ai-poetry-clock)<br />![ai-poem-clock.jpg](images/ai-poem-clock.jpg)
+
+
 * [Flood Fill Clock](https://vimeo.com/16216790), Jurg Lehni, 2008
-
-![ai-poetry-clock.jpg](images/ai-poetry-clock.jpg)
 
 * [Alicja_Kwade-clock.gif](https://alicjakwade.com/exhibitions/against-the-run) - Against the Run and [Gegen den Lauf](https://alicjakwade.com/works/gegen_den_lauf) by Alicja Kwade
 
