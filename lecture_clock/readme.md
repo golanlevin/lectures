@@ -244,9 +244,8 @@ Additional References
 
 [AI Poetry Clock](https://www.kickstarter.com/projects/genmon/poem-1-the-ai-poetry-clock)<br />![ai-poem-clock.jpg](images/ai-poem-clock.jpg)
 
-
 * [Flood Fill Clock](https://vimeo.com/16216790), Jurg Lehni, 2008
-
+* [https://www.instagram.com/p/DVbn1nrDDGR/](https://www.instagram.com/p/DVbn1nrDDGR/)
 * [Alicja_Kwade-clock.gif](https://alicjakwade.com/exhibitions/against-the-run) - Against the Run and [Gegen den Lauf](https://alicjakwade.com/works/gegen_den_lauf) by Alicja Kwade
 
 ![Alicja_Kwade-clock.gif](images/Alicja_Kwade-clock.gif)
@@ -254,5 +253,7 @@ Additional References
 ![kwade-clock.jpg](images/kwade-clock.jpg)
 
 ![colour_venn_by_mrjoneswatches.jpg](images/colour_venn_by_mrjoneswatches.jpg)
+
+
 
 
