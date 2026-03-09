@@ -247,6 +247,7 @@ Additional References
 * [Flood Fill Clock](https://vimeo.com/16216790), Jurg Lehni, 2008
 * [https://www.instagram.com/p/DVbn1nrDDGR/](https://www.instagram.com/p/DVbn1nrDDGR/)
 * [Alicja_Kwade-clock.gif](https://alicjakwade.com/exhibitions/against-the-run) - Against the Run and [Gegen den Lauf](https://alicjakwade.com/works/gegen_den_lauf) by Alicja Kwade
+* [Selina Kehuan Wu timepiece collection](https://www.are.na/selina-kehuan-wu/timepiece-nazj5ij8wwq)
 
 ![Alicja_Kwade-clock.gif](images/Alicja_Kwade-clock.gif)
 
